@@ -226,7 +226,7 @@
     <th>SE</th>
     <th></th>
     <th>種</th>
-    <th>100*2*2</th>
+    <th>50*2*2</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>●</td><td>　</td>
