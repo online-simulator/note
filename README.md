@@ -16,7 +16,7 @@
     <th>区画</th>
     <th>トンネル</th>
     <th>種苗</th>
-    <th>個*条*列数</th>
+    <th>個*条*畝数</th>
     <th colspan="3">01月</th>
     <th colspan="3">02月</th>
     <th colspan="3">03月</th>
@@ -148,7 +148,7 @@
   <tr>
     <th>キャベツ</th>
     <th>SW</th>
-    <th>あり</th>
+    <th>有</th>
     <th>苗</th>
     <th>15*2*1</th>
     <td>　</td><td>　</td><td>　</td>
@@ -167,7 +167,7 @@
   <tr>
     <th>そら豆</th>
     <th>SW</th>
-    <th>あり</th>
+    <th>有</th>
     <th>苗</th>
     <th>15*1*1</th>
     <td>　</td><td>　</td><td>　</td>
@@ -186,7 +186,7 @@
   <tr>
     <th>ブロッコリー</th>
     <th>SW</th>
-    <th>あり</th>
+    <th>有</th>
     <th>苗</th>
     <th>4*1*1</th>
     <td>　</td><td>　</td><td>　</td>
@@ -205,7 +205,7 @@
   <tr>
     <th>セロリ</th>
     <th>NW</th>
-    <th>あり</th>
+    <th>有</th>
     <th>苗</th>
     <th>10*1*1</th>
     <td>　</td><td>　</td><td>　</td>
