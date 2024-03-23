@@ -54,7 +54,7 @@
   <tr>
     <th rowspan="2">人参</th>
     <th>NE</th>
-    <th></th>
+    <th>有</th>
     <th>種</th>
     <th>20*3*1</th>
     <td>●</td><td>　</td><td>○</td>
