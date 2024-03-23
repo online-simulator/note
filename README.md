@@ -17,18 +17,18 @@
     <th>トンネル</th>
     <th>種苗</th>
     <th>個*条*列数</th>
-    <th colspan="3">01</th>
-    <th colspan="3">02</th>
-    <th colspan="3">03</th>
-    <th colspan="3">04</th>
-    <th colspan="3">05</th>
-    <th colspan="3">06</th>
-    <th colspan="3">07</th>
-    <th colspan="3">08</th>
-    <th colspan="3">09</th>
-    <th colspan="3">10</th>
-    <th colspan="3">11</th>
-    <th colspan="3">12</th>
+    <th colspan="3">01月</th>
+    <th colspan="3">02月</th>
+    <th colspan="3">03月</th>
+    <th colspan="3">04月</th>
+    <th colspan="3">05月</th>
+    <th colspan="3">06月</th>
+    <th colspan="3">07月</th>
+    <th colspan="3">08月</th>
+    <th colspan="3">09月</th>
+    <th colspan="3">10月</th>
+    <th colspan="3">11月</th>
+    <th colspan="3">12月</th>
   </tr>
 </thead>
 <tbody>
