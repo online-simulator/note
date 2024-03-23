@@ -1,1 +1,22 @@
 @charset "UTF-8";
+
+tbody th{
+  color:            #111111;
+  background:       #b4fea9;
+  background-color: #b4fea9;
+}
+thead tr:nth-of-type(1){
+  color:            #111111;
+  background:       #ffbb38;
+  background-color: #ffbb38;
+}
+td:nth-of-type(6n+1), td:nth-of-type(6n+2), td:nth-of-type(6n+3){
+  color:            #111111;
+  background:       #f6ffa3;
+  background-color: #f6ffa3;
+}
+td:nth-of-type(6n+4), td:nth-of-type(6n+5), td:nth-of-type(6n+6){
+  background:       #eeeeee;
+  background-color: #eeeeee;
+  border-color:     #000000;
+}

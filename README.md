@@ -8,7 +8,7 @@
   <link rel="stylesheet" type="text/css" href="css/color.css">
   <link rel="stylesheet" type="text/css" href="css/size.css">
 <body>
-<table border="1">
+<table>
 <caption>2024年　●種まき　▲定植　〇発芽　■収穫</caption>
 <thead>
   <tr>
