@@ -115,7 +115,7 @@
     <th>30*2*1</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>●</td>
-        <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>○</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -245,7 +245,7 @@
     <th>NW</th>
     <th></th>
     <th>種</th>
-    <th>30*3*1</th>
+    <th>30*4*1</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>●</td><td>　</td>
