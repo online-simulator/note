@@ -248,7 +248,7 @@
     <th>30*4*1</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>●</td><td>　</td>
+        <td>　</td><td>●</td><td>○</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
