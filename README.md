@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="css/size.css">
 <body>
 <table>
-<caption>2024年　●種まき　▲定植　○発芽　■収穫</caption>
+<caption>2024年　▽土作り　●種まき　▲定植　○発芽　■収穫</caption>
 <thead>
   <tr>
     <th>品種</th>
@@ -318,10 +318,10 @@
     <th></th>
     <th></th>
     <th></th>
-    <th>菊・土作り2week</th>
+    <th>菊</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>▽</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -334,7 +334,7 @@
   </tr>
   <tr>
     <th>ミョウガ</th>
-    <th>SE</th>
+    <th>SW</th>
     <th></th>
     <th></th>
     <th></th>
