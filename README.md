@@ -38,8 +38,8 @@
     <th>NE</th>
     <th></th>
     <th></th>
-    <th></th>
-    <th>畦道の中心線</th>
+    <th>1</th>
+    <th>水道・畦道</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>■</td>
@@ -58,7 +58,7 @@
     <th>E</th>
     <th></th>
     <th></th>
-    <th></th>
+    <th>2+2+1</th>
     <th>甘柿接ぎ木</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
