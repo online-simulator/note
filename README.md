@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="css/size.css">
 <body>
 <table>
-<caption>2024年　●種まき　▲定植　〇発芽　■収穫</caption>
+<caption>2024年　●種まき　▲定植　○発芽　■収穫</caption>
 <thead>
   <tr>
     <th>品種</th>
@@ -17,6 +17,7 @@
     <th>トンネル</th>
     <th>種苗</th>
     <th>個*条*畝数</th>
+    <th>備考</th>
     <th colspan="3">01月</th>
     <th colspan="3">02月</th>
     <th colspan="3">03月</th>
@@ -33,14 +34,55 @@
 </thead>
 <tbody>
   <tr>
+    <th>金柑</th>
+    <th>NE</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>畦道の中心線</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>■</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>柿</th>
+    <th>E</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>甘柿接ぎ木</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
     <th>ネギ</th>
     <th>SE</th>
     <th></th>
     <th>苗</th>
     <th>10*1*4</th>
+    <th>株分け</th>
     <td>　</td><td>▲</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>■</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -57,6 +99,7 @@
     <th>有</th>
     <th>種</th>
     <th>20*3*1</th>
+    <th>芽かき</th>
     <td>●</td><td>　</td><td>○</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -75,6 +118,7 @@
     <th></th>
     <th>種</th>
     <th>20*3*1</th>
+    <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>●</td><td>　</td><td>○</td>
         <td>　</td><td>　</td><td>　</td>
@@ -94,9 +138,10 @@
     <th></th>
     <th>種</th>
     <th>10*1*4</th>
+    <th>芽かき・追肥・土寄せ</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>●</td><td>　</td>
-        <td>　</td><td>〇</td><td>　</td>
+        <td>　</td><td>○</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -113,6 +158,7 @@
     <th></th>
     <th>種</th>
     <th>30*2*1</th>
+    <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>●</td>
         <td>　</td><td>　</td><td>○</td>
@@ -129,13 +175,14 @@
   <tr>
     <th>小松菜</th>
     <th>NW</th>
-    <th></th>
+    <th>∩</th>
     <th>種</th>
     <th>50*3*1</th>
+    <th>ニンニク・重曹</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>●</td>
-        <td>　</td><td>　</td><td>〇</td>
-          <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>○</td>
+          <td>∩</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -151,6 +198,7 @@
     <th>有</th>
     <th>苗</th>
     <th>15*2*1</th>
+    <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>▲</td><td>　</td>
@@ -170,6 +218,7 @@
     <th>有</th>
     <th>苗</th>
     <th>15*1*1</th>
+    <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>▲</td><td>　</td>
@@ -189,6 +238,7 @@
     <th>有</th>
     <th>苗</th>
     <th>4*1*1</th>
+    <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>▲</td><td>　</td>
@@ -208,6 +258,7 @@
     <th>有</th>
     <th>苗</th>
     <th>10*1*1</th>
+    <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>▲</td><td>　</td>
@@ -227,9 +278,10 @@
     <th></th>
     <th>種</th>
     <th>50*2*2</th>
+    <th>トンネル</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>●</td><td>　</td>
+        <td>　</td><td>●</td><td>○</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -246,9 +298,50 @@
     <th></th>
     <th>種</th>
     <th>30*4*1</th>
+    <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>●</td><td>○</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>枝豆</th>
+    <th>SE</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>菊・土作り2week</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>ミョウガ</th>
+    <th>SE</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>網掛け</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
