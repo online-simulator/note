@@ -80,7 +80,7 @@
     <th>苗</th>
     <th>10*1*4</th>
     <th>株分け</th>
-    <td>　</td><td>▲</td><td>　</td>
+    <td>▽</td><td>▲</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>■</td>
           <td>　</td><td>　</td><td>　</td>
@@ -119,7 +119,7 @@
     <th>種</th>
     <th>20*3*1</th>
     <th></th>
-    <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>▽</td><td>　</td>
       <td>●</td><td>　</td><td>○</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -139,7 +139,7 @@
     <th>種</th>
     <th>10*1*4</th>
     <th>芽かき・追肥・土寄せ</th>
-    <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>▽</td>
       <td>　</td><td>●</td><td>　</td>
         <td>　</td><td>○</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -200,7 +200,7 @@
     <th>15*2*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
-      <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>▽</td>
         <td>　</td><td>▲</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -220,7 +220,7 @@
     <th>15*1*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
-      <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>▽</td>
         <td>　</td><td>▲</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -240,7 +240,7 @@
     <th>4*1*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
-      <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>▽</td>
         <td>　</td><td>▲</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -260,7 +260,7 @@
     <th>10*1*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
-      <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>▽</td>
         <td>　</td><td>▲</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -280,7 +280,7 @@
     <th>50*2*2</th>
     <th>トンネル</th>
     <td>　</td><td>　</td><td>　</td>
-      <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>▽</td>
         <td>　</td><td>●</td><td>○</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
