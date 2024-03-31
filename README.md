@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="css/size.css">
 <body>
 <table>
-<caption>2024年　▽土作り　●種まき　▲定植　○発芽　■収穫</caption>
+<caption>2024年　▽土作り　●種まき　▲定植　○発芽　△芽かき　■収穫</caption>
 <thead>
   <tr>
     <th>品種</th>
@@ -74,6 +74,26 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
+    <th>菊</th>
+    <th>SE</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>株分け</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
     <th>ネギ</th>
     <th>SE</th>
     <th></th>
@@ -99,10 +119,10 @@
     <th>有</th>
     <th>種</th>
     <th>20*3*1</th>
-    <th>芽かき</th>
+    <th></th>
     <td>●</td><td>　</td><td>○</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>△</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -178,7 +198,7 @@
     <th>∩</th>
     <th>種</th>
     <th>50*3*1</th>
-    <th>ニンニク・重曹</th>
+    <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>●</td>
         <td>　</td><td>　</td><td>○</td>
@@ -275,14 +295,14 @@
   <tr>
     <th>カブ</th>
     <th>SE</th>
-    <th></th>
+    <th>∩</th>
     <th>種</th>
     <th>50*2*2</th>
-    <th>トンネル</th>
+    <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>▽</td>
         <td>　</td><td>●</td><td>○</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>∩</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -318,11 +338,11 @@
     <th></th>
     <th></th>
     <th></th>
-    <th>菊</th>
+    <th>石灰・肥料</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>▽</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>▽</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -335,14 +355,34 @@
   <tr>
     <th>ミョウガ</th>
     <th>SW</th>
+    <th>網</th>
     <th></th>
     <th></th>
     <th></th>
-    <th>網掛け</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>網</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>ニンニク</th>
+    <th>SW</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>肥料・重曹</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>∩</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
