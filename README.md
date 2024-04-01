@@ -39,7 +39,7 @@
     <th></th>
     <th></th>
     <th>1</th>
-    <th>水道・畦道</th>
+    <th>水道・畦道・風通し</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>■</td>
@@ -79,7 +79,7 @@
     <th></th>
     <th></th>
     <th>2+2+1</th>
-    <th>甘柿接ぎ木</th>
+    <th>甘柿接ぎ木・日当たり</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -143,7 +143,7 @@
     <td>●</td><td>　</td><td>○</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>△</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>△</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
