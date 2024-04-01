@@ -54,6 +54,26 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
+    <th>みかん</th>
+    <th>SW</th>
+    <th></th>
+    <th></th>
+    <th>1</th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
     <th>柿</th>
     <th>E</th>
     <th></th>
@@ -78,12 +98,12 @@
     <th>SE</th>
     <th></th>
     <th></th>
-    <th></th>
-    <th>株分け</th>
+    <th>14*1*1</th>
+    <th>石灰・肥料・株分け</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>　</td><td>　</td>
-          <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>▽</td>
+          <td>▲</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -143,6 +163,26 @@
       <td>●</td><td>　</td><td>○</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>大根</th>
+    <th>SW</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>■</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -323,26 +363,6 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>●</td><td>○</td>
           <td>　</td><td>　</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
-    <td>　</td><td>　</td><td>　</td>
-      <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>　</td><td>　</td>
-          <td>　</td><td>　</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
-  </tr>
-  <tr>
-    <th>枝豆</th>
-    <th>SE</th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th>石灰・肥料</th>
-    <td>　</td><td>　</td><td>　</td>
-      <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>　</td><td>▽</td>
-          <td>▽</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
