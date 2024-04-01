@@ -178,7 +178,7 @@
     <th></th>
     <th></th>
     <th></th>
-    <th></th>
+    <th>土作り・乾燥</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
