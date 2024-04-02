@@ -213,7 +213,26 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>ほうれん草</th>
+    <th rowspan="2">ほうれん草</th>
+    <th>NE</th>
+    <th></th>
+    <th>種</th>
+    <th>50*2*1</th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>■</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
     <th>NW</th>
     <th></th>
     <th>種</th>
