@@ -114,13 +114,32 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>ネギ</th>
+    <th rowspan="2">ネギ</th>
     <th>SE</th>
     <th></th>
     <th>苗</th>
     <th>10*1*4</th>
     <th>株分け</th>
     <td>▽</td><td>▲</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>■</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>SW</th>
+    <th></th>
+    <th></th>
+    <th>10*1*1</th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>■</td>
           <td>　</td><td>　</td><td>　</td>
