@@ -197,11 +197,11 @@
     <th></th>
     <th></th>
     <th></th>
-    <th>土作り・乾燥</th>
+    <th>乾燥⇒肥料</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>■</td><td>　</td><td>　</td>
+          <td>■</td><td>▽</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
