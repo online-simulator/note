@@ -134,7 +134,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>SW</th>
+    <th>SC</th>
     <th></th>
     <th></th>
     <th>10*1*1</th>
@@ -154,7 +154,7 @@
   </tr>
   <tr>
     <th rowspan="2">人参</th>
-    <th>NE</th>
+    <th>NC</th>
     <th>有</th>
     <th>種</th>
     <th>20*3*1</th>
@@ -192,8 +192,8 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>大根</th>
-    <th>SW</th>
+    <th><del>大根</del></th>
+    <th>WC</th>
     <th></th>
     <th></th>
     <th></th>
@@ -213,7 +213,7 @@
   </tr>
   <tr>
     <th>ジャガイモ</th>
-    <th>NE</th>
+    <th>NC<br>CC</th>
     <th></th>
     <th>種</th>
     <th>10*1*4</th>
@@ -221,7 +221,7 @@
     <td>　</td><td>　</td><td>▽</td>
       <td>　</td><td>●</td><td>　</td>
         <td>　</td><td>○</td><td>　</td>
-          <td>△</td><td>　</td><td>　</td>
+          <td>△</td><td>１</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -232,8 +232,8 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th rowspan="2">ほうれん草</th>
-    <th>NE</th>
+    <th rowspan="2"><del>ほうれん草</del></th>
+    <th>EC</th>
     <th></th>
     <th>種</th>
     <th>50*2*1</th>
@@ -241,7 +241,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>■</td><td>■</td><td>　</td>
+          <td>■</td><td>■<br>▽</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -260,7 +260,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>●</td>
         <td>　</td><td>　</td><td>○</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>●</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -352,7 +352,7 @@
   </tr>
   <tr>
     <th>セロリ</th>
-    <th>NW</th>
+    <th>WC</th>
     <th>有</th>
     <th>苗</th>
     <th>10*1*1</th>
@@ -372,7 +372,7 @@
   </tr>
   <tr>
     <th>カブ</th>
-    <th>SE</th>
+    <th>SC</th>
     <th>∩</th>
     <th>種</th>
     <th>50*2*2</th>
@@ -432,7 +432,7 @@
   </tr>
   <tr>
     <th>ニンニク</th>
-    <th>SW</th>
+    <th>WC</th>
     <th></th>
     <th></th>
     <th></th>
@@ -451,8 +451,8 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th></th>
-    <th>S</th>
+    <th>トマト・ナス・きゅうり・枝豆</th>
+    <th>SC</th>
     <th></th>
     <th></th>
     <th></th>
