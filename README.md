@@ -92,9 +92,9 @@
   <tr>
     <th>菊</th>
     <th>SE</th>
-    <th>苗</th>
+    <th>株</th>
     <th>14*1*1</th>
-    <th>株分け</th>
+    <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>▽</td>
@@ -111,9 +111,9 @@
   <tr>
     <th>ネギ</th>
     <th>SE</th>
-    <th>苗</th>
+    <th>株</th>
     <th>10*1*4</th>
-    <th>株分け</th>
+    <th></th>
     <td>▽</td><td>▲</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>■</td>
@@ -149,7 +149,7 @@
   <tr>
     <th>人参</th>
     <th>NC</th>
-    <th>種</th>
+    <th>条</th>
     <th>20*3*1</th>
     <th></th>
     <td>●<br>∩</td><td>　</td><td>○</td>
@@ -168,7 +168,7 @@
   <tr>
     <th>人参</th>
     <th>SW</th>
-    <th>種</th>
+    <th>点</th>
     <th>20*3*1</th>
     <th></th>
     <td>　</td><td>▽</td><td>　</td>
@@ -225,7 +225,7 @@
   <tr>
     <th><del>ほうれん草</del></th>
     <th>EC</th>
-    <th>種</th>
+    <th></th>
     <th>50*2*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
@@ -244,9 +244,9 @@
   <tr>
     <th>ほうれん草</th>
     <th>NW</th>
-    <th>種</th>
+    <th>点<br>条</th>
     <th>30*2*1<br>50*3*1</th>
-    <th>点まき<br>条まき</th>
+    <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>●</td>
         <td>　</td><td>　</td><td>○</td>
@@ -263,7 +263,7 @@
   <tr>
     <th>小松菜</th>
     <th>NW</th>
-    <th>種</th>
+    <th>点</th>
     <th>50*3*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
@@ -358,7 +358,7 @@
   <tr>
     <th>カブ</th>
     <th>SC</th>
-    <th>種</th>
+    <th>点</th>
     <th>50*2*2</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
@@ -377,7 +377,7 @@
   <tr>
     <th>赤カブ</th>
     <th>NW</th>
-    <th>種</th>
+    <th>条</th>
     <th>30*4*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
