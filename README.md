@@ -9,12 +9,11 @@
   <link rel="stylesheet" type="text/css" href="css/size.css">
 <body>
 <table>
-<caption>2024年　▽土作り　●種まき　▲定植　○発芽　△芽かき　■収穫</caption>
+<caption>2024年　▽土作り　●種まき　▲定植　∩トンネル　○発芽　△芽かき　■収穫</caption>
 <thead>
   <tr>
     <th>品種</th>
     <th>区画</th>
-    <th>トンネル</th>
     <th>種苗</th>
     <th>個*条*畝数</th>
     <th>備考</th>
@@ -37,7 +36,6 @@
     <th>金柑</th>
     <th>NE</th>
     <th></th>
-    <th></th>
     <th>1</th>
     <th>水道・畦道・風通し</th>
     <td>　</td><td>　</td><td>　</td>
@@ -56,7 +54,6 @@
   <tr>
     <th>みかん</th>
     <th>SW</th>
-    <th></th>
     <th></th>
     <th>1</th>
     <th></th>
@@ -77,7 +74,6 @@
     <th>柿</th>
     <th>E</th>
     <th></th>
-    <th></th>
     <th>2+2+1</th>
     <th>甘柿接ぎ木・日当たり</th>
     <td>　</td><td>　</td><td>　</td>
@@ -96,10 +92,9 @@
   <tr>
     <th>菊</th>
     <th>SE</th>
-    <th></th>
-    <th></th>
+    <th>苗</th>
     <th>14*1*1</th>
-    <th>石灰・肥料・株分け</th>
+    <th>株分け</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>▽</td>
@@ -116,7 +111,6 @@
   <tr>
     <th>ネギ</th>
     <th>SE</th>
-    <th></th>
     <th>苗</th>
     <th>10*1*4</th>
     <th>株分け</th>
@@ -137,7 +131,6 @@
     <th>ネギ</th>
     <th>SC</th>
     <th></th>
-    <th></th>
     <th>10*1*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
@@ -156,12 +149,11 @@
   <tr>
     <th>人参</th>
     <th>NC</th>
-    <th>有</th>
     <th>種</th>
     <th>20*3*1</th>
     <th></th>
-    <td>●</td><td>　</td><td>○</td>
-      <td>　</td><td>　</td><td>　</td>
+    <td>●<br>∩</td><td>　</td><td>○</td>
+      <td>　</td><td><del>∩</del></td><td>　</td>
         <td>　</td><td>　</td><td>△</td>
           <td>△</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -176,7 +168,6 @@
   <tr>
     <th>人参</th>
     <th>SW</th>
-    <th></th>
     <th>種</th>
     <th>20*3*1</th>
     <th></th>
@@ -198,7 +189,6 @@
     <th>WC</th>
     <th></th>
     <th></th>
-    <th></th>
     <th>乾燥⇒肥料</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -216,7 +206,6 @@
   <tr>
     <th>ジャガイモ</th>
     <th>NC<br>CC</th>
-    <th></th>
     <th>種</th>
     <th>10*1*4</th>
     <th>芽かき・追肥・土寄せ</th>
@@ -236,7 +225,6 @@
   <tr>
     <th><del>ほうれん草</del></th>
     <th>EC</th>
-    <th></th>
     <th>種</th>
     <th>50*2*1</th>
     <th></th>
@@ -256,7 +244,6 @@
   <tr>
     <th>ほうれん草</th>
     <th>NW</th>
-    <th></th>
     <th>種</th>
     <th>30*2*1</th>
     <th></th>
@@ -276,7 +263,6 @@
   <tr>
     <th>小松菜</th>
     <th>NW</th>
-    <th>∩</th>
     <th>種</th>
     <th>50*3*1</th>
     <th></th>
@@ -296,13 +282,12 @@
   <tr>
     <th>キャベツ</th>
     <th>SW</th>
-    <th>有</th>
     <th>苗</th>
     <th>15*2*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>▽</td>
-        <td>　</td><td>▲</td><td>　</td>
+        <td>　</td><td>▲<br>∩</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -316,13 +301,12 @@
   <tr>
     <th>そら豆</th>
     <th>SW</th>
-    <th>有</th>
     <th>苗</th>
     <th>15*1*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>▽</td>
-        <td>　</td><td>▲</td><td>　</td>
+        <td>　</td><td>▲<br>∩</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -336,13 +320,12 @@
   <tr>
     <th>ブロッコリー</th>
     <th>SW</th>
-    <th>有</th>
     <th>苗</th>
     <th>4*1*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>▽</td>
-        <td>　</td><td>▲</td><td>　</td>
+        <td>　</td><td>▲<br>∩</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -356,13 +339,12 @@
   <tr>
     <th>セロリ</th>
     <th>WC</th>
-    <th>有</th>
     <th>苗</th>
     <th>10*1*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>▽</td>
-        <td>　</td><td>▲</td><td>　</td>
+        <td>　</td><td>▲<br>∩</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -376,7 +358,6 @@
   <tr>
     <th>カブ</th>
     <th>SC</th>
-    <th>∩</th>
     <th>種</th>
     <th>50*2*2</th>
     <th></th>
@@ -396,7 +377,6 @@
   <tr>
     <th>赤カブ</th>
     <th>NW</th>
-    <th></th>
     <th>種</th>
     <th>30*4*1</th>
     <th></th>
@@ -416,7 +396,6 @@
   <tr>
     <th>ミョウガ</th>
     <th>SW</th>
-    <th>網</th>
     <th></th>
     <th></th>
     <th></th>
@@ -438,7 +417,6 @@
     <th>WC</th>
     <th></th>
     <th></th>
-    <th></th>
     <th>肥料・重曹</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -456,7 +434,6 @@
   <tr>
     <th>トマト・ナス・きゅうり・枝豆</th>
     <th>SC</th>
-    <th></th>
     <th></th>
     <th></th>
     <th>石灰・肥料</th>
