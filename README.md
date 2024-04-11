@@ -114,7 +114,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th rowspan="2">ネギ</th>
+    <th>ネギ</th>
     <th>SE</th>
     <th></th>
     <th>苗</th>
@@ -134,6 +134,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
+    <th>ネギ</th>
     <th>SC</th>
     <th></th>
     <th></th>
@@ -153,7 +154,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th rowspan="2">人参</th>
+    <th>人参</th>
     <th>NC</th>
     <th>有</th>
     <th>種</th>
@@ -173,6 +174,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
+    <th>人参</th>
     <th>SW</th>
     <th></th>
     <th>種</th>
@@ -232,7 +234,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th rowspan="2"><del>ほうれん草</del></th>
+    <th><del>ほうれん草</del></th>
     <th>EC</th>
     <th></th>
     <th>種</th>
@@ -252,6 +254,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
+    <th>ほうれん草</th>
     <th>NW</th>
     <th></th>
     <th>種</th>
