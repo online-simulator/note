@@ -245,8 +245,8 @@
     <th>ほうれん草</th>
     <th>NW</th>
     <th>種</th>
-    <th>30*2*1</th>
-    <th></th>
+    <th>30*2*1<br>50*3*1</th>
+    <th>点まき<br>条まき</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>●</td>
         <td>　</td><td>　</td><td>○</td>
@@ -269,7 +269,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>●</td>
         <td>　</td><td>　</td><td>○<br>∩</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>虫</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
