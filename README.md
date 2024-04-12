@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="css/size.css">
 <body>
 <table>
-<caption>2024年　▽土作り　●種まき　▲定植　∩トンネル　○発芽　△芽かき　■収穫</caption>
+<caption>2024年<br>[土]作り　[芽]かき　[種]まき　定[植]　∩トンネル　○◎発芽　■収穫</caption>
 <thead>
   <tr>
     <th>品種</th>
@@ -97,8 +97,8 @@
     <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>　</td><td>▽</td>
-          <td>▲</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>土</td>
+          <td>植</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -114,7 +114,7 @@
     <th>株</th>
     <th>10*1*4</th>
     <th></th>
-    <td>▽</td><td>▲</td><td>　</td>
+    <td>土</td><td>植</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>■</td>
           <td>　</td><td>　</td><td>　</td>
@@ -152,10 +152,10 @@
     <th>条</th>
     <th>20*3*1</th>
     <th></th>
-    <td>●<br>∩</td><td>　</td><td>○</td>
+    <td>種<br>∩</td><td>　</td><td>◎</td>
       <td>　</td><td><del>∩</del></td><td>　</td>
-        <td>　</td><td>　</td><td>△</td>
-          <td>△</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>芽</td>
+          <td>芽</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -171,8 +171,8 @@
     <th>点</th>
     <th>20*3*1</th>
     <th></th>
-    <td>　</td><td>▽</td><td>　</td>
-      <td>●</td><td>　</td><td>○</td>
+    <td>　</td><td>土</td><td>　</td>
+      <td>種</td><td>　</td><td>◎</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -193,7 +193,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>■<br>▽</td><td>　</td><td>　</td>
+          <td>■<br>土</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -209,10 +209,10 @@
     <th>種</th>
     <th>10*1*4</th>
     <th>芽かき・追肥・土寄せ</th>
-    <td>　</td><td>　</td><td>▽</td>
-      <td>　</td><td>●</td><td>　</td>
-        <td>　</td><td>○</td><td>　</td>
-          <td>△</td><td>１</td><td>　</td>
+    <td>　</td><td>　</td><td>土</td>
+      <td>　</td><td>種</td><td>　</td>
+        <td>　</td><td>◎</td><td>　</td>
+          <td>芽</td><td>土</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -231,7 +231,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>■</td><td>■<br>▽</td><td>　</td>
+          <td>■</td><td>■<br>土</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -248,9 +248,9 @@
     <th>30*2*1<br>50*3*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
-      <td>　</td><td>　</td><td>●</td>
+      <td>　</td><td>　</td><td>種</td>
         <td>　</td><td>　</td><td>○</td>
-          <td>　</td><td>●</td><td>　</td>
+          <td>　</td><td>種</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -267,8 +267,8 @@
     <th>50*3*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
-      <td>　</td><td>　</td><td>●</td>
-        <td>　</td><td>　</td><td>○<br>∩</td>
+      <td>　</td><td>　</td><td>種</td>
+        <td>　</td><td>　</td><td>◎<br>∩</td>
           <td>虫</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -286,8 +286,8 @@
     <th>15*2*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
-      <td>　</td><td>　</td><td>▽</td>
-        <td>　</td><td>▲<br>∩</td><td>　</td>
+      <td>　</td><td>　</td><td>土</td>
+        <td>　</td><td>植<br>∩</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -305,8 +305,8 @@
     <th>15*1*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
-      <td>　</td><td>　</td><td>▽</td>
-        <td>　</td><td>▲<br>∩</td><td>　</td>
+      <td>　</td><td>　</td><td>土</td>
+        <td>　</td><td>植<br>∩</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -324,8 +324,8 @@
     <th>4*1*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
-      <td>　</td><td>　</td><td>▽</td>
-        <td>　</td><td>▲<br>∩</td><td>　</td>
+      <td>　</td><td>　</td><td>土</td>
+        <td>　</td><td>植<br>∩</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -343,8 +343,8 @@
     <th>10*1*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
-      <td>　</td><td>　</td><td>▽</td>
-        <td>　</td><td>▲<br>∩</td><td>　</td>
+      <td>　</td><td>　</td><td>土</td>
+        <td>　</td><td>植<br>∩</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -362,8 +362,8 @@
     <th>50*2*2</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
-      <td>　</td><td>　</td><td>▽</td>
-        <td>　</td><td>●</td><td>○</td>
+      <td>　</td><td>　</td><td>土</td>
+        <td>　</td><td>種</td><td>◎</td>
           <td>∩</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -382,7 +382,7 @@
     <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>●</td><td>○</td>
+        <td>　</td><td>種</td><td>◎</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -440,7 +440,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>▽</td><td>　</td><td>　</td>
+          <td>土</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
