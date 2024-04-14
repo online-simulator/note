@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="css/size.css">
 <body>
 <table>
-<caption>2024年<br>[土]作り　[芽]かき　[種]まき　定[植]　∩トンネル　○◎発芽　■収穫</caption>
+<caption>2024年<br>[土]作り　[芽]かき　[種]まき　定[植]　[重]曹　∩トンネル　○◎発芽　■収穫</caption>
 <thead>
   <tr>
     <th>品種</th>
@@ -79,7 +79,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>芽</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -117,7 +117,7 @@
     <td>土</td><td>植</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>■</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>■</td><td>土</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -136,7 +136,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>■</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>■</td><td>土</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -269,7 +269,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>種</td>
         <td>　</td><td>　</td><td>◎<br>∩</td>
-          <td>虫</td><td>　</td><td>　</td>
+          <td>虫</td><td>重</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -364,7 +364,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>土</td>
         <td>　</td><td>種</td><td>◎</td>
-          <td>∩</td><td>　</td><td>　</td>
+          <td>∩</td><td>重</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -432,7 +432,26 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>トマト・ナス・きゅうり・枝豆</th>
+    <th>トマト・ナス</th>
+    <th>EC</th>
+    <th></th>
+    <th></th>
+    <th>石灰・肥料</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>土</td><td>土</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>きゅうり・コーン・オクラ・枝豆</th>
     <th>SC</th>
     <th></th>
     <th></th>
@@ -440,7 +459,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>土</td><td>　</td><td>　</td>
+          <td>土</td><td>土</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
