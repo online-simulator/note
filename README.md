@@ -136,7 +136,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>■</td>
-          <td>■</td><td>　</td><td>　</td>
+          <td>■</td><td>■</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -250,7 +250,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>種</td>
         <td>　</td><td>　</td><td>○</td>
-          <td>　</td><td>種</td><td>　</td>
+          <td>　</td><td>種<br>◎</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -269,7 +269,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>種</td>
         <td>　</td><td>　</td><td>◎<br>∩</td>
-          <td>虫</td><td>重</td><td>　</td>
+          <td>虫</td><td>土<br>重</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -364,7 +364,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>土</td>
         <td>　</td><td>種</td><td>◎</td>
-          <td>∩</td><td>重</td><td>　</td>
+          <td>∩</td><td>土<br>重</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
