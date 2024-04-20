@@ -13,6 +13,7 @@
 <thead>
   <tr>
     <th>品種</th>
+    <th>写真</th>
     <th>区画</th>
     <th>種苗</th>
     <th>個*条*畝数</th>
@@ -34,6 +35,7 @@
 <tbody>
   <tr>
     <th>金柑</th>
+    <th></th>
     <th>NE</th>
     <th></th>
     <th>1</th>
@@ -53,6 +55,7 @@
   </tr>
   <tr>
     <th>みかん</th>
+    <th></th>
     <th>SW</th>
     <th></th>
     <th>1</th>
@@ -72,6 +75,7 @@
   </tr>
   <tr>
     <th>柿</th>
+    <th></th>
     <th>E</th>
     <th></th>
     <th>2+2+1</th>
@@ -91,6 +95,7 @@
   </tr>
   <tr>
     <th>菊</th>
+    <th></th>
     <th>SE</th>
     <th>株</th>
     <th>14*1*1</th>
@@ -110,6 +115,7 @@
   </tr>
   <tr>
     <th>ネギ</th>
+    <th></th>
     <th>SE</th>
     <th>株</th>
     <th>10*1*4</th>
@@ -129,6 +135,7 @@
   </tr>
   <tr>
     <th>ネギ</th>
+    <th></th>
     <th>SC</th>
     <th></th>
     <th>10*1*1</th>
@@ -148,6 +155,7 @@
   </tr>
   <tr>
     <th>人参</th>
+    <th></th>
     <th>NC</th>
     <th>条</th>
     <th>20*3*1</th>
@@ -167,6 +175,7 @@
   </tr>
   <tr>
     <th>人参</th>
+    <th></th>
     <th>SW</th>
     <th>点</th>
     <th>20*3*1</th>
@@ -186,6 +195,7 @@
   </tr>
   <tr>
     <th><del>大根</del></th>
+    <th></th>
     <th>WC</th>
     <th></th>
     <th></th>
@@ -205,6 +215,7 @@
   </tr>
   <tr>
     <th>ジャガイモ</th>
+    <th></th>
     <th>NC<br>CC</th>
     <th>種</th>
     <th>10*1*4</th>
@@ -224,6 +235,7 @@
   </tr>
   <tr>
     <th><del>ほうれん草</del></th>
+    <th></th>
     <th>EC</th>
     <th></th>
     <th>50*2*1</th>
@@ -243,6 +255,7 @@
   </tr>
   <tr>
     <th>ほうれん草</th>
+    <th></th>
     <th>NW</th>
     <th>点<br>条</th>
     <th>30*2*1<br>50*3*1</th>
@@ -262,6 +275,7 @@
   </tr>
   <tr>
     <th>小松菜</th>
+    <th></th>
     <th>NW</th>
     <th>点</th>
     <th>50*3*1</th>
@@ -281,6 +295,7 @@
   </tr>
   <tr>
     <th>キャベツ</th>
+    <th></th>
     <th>SW</th>
     <th>苗</th>
     <th>15*2*1</th>
@@ -300,6 +315,7 @@
   </tr>
   <tr>
     <th>そら豆</th>
+    <th></th>
     <th>SW</th>
     <th>苗</th>
     <th>15*1*1</th>
@@ -319,6 +335,7 @@
   </tr>
   <tr>
     <th>ブロッコリー</th>
+    <th></th>
     <th>SW</th>
     <th>苗</th>
     <th>4*1*1</th>
@@ -338,6 +355,7 @@
   </tr>
   <tr>
     <th>セロリ</th>
+    <th></th>
     <th>WC</th>
     <th>苗</th>
     <th>10*1*1</th>
@@ -357,6 +375,7 @@
   </tr>
   <tr>
     <th>カブ</th>
+    <th></th>
     <th>SC</th>
     <th>点</th>
     <th>50*2*2</th>
@@ -376,6 +395,7 @@
   </tr>
   <tr>
     <th>赤カブ</th>
+    <th></th>
     <th>NW</th>
     <th>条</th>
     <th>30*4*1</th>
@@ -395,6 +415,7 @@
   </tr>
   <tr>
     <th>ミョウガ</th>
+    <th></th>
     <th>SW</th>
     <th></th>
     <th></th>
@@ -414,6 +435,7 @@
   </tr>
   <tr>
     <th>ニンニク</th>
+    <th></th>
     <th>WC</th>
     <th></th>
     <th></th>
@@ -433,6 +455,7 @@
   </tr>
   <tr>
     <th>トマト・ナス</th>
+    <th></th>
     <th>EC</th>
     <th></th>
     <th></th>
@@ -452,6 +475,7 @@
   </tr>
   <tr>
     <th>きゅうり・コーン・オクラ・枝豆</th>
+    <th></th>
     <th>SC</th>
     <th></th>
     <th></th>
