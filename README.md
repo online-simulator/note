@@ -283,7 +283,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>種</td>
         <td>　</td><td>　</td><td>◎<br>∩</td>
-          <td>虫</td><td>土<br>重</td><td>　</td>
+          <td>虫</td><td>土<br>重</td><td>重</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -319,11 +319,11 @@
     <th>SW</th>
     <th>苗</th>
     <th>15*1*1</th>
-    <th></th>
+    <th>花⇒3本残し</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>土</td>
         <td>　</td><td>植<br>∩</td><td>　</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>芽</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -475,7 +475,47 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>きゅうり・コーン・オクラ・枝豆</th>
+    <th>トマト・きゅうり</th>
+    <th></th>
+    <th>SC</th>
+    <th></th>
+    <th></th>
+    <th>棒・網・太陽の向き</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>土</td><td>土</td><td>植</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>ナス・コーン</th>
+    <th></th>
+    <th>CC</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>土</td><td>土</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>オクラ・枝豆</th>
     <th></th>
     <th>SC</th>
     <th></th>
