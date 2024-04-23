@@ -475,10 +475,30 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>トマト・きゅうり</th>
+    <th>トマト</th>
     <th></th>
     <th>SC</th>
+    <th>4*1*1</th>
     <th></th>
+    <th>棒</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>土</td><td>土</td><td>植</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>きゅうり</th>
+    <th></th>
+    <th>SC</th>
+    <th>2*1*1</th>
     <th></th>
     <th>棒・網・太陽の向き</th>
     <td>　</td><td>　</td><td>　</td>
