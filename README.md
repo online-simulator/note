@@ -356,7 +356,6 @@
   <tr>
     <th>セロリ</th>
     <th><img src="img/IMG_2024-04-20-13-49-54-337.jpg"></th>
-    <th></th>
     <th>WC</th>
     <th>苗</th>
     <th>10*1*1</th>
