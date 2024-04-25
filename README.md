@@ -103,7 +103,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>土</td>
-          <td>植</td><td>　</td><td>　</td>
+          <td>植</td><td>　</td><td>土</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -163,7 +163,7 @@
     <td>種<br>∩</td><td>　</td><td>◎</td>
       <td>　</td><td><del>∩</del></td><td>　</td>
         <td>　</td><td>　</td><td>芽</td>
-          <td>芽</td><td>　</td><td>　</td>
+          <td>芽</td><td>　</td><td>土</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -183,7 +183,7 @@
     <td>　</td><td>土</td><td>　</td>
       <td>種</td><td>　</td><td>◎</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>土</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -194,16 +194,16 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th><del>大根</del></th>
+    <th><del>大根</del>春菊</th>
     <th></th>
     <th>WC</th>
-    <th></th>
-    <th></th>
+    <th>条</th>
+    <th>30*3*1</th>
     <th>乾燥⇒肥料</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>■<br>土</td><td>　</td><td>　</td>
+          <td>■<br>土</td><td>種</td><td>◎</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -223,7 +223,7 @@
     <td>　</td><td>　</td><td>土</td>
       <td>　</td><td>種</td><td>　</td>
         <td>　</td><td>◎</td><td>　</td>
-          <td>芽</td><td>土</td><td>　</td>
+          <td>芽</td><td>土</td><td>土</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -234,7 +234,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th><del>ほうれん草</del></th>
+    <th><del>ほうれん草</del>ナス</th>
     <th></th>
     <th>EC</th>
     <th></th>
@@ -243,7 +243,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>■</td><td>■<br>土</td><td>　</td>
+          <td>■</td><td>■<br>土</td><td>植</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -263,7 +263,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>種</td>
         <td>　</td><td>　</td><td>○</td>
-          <td>　</td><td>種<br>◎</td><td>　</td>
+          <td>　</td><td>種<br>◎</td><td>土</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -283,7 +283,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>種</td>
         <td>　</td><td>　</td><td>◎<br>∩</td>
-          <td>虫</td><td>土<br>重</td><td>重</td>
+          <td>虫</td><td>土<br>重</td><td>重<br>土</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -302,7 +302,7 @@
     <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>土</td>
-        <td>　</td><td>植<br>∩</td><td>　</td>
+        <td>　</td><td>植<br>∩</td><td>土</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -322,7 +322,7 @@
     <th>花⇒3本残し</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>土</td>
-        <td>　</td><td>植<br>∩</td><td>　</td>
+        <td>　</td><td>植<br>∩</td><td>土</td>
           <td>　</td><td>　</td><td>芽</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -342,7 +342,7 @@
     <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>土</td>
-        <td>　</td><td>植<br>∩</td><td>　</td>
+        <td>　</td><td>植<br>∩</td><td>土</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -363,7 +363,7 @@
     <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>土</td>
-        <td>　</td><td>植<br>∩</td><td>　</td>
+        <td>　</td><td>植<br>∩</td><td>土</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -384,7 +384,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>土</td>
         <td>　</td><td>種</td><td>◎</td>
-          <td>∩</td><td>土<br>重</td><td>　</td>
+          <td>∩</td><td>土<br>重</td><td>土</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -404,7 +404,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>種</td><td>◎</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>土</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -455,7 +455,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>トマト・ナス</th>
+    <th>トマト</th>
     <th></th>
     <th>EC</th>
     <th></th>
@@ -464,7 +464,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>土</td><td>土</td><td>　</td>
+          <td>土</td><td>土</td><td>植</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
