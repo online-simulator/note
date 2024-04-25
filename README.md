@@ -223,7 +223,7 @@
     <td>　</td><td>　</td><td>土</td>
       <td>　</td><td>種</td><td>　</td>
         <td>　</td><td>◎</td><td>　</td>
-          <td>芽</td><td>土</td><td>土</td>
+          <td>芽</td><td>土</td><td>土<br>花</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
