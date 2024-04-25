@@ -194,7 +194,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th><del>大根</del>春菊</th>
+    <th><del>大根</del><br>春菊</th>
     <th></th>
     <th>WC</th>
     <th>条</th>
@@ -234,11 +234,11 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th><del>ほうれん草</del>ナス</th>
+    <th><del>ほうれん草</del><br>ナス</th>
     <th></th>
     <th>EC</th>
-    <th></th>
-    <th>50*2*1</th>
+    <th>苗</th>
+    <th>5*1*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -458,8 +458,8 @@
     <th>トマト</th>
     <th></th>
     <th>EC</th>
-    <th></th>
-    <th></th>
+    <th>苗</th>
+    <th>5*1*1</th>
     <th>石灰・肥料</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
