@@ -115,7 +115,7 @@
   </tr>
   <tr>
     <th>ネギ</th>
-    <th></th>
+    <th><img src="img/IMG_2024-03-27-13-25-55-295.jpg"></th>
     <th>SE</th>
     <th>株</th>
     <th>10*1*4</th>
@@ -235,10 +235,10 @@
   </tr>
   <tr>
     <th><del>ほうれん草</del><br>ナス</th>
-    <th></th>
+    <th><img src="img/IMG_2024-04-27-10-57-12-729.jpg"></th>
     <th>EC</th>
     <th>苗</th>
-    <th>5*1*1</th>
+    <th>7*1*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -283,7 +283,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>種</td>
         <td>　</td><td>　</td><td>◎<br>∩</td>
-          <td>虫</td><td>土<br>重</td><td>重<br>土</td>
+          <td>虫</td><td>土<br>重</td><td>重<br>土<br>芽</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -383,7 +383,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>土</td>
         <td>　</td><td>種</td><td>◎</td>
-          <td>∩</td><td>土<br>重</td><td>土</td>
+          <td>∩</td><td>土<br>重</td><td>土<br>芽</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -403,7 +403,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>種</td><td>◎</td>
-          <td>　</td><td>　</td><td>土</td>
+          <td>　</td><td>　</td><td>土<br>芽</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -455,10 +455,10 @@
   </tr>
   <tr>
     <th>トマト</th>
-    <th></th>
+    <th><img src="img/IMG_2024-04-27-10-57-25-005.jpg"></th>
     <th>EC</th>
     <th>苗</th>
-    <th>5*1*1</th>
+    <th>8*1*1</th>
     <th>石灰・肥料</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
