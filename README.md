@@ -175,7 +175,7 @@
   </tr>
   <tr>
     <th>人参</th>
-    <th></th>
+    <th><img src="img/IMG_2024-04-27-10-45-16-448.jpg"></th>
     <th>SW</th>
     <th>点</th>
     <th>20*3*1</th>
@@ -195,7 +195,7 @@
   </tr>
   <tr>
     <th><del>大根</del><br>春菊</th>
-    <th></th>
+    <th><img src="img/IMG_2024-04-27-10-45-34-841.jpg"></th>
     <th>WC</th>
     <th>条</th>
     <th>30*3*1</th>
@@ -355,7 +355,7 @@
   </tr>
   <tr>
     <th>セロリ</th>
-    <th><img src="img/IMG_2024-04-20-13-49-54-337.jpg"></th>
+    <th><img src="img/IMG_2024-04-27-10-46-11-783.jpg"></th>
     <th>WC</th>
     <th>苗</th>
     <th>10*1*1</th>
@@ -475,7 +475,7 @@
   </tr>
   <tr>
     <th>トマト</th>
-    <th></th>
+    <th><img src="img/IMG_2024-04-27-10-48-59-766.jpg"></th>
     <th>SC</th>
     <th>苗</th>
     <th>4*1*1</th>
@@ -495,7 +495,7 @@
   </tr>
   <tr>
     <th>きゅうり</th>
-    <th></th>
+    <th><img src="img/IMG_2024-04-27-10-49-15-616.jpg"></th>
     <th>SC</th>
     <th>苗</th>
     <th>2*1*1</th>
@@ -514,16 +514,16 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>ナス・コーン</th>
     <th></th>
-    <th>CC</th>
-    <th></th>
-    <th></th>
+    <th><img src="img/IMG_2024-04-27-10-49-37-344.jpg"></th>
+    <th>SC</th>
+    <th>苗</th>
+    <th>2*1*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>土</td><td>土</td><td>　</td>
+          <td>土</td><td>土</td><td>植</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -534,7 +534,47 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>オクラ・枝豆</th>
+    <th>ナス</th>
+    <th><img src="img/IMG_2024-04-27-10-49-30-232.jpg"></th>
+    <th>CC</th>
+    <th>苗</th>
+    <th>3*1*1</th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>土</td><td>土</td><td>植</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>しそ</th>
+    <th><img src="img/IMG_2024-04-27-10-54-57-910.jpg"></th>
+    <th>SC</th>
+    <th>苗</th>
+    <th>10*3*1</th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>土</td><td>土</td><td>植</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>コーン・オクラ・枝豆</th>
     <th></th>
     <th>SC</th>
     <th></th>
