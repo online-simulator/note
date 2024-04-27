@@ -238,7 +238,7 @@
     <th><img src="img/IMG_2024-04-27-10-57-12-729.jpg"></th>
     <th>EC</th>
     <th>苗</th>
-    <th>7*1*1</th>
+    <th>6*1*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
