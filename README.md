@@ -343,7 +343,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>土</td>
         <td>　</td><td>植<br>∩</td><td>土</td>
-          <td>　</td><td>　</td><td>芽<br><del>∩</del><br>紐・銀</td>
+          <td>　</td><td>　</td><td>芽<br><del>∩</del><br>紐<br>銀</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
