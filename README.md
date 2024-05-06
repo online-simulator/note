@@ -303,8 +303,8 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>種</td>
         <td>　</td><td>　</td><td>◎<br>∩</td>
-          <td>虫</td><td>土<br>重</td><td>重<br>土<br>芽2</td>
-            <td>　</td><td>　</td><td>　</td>
+          <td>虫</td><td>土<br>重</td><td>重<br>土<br>芽</td>
+            <td>芽</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -419,12 +419,12 @@
     <th>SC</th>
     <th>点</th>
     <th>50*2*2</th>
-    <th>葉裏の白浮きを除外</th>
+    <th>葉裏の白浮き除外</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>土</td>
         <td>　</td><td>種</td><td>◎</td>
-          <td>∩</td><td>土<br>重</td><td>土<br>芽3</td>
-            <td>　</td><td>　</td><td>　</td>
+          <td>∩</td><td>土<br>重</td><td>土<br>芽2</td>
+            <td>芽2</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -443,8 +443,8 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>種</td><td>◎</td>
-          <td>　</td><td>　</td><td>土<br>芽<br>■</td>
-            <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>土<br>芽</td>
+            <td>■</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
