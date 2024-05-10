@@ -144,7 +144,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>■</td>
           <td>■</td><td>土</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>芽</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -164,7 +164,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>■</td>
           <td>■</td><td>■</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>芽</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
