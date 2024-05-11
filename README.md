@@ -184,7 +184,7 @@
       <td>　</td><td><del>∩</del></td><td>　</td>
         <td>　</td><td>　</td><td>芽</td>
           <td>芽</td><td>　</td><td>土</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>■</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -304,7 +304,7 @@
       <td>　</td><td>　</td><td>種</td>
         <td>　</td><td>　</td><td>◎<br>∩</td>
           <td>虫</td><td>土<br>重</td><td>重<br>土<br>芽</td>
-            <td>芽</td><td>　</td><td>　</td>
+            <td>芽<br>■</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
