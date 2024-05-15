@@ -124,7 +124,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>土</td>
           <td>植</td><td>　</td><td>土</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>虫</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -294,7 +294,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>小松菜</th>
+    <th><del>小松菜</del></th>
     <th><img src="img/IMG_2024-04-20-13-51-41-541.jpg"></th>
     <th>NW</th>
     <th>点</th>
@@ -324,7 +324,7 @@
       <td>　</td><td>　</td><td>土</td>
         <td>　</td><td>植<br>∩</td><td>土</td>
           <td>　</td><td>　</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>根</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -359,7 +359,7 @@
     <th>SW</th>
     <th>苗</th>
     <th>4*1*1</th>
-    <th></th>
+    <th>葉と根の広がり具合</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>土</td>
         <td>　</td><td>植<br>∩</td><td>土</td>
@@ -384,7 +384,7 @@
       <td>　</td><td>　</td><td>土</td>
         <td>　</td><td>植<br>∩</td><td>土</td>
           <td>　</td><td>　</td><td>芽</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>■</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -424,7 +424,7 @@
       <td>　</td><td>　</td><td>土</td>
         <td>　</td><td>種</td><td>◎</td>
           <td>∩</td><td>土<br>重</td><td>土<br>芽2</td>
-            <td>芽3</td><td>　</td><td>　</td>
+            <td>芽3</td><td>■</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -434,7 +434,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>赤カブ</th>
+    <th><del>赤カブ</del></th>
     <th><img src="img/IMG_2024-04-20-13-50-26-973.jpg"></th>
     <th>NW</th>
     <th>条</th>
@@ -634,17 +634,17 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>オクラ・枝豆</th>
+    <th>枝豆</th>
     <th></th>
     <th>SC</th>
+    <th>苗</th>
+    <th>8*2*1</th>
     <th></th>
-    <th></th>
-    <th>石灰・肥料</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>土</td><td>土</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>植</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -656,14 +656,34 @@
   <tr>
     <th>ズッキーニ</th>
     <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th>SE</th>
+    <th>苗</th>
+    <th>4*1*1</th>
     <th>2本組</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>植</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>オクラ</th>
+    <th></th>
+    <th>SC</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>土</td><td>土</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
