@@ -284,7 +284,7 @@
       <td>　</td><td>　</td><td>種</td>
         <td>　</td><td>　</td><td>○</td>
           <td>　</td><td>種<br>◎</td><td>土<br>■</td>
-            <td>　</td><td>芽</td><td>　</td>
+            <td>　</td><td>芽2</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
