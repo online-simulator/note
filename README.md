@@ -384,7 +384,7 @@
       <td>　</td><td>　</td><td>土</td>
         <td>　</td><td>植<br>∩</td><td>土</td>
           <td>　</td><td>　</td><td>芽</td>
-            <td>　</td><td>■</td><td>　</td>
+            <td>　</td><td>■2</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -424,7 +424,7 @@
       <td>　</td><td>　</td><td>土</td>
         <td>　</td><td>種</td><td>◎</td>
           <td>∩</td><td>土<br>重</td><td>土<br>芽2</td>
-            <td>芽3</td><td>■</td><td>　</td>
+            <td>芽3</td><td>■2</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -554,6 +554,26 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
+    <th>きゅうり</th>
+    <th><img src="img/IMG_2024-05-18-16-43-11-136.jpg"></th>
+    <th>EC</th>
+    <th>苗</th>
+    <th>4*1*1</th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>植</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
     <th>ピーマン</th>
     <th><img src="img/IMG_2024-04-27-10-49-37-344.jpg"></th>
     <th>SC</th>
@@ -595,7 +615,7 @@
   </tr>
   <tr>
     <th>コーン</th>
-    <th></th>
+    <th><img src="img/IMG_2024-05-18-16-41-03-322.jpg"></th>
     <th>CC</th>
     <th>苗</th>
     <th>13*2*1</th>
@@ -635,7 +655,7 @@
   </tr>
   <tr>
     <th>枝豆</th>
-    <th></th>
+    <th><img src="img/IMG_2024-05-18-16-42-12-415.jpg"></th>
     <th>SC</th>
     <th>苗</th>
     <th>8*2*1</th>
@@ -655,7 +675,27 @@
   </tr>
   <tr>
     <th>ズッキーニ</th>
-    <th></th>
+    <th><img src="img/IMG_2024-05-18-16-43-21-081.jpg"></th>
+    <th>NE</th>
+    <th>苗</th>
+    <th>4*1*1</th>
+    <th>2本組</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>植</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>ズッキーニ</th>
+    <th><img src="img/IMG_2024-05-18-16-42-49-988.jpg"></th>
     <th>SE</th>
     <th>苗</th>
     <th>4*1*1</th>
