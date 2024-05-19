@@ -144,7 +144,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>■</td>
           <td>■</td><td>土</td><td>　</td>
-            <td>芽</td><td>　</td><td>　</td>
+            <td>芽</td><td>薹<br>■</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -164,7 +164,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>■</td>
           <td>■</td><td>■</td><td>　</td>
-            <td>芽</td><td>　</td><td>　</td>
+            <td>芽</td><td>薹</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -179,12 +179,12 @@
     <th>NC</th>
     <th>条</th>
     <th>20*3*1</th>
-    <th></th>
+    <th>土の硬さ</th>
     <td>種<br>∩</td><td>　</td><td>◎</td>
       <td>　</td><td><del>∩</del></td><td>　</td>
         <td>　</td><td>　</td><td>芽</td>
           <td>芽</td><td>　</td><td>土</td>
-            <td>■</td><td>■</td><td>　</td>
+            <td>■</td><td>■2</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
