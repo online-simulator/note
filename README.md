@@ -44,7 +44,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>■</td>
           <td>■</td><td>　</td><td>■3</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>■</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -424,7 +424,7 @@
       <td>　</td><td>　</td><td>土</td>
         <td>　</td><td>種</td><td>◎</td>
           <td>∩</td><td>土<br>重</td><td>土<br>芽2</td>
-            <td>芽3</td><td>■2</td><td>　</td>
+            <td>芽3</td><td>■2</td><td>■</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -644,7 +644,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>土</td><td>土</td><td>植</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>■</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -664,6 +664,46 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>土</td><td>土</td><td>　</td>
+            <td>　</td><td>植</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>枝豆</th>
+    <th></th>
+    <th>NE</th>
+    <th>苗</th>
+    <th>2*2*1</th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>枝豆</th>
+    <th></th>
+    <th>SE</th>
+    <th>苗</th>
+    <th>2*2*1</th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>植</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
