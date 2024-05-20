@@ -104,7 +104,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>土</td><td>　</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>棒</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -124,7 +124,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>土</td>
           <td>植</td><td>　</td><td>土</td>
-            <td>　</td><td>虫</td><td>　</td>
+            <td>　</td><td>虫<br>棒</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
