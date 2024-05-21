@@ -224,7 +224,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>■<br>土</td><td>種</td><td>◎</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>■</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -319,7 +319,7 @@
     <th>SW</th>
     <th>苗</th>
     <th>15*2*1</th>
-    <th></th>
+    <th>葉20枚</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>土</td>
         <td>　</td><td>植<br>∩</td><td>土</td>
