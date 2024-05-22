@@ -319,7 +319,7 @@
     <th>SW</th>
     <th>苗</th>
     <th>15*2*1</th>
-    <th>葉20枚</th>
+    <th>葉20枚<br>色薄で根先に追肥</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>土</td>
         <td>　</td><td>植<br>∩</td><td>土</td>
