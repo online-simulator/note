@@ -364,7 +364,7 @@
       <td>　</td><td>　</td><td>土</td>
         <td>　</td><td>植<br>∩</td><td>土</td>
           <td>　</td><td>　</td><td>∩</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>■1/4</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -424,7 +424,7 @@
       <td>　</td><td>　</td><td>土</td>
         <td>　</td><td>種</td><td>◎</td>
           <td>∩</td><td>土<br>重</td><td>土<br>芽2</td>
-            <td>芽3</td><td>■2</td><td>■</td>
+            <td>芽3</td><td>■2</td><td>■2</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -504,7 +504,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>土</td><td>土</td><td>植</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>紐</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -604,7 +604,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>土</td><td>土</td><td>植</td>
-            <td>棒</td><td>　</td><td>　</td>
+            <td>棒</td><td>　</td><td>紐</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -634,7 +634,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>しそ</th>
+    <th>大葉</th>
     <th><img src="img/IMG_2024-04-27-10-54-57-910.jpg"></th>
     <th>SC</th>
     <th>苗</th>
@@ -645,6 +645,26 @@
         <td>　</td><td>　</td><td>　</td>
           <td>土</td><td>土</td><td>植</td>
             <td>　</td><td>　</td><td>■</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>大葉</th>
+    <th></th>
+    <th>EC</th>
+    <th>苗</th>
+    <th>4*1*1</th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>植</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -756,15 +776,15 @@
   <tr>
     <th>オクラ</th>
     <th></th>
-    <th>SC</th>
-    <th></th>
-    <th></th>
+    <th>EC</th>
+    <th>苗</th>
+    <th>14*1*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>土</td><td>土</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>植</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
