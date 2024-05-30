@@ -224,7 +224,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>■<br>土</td><td>種</td><td>◎</td>
-            <td>　</td><td>　</td><td>■</td>
+            <td>　</td><td>　</td><td>■2</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -424,7 +424,7 @@
       <td>　</td><td>　</td><td>土</td>
         <td>　</td><td>種</td><td>◎</td>
           <td>∩</td><td>土<br>重</td><td>土<br>芽2</td>
-            <td>芽3</td><td>■2</td><td>■2</td>
+            <td>芽3</td><td>■2</td><td>■3</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -644,7 +644,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>土</td><td>土</td><td>植</td>
-            <td>　</td><td>　</td><td>■</td>
+            <td>　</td><td>　</td><td>■2</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
