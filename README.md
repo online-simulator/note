@@ -205,7 +205,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>土</td>
             <td>　</td><td>　</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>■</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -234,7 +234,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>ジャガイモ</th>
+    <th><del>ジャガイモ</del></th>
     <th><img src="img/IMG_2024-04-20-13-47-50-250.jpg"></th>
     <th>NC<br>CC</th>
     <th>種</th>
@@ -245,7 +245,7 @@
         <td>　</td><td>◎</td><td>　</td>
           <td>芽</td><td>土</td><td>土<br>花</td>
             <td>　</td><td>　</td><td>■2</td>
-              <td>■</td><td>　</td><td>　</td>
+              <td>■2</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
