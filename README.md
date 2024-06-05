@@ -245,7 +245,7 @@
         <td>　</td><td>◎</td><td>　</td>
           <td>芽</td><td>土</td><td>土<br>花</td>
             <td>　</td><td>　</td><td>■2</td>
-              <td>■2</td><td>　</td><td>　</td>
+              <td>■2<br>乾</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -265,7 +265,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>■</td><td>■<br>土</td><td>植</td>
             <td>　</td><td>　</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>土</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -474,18 +474,18 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>ニンニク</th>
+    <th><del>ニンニク</del></th>
     <th></th>
     <th>WC</th>
     <th></th>
     <th></th>
-    <th>肥料・重曹</th>
+    <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>■</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -545,7 +545,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>土</td><td>土</td><td>植</td>
             <td>棒</td><td>　</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>■</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -605,7 +605,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>土</td><td>土</td><td>植</td>
             <td>棒</td><td>　</td><td>紐</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>土</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -625,7 +625,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>土</td><td>土</td><td>植</td>
             <td>棒</td><td>　</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>土</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -794,7 +794,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>玉葱</th>
+    <th><del>玉葱</del></th>
     <th></th>
     <th>WC</th>
     <th></th>
@@ -804,8 +804,8 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
-            <td>　</td><td>　</td><td>■</td>
-              <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>■<br>乾</td>
+              <td>■<br>乾</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
