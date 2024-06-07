@@ -174,7 +174,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>人参</th>
+    <th><del>人参</del></th>
     <th><img src="img/IMG_2024-04-20-13-47-39-086.jpg"></th>
     <th>NC</th>
     <th>条</th>
@@ -185,7 +185,7 @@
         <td>　</td><td>　</td><td>芽</td>
           <td>芽</td><td>　</td><td>土</td>
             <td>■</td><td>■2</td><td>■</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>■</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -225,7 +225,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>■<br>土</td><td>種</td><td>◎</td>
             <td>　</td><td>　</td><td>■2</td>
-              <td>■</td><td>　</td><td>　</td>
+              <td>■2</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -285,7 +285,7 @@
         <td>　</td><td>　</td><td>○</td>
           <td>　</td><td>種<br>◎</td><td>土<br>■</td>
             <td>　</td><td>芽2</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>■</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -354,7 +354,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>ブロッコリー</th>
+    <th><del>ブロッコリー</del></th>
     <th><img src="img/IMG_2024-04-20-13-48-18-868.jpg"></th>
     <th>SW</th>
     <th>苗</th>
@@ -365,7 +365,7 @@
         <td>　</td><td>植<br>∩</td><td>土</td>
           <td>　</td><td>　</td><td>∩</td>
             <td>　</td><td>　</td><td>■1/4</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>■</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -425,7 +425,7 @@
         <td>　</td><td>種</td><td>◎</td>
           <td>∩</td><td>土<br>重</td><td>土<br>芽2</td>
             <td>芽3</td><td>■2</td><td>■3</td>
-              <td>■</td><td>　</td><td>　</td>
+              <td>■2</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -645,7 +645,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>土</td><td>土</td><td>植</td>
             <td>　</td><td>　</td><td>■2</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>■</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
