@@ -245,7 +245,7 @@
         <td>　</td><td>◎</td><td>　</td>
           <td>芽</td><td>土</td><td>土<br>花</td>
             <td>　</td><td>　</td><td>■2</td>
-              <td>■2<br>乾<br>土</td><td>土2</td><td>　</td>
+              <td>■2<br>乾<br>土</td><td>土2<br>植</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
