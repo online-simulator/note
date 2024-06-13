@@ -237,7 +237,7 @@
     <th><del>ジャガイモ</del><br>サツマイモ</th>
     <th><img src="img/IMG_2024-04-20-13-47-50-250.jpg"></th>
     <th>NC<br>CC</th>
-    <th>種</th>
+    <th>種<br>苗</th>
     <th>10*1*4<br>10*1*3</th>
     <th>芽かき・追肥・土寄せ</th>
     <td>　</td><td>　</td><td>土</td>
