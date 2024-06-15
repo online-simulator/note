@@ -234,18 +234,38 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th><del>ジャガイモ</del><br>サツマイモ</th>
+    <th><del>ジャガイモ</del></th>
     <th><img src="img/IMG_2024-04-20-13-47-50-250.jpg"></th>
     <th>NC<br>CC</th>
-    <th>種<br>苗</th>
-    <th>10*1*4<br>10*1*3</th>
+    <th>種</th>
+    <th>10*1*4</th>
     <th>芽かき・追肥・土寄せ</th>
     <td>　</td><td>　</td><td>土</td>
       <td>　</td><td>種</td><td>　</td>
         <td>　</td><td>◎</td><td>　</td>
           <td>芽</td><td>土</td><td>土<br>花</td>
             <td>　</td><td>　</td><td>■2</td>
-              <td>■2<br>乾<br>土</td><td>土2<br>植</td><td>　</td>
+              <td>■2<br>乾</td><td>　<br>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>サツマイモ</th>
+    <th><img src="img/IMG_2024-06-15-16-09-09-804.jpg"></th>
+    <th>CC</th>
+    <th>苗</th>
+    <th>10*1*3</th>
+    <th>ジャガイモの次</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>土</td><td>土2<br>植</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -535,7 +555,7 @@
   </tr>
   <tr>
     <th>トマト<br>きゅうり</th>
-    <th></th>
+    <th><img src="img/IMG_2024-06-15-16-19-18-218.jpg"><br><img src="img/IMG_2024-06-15-16-19-25-961.jpg"></th>
     <th>WC</th>
     <th>苗</th>
     <th>3*1*1<br>4*1*1</th>
@@ -545,7 +565,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>植</td><td>　</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>網</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -635,11 +655,11 @@
   </tr>
   <tr>
     <th>コーン</th>
-    <th><img src="img/IMG_2024-05-18-16-41-03-322.jpg"></th>
+    <th><img src="img/IMG_2024-05-18-16-41-03-322.jpg"><br><img src="img/IMG_2024-06-15-16-10-10-882.jpg"></th>
     <th>CC</th>
     <th>苗</th>
     <th>13*2*1</th>
-    <th></th>
+    <th>受粉</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
