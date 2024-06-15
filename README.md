@@ -534,6 +534,26 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
+    <th>トマト<br>きゅうり</th>
+    <th></th>
+    <th>WC</th>
+    <th>苗</th>
+    <th>3*1*1<br>4*1*1</th>
+    <th>直立に支えて花の上下の葉と数本枝残しの繰り返し</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>植</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
     <th>きゅうり</th>
     <th><img src="img/IMG_2024-04-27-10-49-15-616.jpg"></th>
     <th>SC</th>
