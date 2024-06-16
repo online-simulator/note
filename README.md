@@ -719,7 +719,7 @@
     <th>SC</th>
     <th>苗</th>
     <th>10*3*1</th>
-    <th>緑3赤3残し</th>
+    <th>青3赤3残し</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
