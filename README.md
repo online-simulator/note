@@ -205,7 +205,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>土</td>
             <td>　</td><td>　</td><td>　</td>
-              <td>■</td><td>　</td><td>　</td>
+              <td>■</td><td>■</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -279,7 +279,7 @@
     <th>CC</th>
     <th>苗</th>
     <th>10*1*3</th>
-    <th>ジャガイモの次</th>
+    <th>ジャガイモの次<br>連作の様子見</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -385,7 +385,7 @@
         <td>　</td><td>植<br>∩</td><td>土</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>根</td><td>　</td>
-              <td>　</td><td>■2</td><td>　</td>
+              <td>　</td><td>■3</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -405,7 +405,7 @@
         <td>　</td><td>植<br>∩</td><td>土</td>
           <td>　</td><td>　</td><td>芽<br><del>∩</del><br>紐<br>銀</td>
             <td>　</td><td>　</td><td>　</td>
-              <td>　</td><td>■</td><td>　</td>
+              <td>　</td><td>■<br>土</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -425,7 +425,7 @@
         <td>　</td><td>植<br>∩</td><td>土</td>
           <td>　</td><td>　</td><td>∩</td>
             <td>　</td><td>　</td><td>■1/4</td>
-              <td>■</td><td>　</td><td>　</td>
+              <td>■</td><td>土</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -725,7 +725,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>土</td><td>土</td><td>植</td>
             <td>　</td><td>　</td><td>■2</td>
-              <td>■2</td><td>　</td><td>　</td>
+              <td>■2</td><td>芽</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
