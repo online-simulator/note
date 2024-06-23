@@ -385,7 +385,7 @@
         <td>　</td><td>植<br>∩</td><td>土</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>根</td><td>　</td>
-              <td>　</td><td>■3</td><td>　</td>
+              <td>　</td><td>■3</td><td>■</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -434,7 +434,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>セロリ</th>
+    <th><del>セロリ</del></th>
     <th><img src="img/IMG_2024-04-27-10-46-11-783.jpg"></th>
     <th>WC</th>
     <th>苗</th>
@@ -605,7 +605,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>植</td><td>　</td><td>　</td>
-              <td>　</td><td>網</td><td>　</td>
+              <td>　</td><td>網</td><td>■2</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -645,7 +645,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>植</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>■2</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -825,7 +825,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>植</td><td>　</td>
-              <td>　</td><td>■2</td><td>　</td>
+              <td>　</td><td>■2</td><td>■</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
