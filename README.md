@@ -605,7 +605,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>植</td><td>　</td><td>　</td>
-              <td>　</td><td>網</td><td>■2</td>
+              <td>　</td><td>網</td><td>■3</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -645,7 +645,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>植</td><td>　</td>
-              <td>　</td><td>　</td><td>■2</td>
+              <td>　</td><td>　</td><td>■3</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -825,7 +825,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>植</td><td>　</td>
-              <td>　</td><td>■2</td><td>■</td>
+              <td>　</td><td>■2</td><td>■2</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
