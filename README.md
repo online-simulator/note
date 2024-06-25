@@ -145,7 +145,7 @@
         <td>　</td><td>　</td><td>■</td>
           <td>■</td><td>土</td><td>　</td>
             <td>芽</td><td>薹<br>■</td><td>■</td>
-              <td>　</td><td>土2</td><td>　</td>
+              <td>　</td><td>土2</td><td>■<br>土</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -294,7 +294,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>ほうれん草</th>
+    <th><del>ほうれん草</del></th>
     <th><img src="img/IMG_2024-04-20-13-50-40-528.jpg"></th>
     <th>NW</th>
     <th>点<br>条</th>
@@ -305,7 +305,7 @@
         <td>　</td><td>　</td><td>○</td>
           <td>　</td><td>種<br>◎</td><td>土<br>■</td>
             <td>　</td><td>芽2</td><td>　</td>
-              <td>■2</td><td>土2</td><td>　</td>
+              <td>■2</td><td>土2</td><td>乾</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
