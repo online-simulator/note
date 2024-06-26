@@ -145,7 +145,7 @@
         <td>　</td><td>　</td><td>■</td>
           <td>■</td><td>土</td><td>　</td>
             <td>芽</td><td>薹<br>■</td><td>■</td>
-              <td>　</td><td>土2</td><td>■<br>土</td>
+              <td>　</td><td>土2</td><td>■<br>土2</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -205,7 +205,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>土</td>
             <td>　</td><td>　</td><td>　</td>
-              <td>■</td><td>■</td><td>■</td>
+              <td>■</td><td>■</td><td>■2</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -605,7 +605,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>植</td><td>　</td><td>　</td>
-              <td>　</td><td>網</td><td>■4</td>
+              <td>　</td><td>網</td><td>■5</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
