@@ -606,7 +606,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>植</td><td>　</td><td>　</td>
               <td>　</td><td>網</td><td>■6<br>芽</td>
-    <td>　</td><td>　</td><td>　</td>
+    <td>■</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
