@@ -346,7 +346,7 @@
           <td>　</td><td>　<br>土</td><td>植</td>
             <td>　</td><td>　</td><td>　</td>
               <td>土</td><td>　</td><td>■</td>
-    <td>■</td><td>　</td><td>　</td>
+    <td>■2</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -354,7 +354,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th><del>小松菜</del></th>
+    <th>小松菜</th>
     <th><img src="img/IMG_2024-04-20-13-51-41-541.jpg"></th>
     <th>NW</th>
     <th>点</th>
@@ -366,7 +366,7 @@
           <td>虫</td><td>土<br>重</td><td>重<br>土<br>芽</td>
             <td>芽<br>■</td><td>■</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
-    <td>　</td><td>　</td><td>　</td>
+    <td>土</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -566,7 +566,7 @@
           <td>土</td><td>土</td><td>植</td>
             <td>　</td><td>　</td><td>紐</td>
               <td>　</td><td>■</td><td>■</td>
-    <td>■</td><td>　</td><td>　</td>
+    <td>■2</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -606,7 +606,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>植</td><td>　</td><td>　</td>
               <td>　</td><td>網</td><td>■6<br>芽</td>
-    <td>■2</td><td>　</td><td>　</td>
+    <td>■3</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -686,7 +686,7 @@
           <td>土</td><td>土</td><td>植</td>
             <td>棒</td><td>　</td><td>紐</td>
               <td>土</td><td>　</td><td>　</td>
-    <td>　</td><td>　</td><td>　</td>
+    <td>■</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -706,7 +706,7 @@
           <td>土</td><td>土</td><td>植</td>
             <td>棒</td><td>　</td><td>　</td>
               <td>土<br>虫</td><td>　</td><td>　</td>
-    <td>　</td><td>　</td><td>　</td>
+    <td>■</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
