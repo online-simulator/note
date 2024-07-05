@@ -694,7 +694,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>コーン</th>
+    <th><del>コーン</del></th>
     <th><img src="img/IMG_2024-05-18-16-41-03-322.jpg"><img src="img/IMG_2024-06-15-16-10-10-882.jpg"></th>
     <th>CC</th>
     <th>苗</th>
@@ -706,7 +706,7 @@
           <td>土</td><td>土</td><td>植</td>
             <td>棒</td><td>　</td><td>　</td>
               <td>土<br>虫</td><td>　</td><td>　</td>
-    <td>■</td><td>　</td><td>　</td>
+    <td>■2</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -814,7 +814,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>ズッキーニ</th>
+    <th><del>ズッキーニ</del></th>
     <th><img src="img/IMG_2024-05-18-16-43-21-081.jpg"><img src="img/IMG_2024-06-15-16-11-36-028.jpg"></th>
     <th>NE</th>
     <th>苗</th>
