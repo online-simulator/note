@@ -478,7 +478,7 @@
     <th><img src="img/IMG_2024-04-20-13-44-49-929.jpg"></th>
     <th>SC</th>
     <th>点</th>
-    <th>50*2*2</th>
+    <th>50*2*2<br>50*2.5*1</th>
     <th>葉裏の白浮き除外</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>土</td>
@@ -486,7 +486,7 @@
           <td>∩</td><td>土<br>重</td><td>土<br>芽2</td>
             <td>芽3</td><td>■2</td><td>■3</td>
               <td>■2<br>土</td><td>■<br>乾</td><td>　</td>
-    <td>土<br>植</td><td>　</td><td>　</td>
+    <td>土<br>種</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
