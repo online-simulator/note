@@ -178,7 +178,7 @@
     <th><img src="img/IMG_2024-04-20-13-47-39-086.jpg"></th>
     <th>NC</th>
     <th>条</th>
-    <th>20*3*1</th>
+    <th>20*3*1<br>50*2*1</th>
     <th>土の硬さ</th>
     <td>種<br>∩</td><td>　</td><td>◎</td>
       <td>　</td><td><del>∩</del></td><td>　</td>
@@ -186,7 +186,7 @@
           <td>芽</td><td>　</td><td>土</td>
             <td>■</td><td>■2</td><td>■</td>
               <td>■</td><td>　</td><td>　</td>
-    <td>土</td><td>　</td><td>　</td>
+    <td>土<br>種</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -866,7 +866,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植</td>
               <td>　</td><td>　</td><td>■<br>芽</td>
-    <td>　</td><td>　</td><td>　</td>
+    <td>■2</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -887,6 +887,26 @@
             <td>　</td><td>　</td><td>■<br>乾</td>
               <td>■<br>乾</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>うり</th>
+    <th></th>
+    <th>WC</th>
+    <th>苗</th>
+    <th>6*1*1</th>
+    <th>玉葱の次</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>土</td>
+    <td>植</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
