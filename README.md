@@ -177,7 +177,7 @@
     <th><del>人参</del>人参</th>
     <th><img src="img/IMG_2024-04-20-13-47-39-086.jpg"></th>
     <th>NC</th>
-    <th>条</th>
+    <th>条<br>点</th>
     <th>20*3*1<br>50*2*1</th>
     <th>土の硬さ</th>
     <td>種<br>∩</td><td>　</td><td>◎</td>
