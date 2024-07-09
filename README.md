@@ -194,7 +194,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>人参</th>
+    <th><del>人参</del></th>
     <th><img src="img/IMG_2024-04-27-10-45-16-448.jpg"></th>
     <th>SW</th>
     <th>点</th>
@@ -206,7 +206,7 @@
           <td>　</td><td>　</td><td>土</td>
             <td>　</td><td>　</td><td>　</td>
               <td>■</td><td>■</td><td>■2</td>
-    <td>　</td><td>　</td><td>　</td>
+    <td>■</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -374,7 +374,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>キャベツ</th>
+    <th><del>キャベツ</del></th>
     <th><img src="img/IMG_2024-04-20-13-48-46-074.jpg"><img src="img/IMG_2024-06-15-16-18-34-993.jpg"></th>
     <th>SW</th>
     <th>苗</th>
@@ -386,7 +386,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>根</td><td>　</td>
               <td>　</td><td>■3</td><td>■2</td>
-    <td>■</td><td>　</td><td>　</td>
+    <td>■2</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -606,7 +606,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>植</td><td>　</td><td>　</td>
               <td>　</td><td>網</td><td>■6<br>芽</td>
-    <td>■5</td><td>　</td><td>　</td>
+    <td>■6<br>芽</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -646,7 +646,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>植</td><td>　</td>
               <td>　</td><td>　</td><td>■4</td>
-    <td>■2</td><td>　</td><td>　</td>
+    <td>■3<br>芽</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -666,7 +666,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
-    <td>■</td><td>　</td><td>　</td>
+    <td>■2<br>芽</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
