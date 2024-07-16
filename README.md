@@ -354,7 +354,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>小松菜</th>
+    <th><del>小松菜</del></th>
     <th><img src="img/IMG_2024-04-20-13-51-41-541.jpg"></th>
     <th>NW</th>
     <th>点</th>
