@@ -138,7 +138,7 @@
     <th><img src="img/IMG_2024-03-27-13-25-55-295.jpg"></th>
     <th>SE</th>
     <th>株</th>
-    <th>10*1*4</th>
+    <th>10*1*3</th>
     <th></th>
     <td>土</td><td>植</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -146,7 +146,7 @@
           <td>■</td><td>土</td><td>　</td>
             <td>芽</td><td>薹<br>■</td><td>■</td>
               <td>　</td><td>土2</td><td>■<br>土2</td>
-    <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>■<br>芽</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -606,7 +606,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>植</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>芽</td>
-    <td>芽</td><td>■2</td><td>　</td>
+    <td>芽</td><td>■3</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -626,7 +626,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>植</td><td>　</td><td>　</td>
               <td>　</td><td>網</td><td>■6<br>芽</td>
-    <td>■6<br>芽<br>■</td><td>■5</td><td>　</td>
+    <td>■6<br>芽<br>■</td><td>■6</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -706,7 +706,7 @@
           <td>土</td><td>土</td><td>植</td>
             <td>棒</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
-    <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>■</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
