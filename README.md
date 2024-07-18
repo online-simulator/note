@@ -174,7 +174,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th><del>人参</del>人参</th>
+    <th><del>人参</del><br>人参</th>
     <th><img src="img/IMG_2024-04-20-13-47-39-086.jpg"></th>
     <th>NC</th>
     <th>条<br>点</th>
@@ -354,11 +354,11 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th><del>小松菜</del></th>
+    <th><del>小松菜</del><br>小松菜</th>
     <th><img src="img/IMG_2024-04-20-13-51-41-541.jpg"></th>
     <th>NW</th>
-    <th>点</th>
-    <th>50*3*1</th>
+    <th>点<br>筋</th>
+    <th>50*3*1<br>50*2*1</th>
     <th>葉裏の白浮きを除外</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>種</td>
@@ -366,7 +366,7 @@
           <td>虫</td><td>土<br>重</td><td>重<br>土<br>芽</td>
             <td>芽<br>■</td><td>■</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
-    <td>土</td><td>　</td><td>　</td>
+    <td>土</td><td>植</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -474,7 +474,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th><del>カブ</del>カブ</th>
+    <th><del>カブ</del><br>カブ</th>
     <th><img src="img/IMG_2024-04-20-13-44-49-929.jpg"></th>
     <th>SC</th>
     <th>点</th>
