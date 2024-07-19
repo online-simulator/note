@@ -566,7 +566,7 @@
           <td>土</td><td>土</td><td>植</td>
             <td>　</td><td>　</td><td>紐</td>
               <td>　</td><td>■</td><td>■</td>
-    <td>■3</td><td>　</td><td>　</td>
+    <td>■3</td><td>■</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -606,7 +606,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>植</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>芽</td>
-    <td>芽</td><td>■3</td><td>　</td>
+    <td>芽</td><td>■4</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
