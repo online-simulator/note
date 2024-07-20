@@ -357,7 +357,7 @@
     <th><del>小松菜</del><br>小松菜</th>
     <th><img src="img/IMG_2024-04-20-13-51-41-541.jpg"></th>
     <th>NW</th>
-    <th>点<br>筋</th>
+    <th>点<br>条</th>
     <th>50*3*1<br>50*2*1</th>
     <th>葉裏の白浮きを除外</th>
     <td>　</td><td>　</td><td>　</td>
