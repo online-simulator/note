@@ -606,7 +606,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>植</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>芽</td>
-    <td>芽</td><td>■4<br>葉<br>■</td><td>　</td>
+    <td>芽</td><td>■4<br>葉<br>■</td><td>■</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -626,7 +626,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>植</td><td>　</td><td>　</td>
               <td>　</td><td>網</td><td>■6<br>芽</td>
-    <td>■6<br>芽<br>■</td><td>■6<br>葉<br>■</td><td>　</td>
+    <td>■6<br>芽<br>■</td><td>■6<br>葉<br>■</td><td>■</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
