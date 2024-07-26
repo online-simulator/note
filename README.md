@@ -366,7 +366,7 @@
           <td>虫</td><td>土<br>重</td><td>重<br>土<br>芽</td>
             <td>芽<br>■</td><td>■</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
-    <td>土</td><td>植</td><td>　</td>
+    <td>土</td><td>植</td><td>○</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -606,7 +606,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>植</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>芽</td>
-    <td>芽</td><td>■4<br>葉<br>■</td><td>■2</td>
+    <td>芽</td><td>■4<br>葉<br>■</td><td>■3</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -626,7 +626,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>植</td><td>　</td><td>　</td>
               <td>　</td><td>網</td><td>■6<br>芽</td>
-    <td>■6<br>芽<br>■</td><td>■6<br>葉<br>■</td><td>■2</td>
+    <td>■6<br>芽<br>■</td><td>■6<br>葉<br>■</td><td>■3</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
