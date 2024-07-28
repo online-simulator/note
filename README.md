@@ -366,7 +366,7 @@
           <td>虫</td><td>土<br>重</td><td>重<br>土<br>芽</td>
             <td>芽<br>■</td><td>■</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
-    <td>土</td><td>植</td><td>○</td>
+    <td>土</td><td>植</td><td>○<br>土</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -486,7 +486,7 @@
           <td>∩</td><td>土<br>重</td><td>土<br>芽2</td>
             <td>芽3</td><td>■2</td><td>■3</td>
               <td>■2<br>土</td><td>■<br>乾</td><td>　</td>
-    <td>土<br>種</td><td>◎</td><td>　</td>
+    <td>土<br>種</td><td>◎</td><td>土</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
