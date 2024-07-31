@@ -486,7 +486,7 @@
           <td>∩</td><td>土<br>重</td><td>土<br>芽2</td>
             <td>芽3</td><td>■2</td><td>■3</td>
               <td>■2<br>土</td><td>■<br>乾</td><td>　</td>
-    <td>土<br>種</td><td>◎</td><td>土</td>
+    <td>土<br>種</td><td>◎</td><td>土2</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
