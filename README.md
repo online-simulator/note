@@ -474,7 +474,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th><del>カブ</del><br>カブ</th>
+    <th><del>カブ</del><br><del>カブ</del></th>
     <th><img src="img/IMG_2024-04-20-13-44-49-929.jpg"></th>
     <th>SC</th>
     <th>点</th>
@@ -487,7 +487,7 @@
             <td>芽3</td><td>■2</td><td>■3</td>
               <td>■2<br>土</td><td>■<br>乾</td><td>　</td>
     <td>土<br>種</td><td>◎</td><td>土2</td>
-      <td>虫<br>土</td><td>　</td><td>　</td>
+      <td>虫<br>土<br>芽</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -827,14 +827,14 @@
             <td>　</td><td>植</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
-      <td>　</td><td>　</td><td>　</td>
+      <td>■</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>枝豆</th>
+    <th><del>枝豆</del></th>
     <th><img src="img/IMG_2024-07-07-11-42-00-323.jpg"></th>
     <th>SE</th>
     <th>苗</th>
@@ -847,7 +847,7 @@
             <td>　</td><td>植</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
-      <td>　</td><td>　</td><td>　</td>
+      <td>■</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
