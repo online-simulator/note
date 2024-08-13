@@ -627,14 +627,14 @@
             <td>植</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>芽</td>
     <td>芽</td><td>■4<br>葉<br>■</td><td>■6</td>
-      <td>■8</td><td>■</td><td>　</td>
+      <td>■8</td><td>■2</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>きゅうり</th>
+    <th><del>きゅうり</del></th>
     <th><img src="img/IMG_2024-06-15-16-19-25-961.jpg"><img src="img/IMG_2024-07-07-11-40-58-384.jpg"></th>
     <th>WC</th>
     <th>苗</th>
@@ -647,7 +647,7 @@
             <td>植</td><td>　</td><td>　</td>
               <td>　</td><td>網</td><td>■6<br>芽</td>
     <td>■6<br>芽<br>■</td><td>■6<br>葉<br>■</td><td>■7</td>
-      <td>■5<br>葉</td><td>　</td><td>　</td>
+      <td>■5<br>葉</td><td>■</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
