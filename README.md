@@ -467,7 +467,7 @@
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>■</td><td>　</td><td>　</td>
-      <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>■</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -687,7 +687,7 @@
             <td>　</td><td>植</td><td>　</td>
               <td>　</td><td>　</td><td>■4</td>
     <td>■3<br>芽</td><td>■4</td><td>■</td>
-      <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>■</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -707,7 +707,7 @@
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>■2<br>■<br>芽</td><td>■4</td><td>■</td>
-      <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>■</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
