@@ -814,7 +814,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>枝豆</th>
+    <th><del>枝豆</del></th>
     <th><img src="img/IMG_2024-05-18-16-42-12-415.jpg"><img src="img/IMG_2024-07-07-11-41-37-726.jpg"></th>
     <th>SC</th>
     <th>苗</th>
