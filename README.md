@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="css/size.css">
 <body>
 <table>
-<caption>2024年<br>[土]作り　[芽]かき　[葉]かき　[種]まき　定[植]　[重]曹1/1000倍　∩トンネル　○◎発芽　■収穫</caption>
+<caption>2024年<br>[土]作り　[石]灰　[芽]かき　[葉]かき　[種]まき　定[植]　[重]曹1/1000倍　∩トンネル　○◎発芽　■収穫　種[回]収</caption>
 <thead>
   <tr>
     <th>品種</th>
@@ -367,7 +367,7 @@
             <td>芽<br>■</td><td>■</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>土</td><td>植</td><td>○<br>土</td>
-      <td>土<br>∩</td><td>　</td><td>　</td>
+      <td>土<br>∩</td><td>芽</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -448,6 +448,26 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>回</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th></th>
+    <th></th>
+    <th>WC</th>
+    <th></th>
+    <th></th>
+    <th>セロリの次</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>石</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
