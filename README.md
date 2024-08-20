@@ -594,7 +594,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>トマト</th>
+    <th><del>トマト</del></th>
     <th><img src="img/IMG_2024-04-27-10-57-25-005.jpg"><img src="img/IMG_2024-06-15-16-12-54-038.jpg"><img src="img/IMG_2024-07-07-11-43-08-900.jpg"></th>
     <th>EC</th>
     <th>苗</th>
@@ -647,7 +647,7 @@
             <td>植</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>芽</td>
     <td>芽</td><td>■4<br>葉<br>■</td><td>■6</td>
-      <td>■8</td><td>■2<br>葉</td><td>　</td>
+      <td>■8</td><td>■2<br>葉2</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -987,7 +987,7 @@
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>土</td>
     <td>植</td><td>　</td><td>　</td>
-      <td>　</td><td>■</td><td>　</td>
+      <td>　</td><td>■2</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
