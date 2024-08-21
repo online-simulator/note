@@ -367,7 +367,7 @@
             <td>芽<br>■</td><td>■</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>土</td><td>植</td><td>○<br>土</td>
-      <td>土<br>∩</td><td>芽</td><td>　</td>
+      <td>土<br>∩</td><td>芽</td><td>■</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -974,7 +974,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>うり</th>
+    <th><del>うり</del></th>
     <th><img src="img/IMG_2024-07-07-11-39-51-809.jpg"></th>
     <th>WC</th>
     <th>苗</th>
