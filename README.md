@@ -187,7 +187,7 @@
             <td>■</td><td>■2</td><td>■</td>
               <td>■</td><td>　</td><td>　</td>
     <td>土<br>種</td><td>◎</td><td>土</td>
-      <td>　</td><td>芽</td><td>　</td>
+      <td>　</td><td>芽</td><td>芽</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -354,7 +354,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th><del>小松菜</del><br>小松菜</th>
+    <th><del>小松菜</del><br><del>小松菜</del></th>
     <th><img src="img/IMG_2024-04-20-13-51-41-541.jpg"></th>
     <th>NW</th>
     <th>点<br>条</th>
@@ -367,7 +367,7 @@
             <td>芽<br>■</td><td>■</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>土</td><td>植</td><td>○<br>土</td>
-      <td>土<br>∩</td><td>芽</td><td>■</td>
+      <td>土<br>∩</td><td>芽</td><td>虫<br>■2</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -634,7 +634,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>トマト</th>
+    <th><del>トマト</del></th>
     <th><img src="img/IMG_2024-06-15-16-19-18-218.jpg"><img src="img/IMG_2024-07-07-11-40-26-695.jpg"></th>
     <th>WC</th>
     <th>苗</th>
