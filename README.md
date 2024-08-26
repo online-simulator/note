@@ -147,7 +147,7 @@
             <td>芽</td><td>薹<br>■</td><td>■</td>
               <td>　</td><td>土2</td><td>■<br>土2</td>
     <td>　</td><td>■<br>芽</td><td>　</td>
-      <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>土</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
