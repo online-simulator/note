@@ -474,26 +474,6 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th></th>
-    <th></th>
-    <th>WC</th>
-    <th></th>
-    <th></th>
-    <th>セロリの次</th>
-    <td>　</td><td>　</td><td>　</td>
-      <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>　</td><td>　</td>
-          <td>　</td><td>　</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
-    <td>　</td><td>　</td><td>　</td>
-      <td>　</td><td>石<br>耕<br>土</td><td>　</td>
-        <td>土</td><td>　</td><td>　</td>
-          <td>　</td><td>　</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
-  </tr>
-  <tr>
     <th>唐辛子</th>
     <th><img src="img/IMG_2024-06-15-16-18-58-078.jpg"></th>
     <th>WC</th>
@@ -1009,6 +989,26 @@
     <td>植</td><td>　</td><td>　</td>
       <td>　</td><td>■2</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th></th>
+    <th></th>
+    <th>SC<br>W</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>石<br>耕<br>土</td><td>　</td>
+        <td>土<br>耕</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
