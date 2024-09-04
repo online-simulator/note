@@ -1008,7 +1008,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>石<br>耕<br>土</td><td>　</td>
-        <td>土<br>耕</td><td>　</td><td>　</td>
+        <td>土<br>耕<br>土</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
