@@ -614,7 +614,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>トマト</th>
+    <th><del>トマト</del></th>
     <th><img src="img/IMG_2024-04-27-10-48-59-766.jpg"><img src="img/IMG_2024-06-15-16-16-53-167.jpg"></th>
     <th>SC</th>
     <th>苗</th>
@@ -674,7 +674,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>きゅうり</th>
+    <th><del>きゅうり</del></th>
     <th><img src="img/IMG_2024-04-27-10-49-15-616.jpg"><img src="img/IMG_2024-06-15-16-16-04-705.jpg"></th>
     <th>SC</th>
     <th>苗</th>
@@ -694,7 +694,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>きゅうり</th>
+    <th><del>きゅうり</del></th>
     <th><img src="img/IMG_2024-05-18-16-43-11-136.jpg"><img src="img/IMG_2024-06-15-16-12-07-777.jpg"></th>
     <th>EC</th>
     <th>苗</th>
@@ -714,7 +714,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>きゅうり</th>
+    <th><del>きゅうり</del></th>
     <th><img src="img/IMG_2024-07-07-11-43-21-450.jpg"></th>
     <th>NE</th>
     <th>苗</th>
