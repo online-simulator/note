@@ -894,7 +894,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>ズッキーニ</th>
+    <th><del>ズッキーニ</del></th>
     <th><img src="img/IMG_2024-05-18-16-42-49-988.jpg"><img src="img/IMG_2024-06-15-16-22-31-222.jpg"></th>
     <th>SE</th>
     <th>苗</th>
