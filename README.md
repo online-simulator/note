@@ -37,7 +37,7 @@
     <th></th>
     <th></th>
     <th></th>
-    <th>天気</th>
+    <th>雨　午[前]　午[後]　[終]日</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -45,8 +45,8 @@
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
-      <td>　</td><td>　</td><td>雨</td>
-        <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>終1</td>
+        <td>前1</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -476,7 +476,7 @@
   <tr>
     <th>唐辛子</th>
     <th><img src="img/IMG_2024-06-15-16-18-58-078.jpg"><img src="img/IMG_2024-09-05-14-37-54-255.jpg"></th>
-    <th>WC</th>
+    <th><del>WC</del><br>SC</th>
     <th>点</th>
     <th>4*1*1</th>
     <th>1本残し</th>
@@ -488,7 +488,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>■</td><td>　</td><td>　</td>
       <td>　</td><td>■</td><td>　</td>
-        <td>■</td><td>　</td><td>　</td>
+        <td>■<br>替</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -1016,7 +1016,7 @@
   <tr>
     <th></th>
     <th><img src="img/IMG_2024-09-05-14-37-33-387.jpg"></th>
-    <th>SC<br>W</th>
+    <th>SE<br>SC<br>W</th>
     <th></th>
     <th></th>
     <th></th>
@@ -1028,7 +1028,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>石<br>耕<br>土</td><td>　</td>
-        <td>土<br>耕<br>土</td><td>　</td><td>　</td>
+        <td>土<br>耕<br>土<br>耕</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
