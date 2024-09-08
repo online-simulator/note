@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="css/size.css">
 <body>
 <table>
-<caption>2024年<br>[土]作り　[耕]うん　[石]灰　[芽]かき　[葉]かき　[枝]落とし　[種]まき　定[植]　植[替]え　[重]曹1/1000倍　∩トンネル　○◎発芽　■収穫　種[回]収</caption>
+<caption>2024年<br>[土]作り　[耕]うん　[石]灰　[肥]料　[芽]かき　[葉]かき　[枝]落とし　[種]まき　定[植]　植[替]え　[重]曹1/1000倍　∩トンネル　○◎発芽　■収穫　種[回]収</caption>
 <thead>
   <tr>
     <th>品種</th>
@@ -158,8 +158,8 @@
     <th><img src="img/IMG_2024-03-27-13-25-55-295.jpg"><img src="img/IMG_2024-09-05-14-45-53-336.jpg"></th>
     <th><del>SE</del><br>SC</th>
     <th>株</th>
-    <th>10*1*3</th>
-    <th></th>
+    <th>10*1*3<br>30*3*1</th>
+    <th>土と一緒に植替え・水</th>
     <td>土</td><td>植</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>■</td>
@@ -1028,7 +1028,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>石<br>耕<br>土</td><td>　</td>
-        <td>土<br>耕<br>土<br>耕<br>石</td><td>　</td><td>　</td>
+        <td>土<br>耕<br>土<br>耕<br>石<br>耕</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
