@@ -1016,7 +1016,7 @@
   <tr>
     <th></th>
     <th><img src="img/IMG_2024-09-05-14-37-33-387.jpg"></th>
-    <th>SE<br>SC<br>W</th>
+    <th>NE<br>SE<br>SC<br>W</th>
     <th></th>
     <th></th>
     <th></th>
@@ -1028,7 +1028,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>石<br>耕<br>土</td><td>　</td>
-        <td>土<br>耕<br>土<br>耕<br>石<br>耕</td><td>　</td><td>　</td>
+        <td>土<br>耕<br>土<br>耕<br>石<br>耕<br>肥<br>耕</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
