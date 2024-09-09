@@ -148,7 +148,7 @@
               <td>　</td><td>土</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>倒</td><td>　</td><td>　</td>
+        <td>倒<br>枝</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -159,7 +159,7 @@
     <th><del>SE</del><br>SC</th>
     <th>株</th>
     <th>10*1*3<br>30*3*1</th>
-    <th>土と一緒に植替え・水</th>
+    <th>土と一緒に移動・水</th>
     <td>土</td><td>植</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>■</td>
