@@ -148,7 +148,7 @@
               <td>　</td><td>土</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>倒<br>枝</td><td>　</td><td>　</td>
+        <td>倒<br>枝<br>供</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
