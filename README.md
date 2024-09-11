@@ -1018,8 +1018,8 @@
     <th><img src="img/IMG_2024-09-05-14-37-33-387.jpg"></th>
     <th>NE<br>SE<br>SC<br>W</th>
     <th></th>
-    <th></th>
-    <th></th>
+    <th>畝13</th>
+    <th>直進</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -1028,7 +1028,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>石<br>耕<br>土</td><td>　</td>
-        <td>土<br>耕<br>土<br>耕<br>石<br>耕<br>肥<br>耕</td><td>　</td><td>　</td>
+        <td>土<br>耕<br>土<br>耕<br>石<br>耕<br>肥<br>耕<br>畝</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
