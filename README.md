@@ -38,13 +38,13 @@
     <th></th>
     <th></th>
     <th>雨　午[前]　午[後]　[終]日</th>
-    <td>　</td><td>　</td><td>　</td>
-      <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>　</td><td>　</td>
-          <td>　</td><td>　</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
-    <td>　</td><td>　</td><td>　</td>
+    <td>－</td><td>－</td><td>－</td>
+      <td>－</td><td>－</td><td>－</td>
+        <td>－</td><td>－</td><td>－</td>
+          <td>－</td><td>－</td><td>－</td>
+            <td>－</td><td>－</td><td>－</td>
+              <td>－</td><td>－</td><td>－</td>
+    <td>－</td><td>－</td><td>－</td>
       <td>　</td><td>　</td><td>終1</td>
         <td>朝1</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
