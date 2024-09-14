@@ -32,8 +32,8 @@
     <th colspan="3">12月</th>
   </tr>
   <tr>
-    <th><img src="img/IMG_2024-09-14-14-43-22-117.jpg"><img src="img/IMG_2024-09-14-14-45-06-086.jpg"></th>
     <th></th>
+    <th><img src="img/IMG_2024-09-14-14-43-22-117.jpg"><img src="img/IMG_2024-09-14-14-45-06-086.jpg"></th>
     <th></th>
     <th></th>
     <th></th>
