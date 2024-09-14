@@ -95,7 +95,7 @@
   </tr>
   <tr>
     <th>みかん</th>
-    <th><img src="img/IMG_2024-06-15-16-21-24-998.jpg"></th>
+    <th><img src="img/IMG_2024-06-15-16-21-24-998.jpg"><img src="img/IMG_2024-09-14-13-25-02-237.jpg"></th>
     <th>SW</th>
     <th></th>
     <th>1+1</th>
@@ -135,7 +135,7 @@
   </tr>
   <tr>
     <th>菊</th>
-    <th></th>
+    <th><img src="img/IMG_2024-09-14-13-25-47-860.jpg"></th>
     <th>EC</th>
     <th>元株</th>
     <th>5*2*1</th>
@@ -155,7 +155,7 @@
   </tr>
   <tr>
     <th>菊</th>
-    <th><img src="img/IMG_2024-04-20-13-43-57-804.jpg"><img src="img/IMG_2024-06-15-16-15-10-320.jpg"><img src="img/IMG_2024-09-05-14-41-01-775.jpg"></th>
+    <th><img src="img/IMG_2024-04-20-13-43-57-804.jpg"><img src="img/IMG_2024-06-15-16-15-10-320.jpg"><img src="img/IMG_2024-09-05-14-41-01-775.jpg"><img src="img/IMG_2024-09-14-13-26-40-358.jpg"></th>
     <th>SE</th>
     <th>株</th>
     <th>14*1*1</th>
@@ -175,7 +175,7 @@
   </tr>
   <tr>
     <th>ネギ</th>
-    <th><img src="img/IMG_2024-03-27-13-25-55-295.jpg"><img src="img/IMG_2024-09-05-14-45-53-336.jpg"></th>
+    <th><img src="img/IMG_2024-03-27-13-25-55-295.jpg"><img src="img/IMG_2024-09-05-14-45-53-336.jpg"><img src="img/IMG_2024-09-14-13-24-47-319.jpg"></th>
     <th><del>SE</del><br>SC</th>
     <th>株</th>
     <th>10*1*3<br>30*3*1</th>
@@ -215,7 +215,7 @@
   </tr>
   <tr>
     <th><del>人参</del><br>人参</th>
-    <th><img src="img/IMG_2024-04-20-13-47-39-086.jpg"></th>
+    <th><img src="img/IMG_2024-04-20-13-47-39-086.jpg"><img src="img/IMG_2024-09-14-13-31-05-816.jpg"></th>
     <th>NC</th>
     <th>条<br>点</th>
     <th>20*3*1<br>50*2*1</th>
@@ -315,7 +315,7 @@
   </tr>
   <tr>
     <th>サツマイモ</th>
-    <th><img src="img/IMG_2024-06-15-16-09-09-804.jpg"><img src="img/IMG_2024-07-07-11-43-48-434.jpg"><img src="img/IMG_2024-09-05-14-41-59-587.jpg"></th>
+    <th><img src="img/IMG_2024-06-15-16-09-09-804.jpg"><img src="img/IMG_2024-07-07-11-43-48-434.jpg"><img src="img/IMG_2024-09-05-14-41-59-587.jpg"><img src="img/IMG_2024-09-14-13-22-01-801.jpg"></th>
     <th>CC</th>
     <th>苗</th>
     <th>10*1*3</th>
@@ -375,7 +375,7 @@
   </tr>
   <tr>
     <th>ナス</th>
-    <th><img src="img/IMG_2024-04-27-10-57-12-729.jpg"><img src="img/IMG_2024-06-15-16-13-34-293.jpg"><img src="img/IMG_2024-07-07-11-43-02-571.jpg"></th>
+    <th><img src="img/IMG_2024-04-27-10-57-12-729.jpg"><img src="img/IMG_2024-06-15-16-13-34-293.jpg"><img src="img/IMG_2024-07-07-11-43-02-571.jpg"><img src="img/IMG_2024-09-14-13-28-10-238.jpg"></th>
     <th>EC</th>
     <th>苗</th>
     <th>6*1*1</th>
@@ -495,7 +495,7 @@
   </tr>
   <tr>
     <th>唐辛子</th>
-    <th><img src="img/IMG_2024-06-15-16-18-58-078.jpg"><img src="img/IMG_2024-09-05-14-37-54-255.jpg"></th>
+    <th><img src="img/IMG_2024-06-15-16-18-58-078.jpg"><img src="img/IMG_2024-09-05-14-37-54-255.jpg"><img src="img/IMG_2024-09-14-13-25-17-697.jpg"></th>
     <th><del>WC</del><br>SC</th>
     <th>点</th>
     <th>4*1*1</th>
@@ -755,7 +755,7 @@
   </tr>
   <tr>
     <th>ピーマン</th>
-    <th><img src="img/IMG_2024-04-27-10-49-37-344.jpg"><img src="img/IMG_2024-06-15-16-16-09-565.jpg"></th>
+    <th><img src="img/IMG_2024-04-27-10-49-37-344.jpg"><img src="img/IMG_2024-06-15-16-16-09-565.jpg"><img src="img/IMG_2024-09-14-13-27-30-050.jpg"></th>
     <th>SC</th>
     <th>苗</th>
     <th>2*1*1</th>
@@ -775,7 +775,7 @@
   </tr>
   <tr>
     <th>ナス</th>
-    <th><img src="img/IMG_2024-04-27-10-49-30-232.jpg"><img src="img/IMG_2024-06-15-16-15-53-804.jpg"></th>
+    <th><img src="img/IMG_2024-04-27-10-49-30-232.jpg"><img src="img/IMG_2024-06-15-16-15-53-804.jpg"><img src="img/IMG_2024-09-14-13-27-44-328.jpg"></th>
     <th>CC</th>
     <th>苗</th>
     <th>3*1*1</th>
@@ -835,7 +835,7 @@
   </tr>
   <tr>
     <th>大葉</th>
-    <th><img src="img/IMG_2024-06-15-16-09-34-019.jpg"></th>
+    <th><img src="img/IMG_2024-06-15-16-09-34-019.jpg"><img src="img/IMG_2024-09-14-13-27-50-571.jpg"></th>
     <th>EC</th>
     <th>苗</th>
     <th>4*1*1</th>
@@ -955,7 +955,7 @@
   </tr>
   <tr>
     <th>オクラ</th>
-    <th><img src="img/IMG_2024-07-07-11-42-51-951.jpg"></th>
+    <th><img src="img/IMG_2024-07-07-11-42-51-951.jpg"><img src="img/IMG_2024-09-14-13-27-58-758.jpg"></th>
     <th>EC</th>
     <th>苗</th>
     <th>14*1*1</th>
@@ -1015,7 +1015,7 @@
   </tr>
   <tr>
     <th>にら</th>
-    <th><img src="img/IMG_2024-09-05-14-37-16-017.jpg"></th>
+    <th><img src="img/IMG_2024-09-05-14-37-16-017.jpg"><img src="img/IMG_2024-09-14-13-22-25-643.jpg"></th>
     <th>NC</th>
     <th></th>
     <th></th>
@@ -1035,7 +1035,7 @@
   </tr>
   <tr>
     <th></th>
-    <th><img src="img/IMG_2024-09-05-14-37-33-387.jpg"></th>
+    <th><img src="img/IMG_2024-09-05-14-37-33-387.jpg"><img src="img/IMG_2024-09-14-13-22-49-996.jpg"></th>
     <th>W</th>
     <th></th>
     <th>畝<del>13</del>9</th>
