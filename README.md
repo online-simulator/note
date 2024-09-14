@@ -46,7 +46,7 @@
               <td>－</td><td>－</td><td>－</td>
     <td>－</td><td>－</td><td>－</td>
       <td>　</td><td>　</td><td>終1</td>
-        <td>朝1</td><td>夕1</td><td>　</td>
+        <td>朝1</td><td>夕1<br>朝1</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -228,7 +228,7 @@
               <td>■</td><td>　</td><td>　</td>
     <td>土<br>種</td><td>◎</td><td>土</td>
       <td>　</td><td>芽</td><td>芽<br>虫</td>
-        <td>芽</td><td>虫</td><td>　</td>
+        <td>芽</td><td>虫<br>芽</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -328,7 +328,7 @@
               <td>土</td><td>土2<br>植</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>返2</td><td>　</td>
+        <td>　</td><td>返2<br>芽</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -388,7 +388,7 @@
               <td>土</td><td>　</td><td>■</td>
     <td>■3</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>■</td><td>　</td><td>　</td>
+        <td>■</td><td>■</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -968,7 +968,7 @@
               <td>　</td><td>　</td><td>■<br>芽</td>
     <td>■2</td><td>　</td><td>　</td>
       <td>■</td><td>　</td><td>　</td>
-        <td>■</td><td>　</td><td>　</td>
+        <td>■</td><td>■</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
