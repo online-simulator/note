@@ -228,7 +228,7 @@
               <td>■</td><td>　</td><td>　</td>
     <td>土<br>種</td><td>◎</td><td>土</td>
       <td>　</td><td>芽</td><td>芽<br>虫</td>
-        <td>芽</td><td>　</td><td>　</td>
+        <td>芽</td><td>虫</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -328,7 +328,7 @@
               <td>土</td><td>土2<br>植</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>返</td><td>　</td>
+        <td>　</td><td>返2</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -1036,10 +1036,10 @@
   <tr>
     <th></th>
     <th><img src="img/IMG_2024-09-05-14-37-33-387.jpg"></th>
-    <th>NE<br>SE<br>SC<br>W</th>
+    <th>W</th>
     <th></th>
-    <th>畝13</th>
-    <th>直進</th>
+    <th>畝<del>13</del>9</th>
+    <th>直進・広め</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -1048,7 +1048,27 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>石<br>耕<br>土</td><td>　</td>
-        <td>土<br>耕<br>土<br>耕<br>石<br>耕<br>肥<br>耕</td><td>畝2</td><td>　</td>
+        <td>土<br>耕<br>土<br>耕<br>石<br>耕<br>肥<br>耕</td><td>畝3<br>肥</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th></th>
+    <th></th>
+    <th>NE<br>SE<br>SC</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>耕</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
