@@ -32,7 +32,7 @@
     <th colspan="3">12月</th>
   </tr>
   <tr>
-    <th></th>
+    <th><img src="img/IMG_2024-09-14-14-43-22-117.jpg"><img src="img/IMG_2024-09-14-14-45-06-086.jpg"></th>
     <th></th>
     <th></th>
     <th></th>
@@ -46,7 +46,7 @@
               <td>－</td><td>－</td><td>－</td>
     <td>－</td><td>－</td><td>－</td>
       <td>　</td><td>　</td><td>終1</td>
-        <td>朝1</td><td>　</td><td>　</td>
+        <td>朝1</td><td>夕1</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
