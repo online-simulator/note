@@ -297,11 +297,11 @@
     <th><del>ジャガイモ</del></th>
     <th><img src="img/IMG_2024-04-20-13-47-50-250.jpg"></th>
     <th>NC<br>CC</th>
-    <th>種</th>
+    <th>種芋</th>
     <th>10*1*4</th>
     <th>芽かき・追肥・土寄せ</th>
     <td>　</td><td>　</td><td>土</td>
-      <td>　</td><td>種</td><td>　</td>
+      <td>　</td><td>植</td><td>　</td>
         <td>　</td><td>◎</td><td>　</td>
           <td>芽</td><td>土</td><td>土<br>花</td>
             <td>　</td><td>　</td><td>■2</td>
@@ -309,6 +309,26 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>ジャガイモ</th>
+    <th></th>
+    <th>SW</th>
+    <th>種芋</th>
+    <th>15*1*3</th>
+    <th>キャベツの次<br>春収穫の芋を半分にして乾燥<br>切り口を下向き<br>ネギ</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>土<br>植<br>柵</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -609,6 +629,26 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>ニンニク</th>
+    <th></th>
+    <th>NW</th>
+    <th>株</th>
+    <th>15*2*1</th>
+    <th>うりの次<br>根の切り口を下向き</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>土<br>植</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
