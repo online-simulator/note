@@ -554,11 +554,11 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th><del>赤カブ</del></th>
+    <th><del>赤カブ</del><br>赤カブ</th>
     <th><img src="img/IMG_2024-04-20-13-50-26-973.jpg"></th>
     <th>NW</th>
-    <th>条</th>
-    <th>30*4*1</th>
+    <th>条<br>点</th>
+    <th>30*4*1<br>80*4*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -568,7 +568,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>土<br>種</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -1079,7 +1079,7 @@
     <th>W</th>
     <th></th>
     <th>畝<del>13</del>9</th>
-    <th>直進・広め</th>
+    <th>直進・広め<br>ジャガイモ<br>ニンニク<br>赤カブ</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
