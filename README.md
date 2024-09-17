@@ -294,6 +294,26 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
+    <th>春菊</th>
+    <th></th>
+    <th>NW</th>
+    <th></th>
+    <th></th>
+    <th>小松菜の次</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>土<br>種</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
     <th><del>ジャガイモ</del></th>
     <th><img src="img/IMG_2024-04-20-13-47-50-250.jpg"></th>
     <th>NC<br>CC</th>
@@ -348,7 +368,7 @@
               <td>土</td><td>土2<br>植</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>返2<br>芽</td><td>　</td>
+        <td>　</td><td>返2<br>芽<br>返</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -1079,7 +1099,7 @@
     <th>W</th>
     <th></th>
     <th>畝<del>13</del>9</th>
-    <th>直進・広め<br>ジャガイモ<br>ニンニク<br>赤カブ</th>
+    <th>直進・広め<br>ジャガイモ<br>ニンニク<br>赤カブ<br>春菊</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
