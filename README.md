@@ -274,6 +274,26 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
+    <th>大根</th>
+    <th></th>
+    <th>WC</th>
+    <th>点</th>
+    <th>(3*20)*2*2</th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>土<br>種</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
     <th><del>春菊</del></th>
     <th><img src="img/IMG_2024-04-27-10-45-34-841.jpg"></th>
     <th>WC</th>
@@ -578,7 +598,7 @@
     <th><img src="img/IMG_2024-04-20-13-50-26-973.jpg"></th>
     <th>NW</th>
     <th>条<br>点</th>
-    <th>30*4*1<br>80*4*1</th>
+    <th>30*4*0.3<br>80*4*0.3</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -658,7 +678,7 @@
     <th></th>
     <th>NW</th>
     <th>株</th>
-    <th>15*2*1</th>
+    <th>15*2*0.7</th>
     <th>うりの次<br>根の切り口を下向き</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -1099,7 +1119,7 @@
     <th>W</th>
     <th></th>
     <th>畝<del>13</del>9</th>
-    <th>直進・広め<br>ジャガイモ<br>ニンニク<br>赤カブ<br>春菊</th>
+    <th>直進・広め<br>ジャガイモ<br>ニンニク<br>赤カブ<br>春菊<br>大根</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
