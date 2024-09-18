@@ -434,6 +434,46 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
+    <th>ほうれん草</th>
+    <th></th>
+    <th>WC</th>
+    <th>条</th>
+    <th>100*3*0.7</th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>土<br>種</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>小松菜</th>
+    <th></th>
+    <th>WC</th>
+    <th>条</th>
+    <th>50*2*0.3</th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>土<br>種</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
     <th>ナス</th>
     <th><img src="img/IMG_2024-04-27-10-57-12-729.jpg"><img src="img/IMG_2024-06-15-16-13-34-293.jpg"><img src="img/IMG_2024-07-07-11-43-02-571.jpg"><img src="img/IMG_2024-09-14-13-28-10-238.jpg"></th>
     <th>EC</th>
@@ -1119,7 +1159,7 @@
     <th>W</th>
     <th></th>
     <th>畝<del>13</del>9</th>
-    <th>直進・広め<br>ジャガイモ<br>ニンニク<br>赤カブ<br>春菊<br>大根</th>
+    <th>直進・広め<br>ジャガイモ<br>ニンニク<br>赤カブ<br>春菊<br>大根<br>ほうれん草<br>小松菜</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
