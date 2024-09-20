@@ -534,6 +534,26 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
+    <th>キャベツ</th>
+    <th></th>
+    <th></th>
+    <th>pot</th>
+    <th>10*1*3</th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
     <th><del>そら豆</del></th>
     <th><img src="img/IMG_2024-04-20-13-48-32-185.jpg"></th>
     <th>SW</th>
