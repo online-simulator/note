@@ -46,7 +46,7 @@
               <td>－</td><td>－</td><td>－</td>
     <td>－</td><td>－</td><td>－</td>
       <td>　</td><td>　</td><td>終1</td>
-        <td>朝1</td><td>夕1<br>朝1</td><td>　</td>
+        <td>朝1</td><td>夕1<br>朝1</td><td>前1</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
