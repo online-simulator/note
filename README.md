@@ -1199,7 +1199,7 @@
     <th>W</th>
     <th></th>
     <th>畝<del>13</del>9</th>
-    <th>直進・広め<br>ジャガイモ<br>ニンニク<br>赤カブ<br>春菊<br>大根<br>ほうれん草<br>小松菜</th>
+    <th>直進・広め<br>ジャガイモ<br>ニンニク<br>赤カブ<br>春菊<br>大根<br>ほうれん草<br>小松菜<br>白菜</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
