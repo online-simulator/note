@@ -556,9 +556,9 @@
   <tr>
     <th>白菜</th>
     <th></th>
-    <th></th>
+    <th>WC</th>
     <th>pot</th>
-    <th>(5*10)*1*1</th>
+    <th>(5*10)*1*0.6</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
