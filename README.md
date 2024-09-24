@@ -228,7 +228,7 @@
               <td>■</td><td>　</td><td>　</td>
     <td>土<br>種</td><td>◎</td><td>土</td>
       <td>　</td><td>芽</td><td>芽<br>虫</td>
-        <td>芽</td><td>虫<br>芽</td><td>　</td>
+        <td>芽</td><td>虫<br>芽</td><td>肥<br>芽</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -288,7 +288,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>土<br>種</td><td>　</td>
+        <td>　</td><td>土<br>種</td><td>∩</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -448,7 +448,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>土<br>種</td><td>　</td>
+        <td>　</td><td>土<br>種</td><td>∩</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -468,7 +468,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>土<br>種</td><td>　</td>
+        <td>　</td><td>土<br>種</td><td>∩</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -568,7 +568,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>　</td><td>種<br>○<br>植</td>
+        <td>　</td><td>　</td><td>種<br>○<br>植<br>∩</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
