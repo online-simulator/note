@@ -388,7 +388,7 @@
               <td>土</td><td>土2<br>植</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>返2<br>芽<br>返</td><td>　</td>
+        <td>　</td><td>返2<br>芽<br>返</td><td>■</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
