@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="css/size.css">
 <body>
 <table>
-<caption>2024年<br>[土]作り　[耕]うん　[石]灰　[肥]料　[芽]かき　[葉]かき　[枝]落とし　つる[返]し　[種]まき　定[植]　植[替]え　[重]曹1/1000倍　∩トンネル　○◎発芽　■収穫　種[回]収</caption>
+<caption>2024年<br>[土]作り　[耕]うん　[石]灰　[肥]料　[芽]かき　[葉]かき　[枝]落とし　つる[返]し　[根]出し　[種]まき　定[植]　植[替]え　[重]曹1/1000倍　∩トンネル　○◎発芽　■収穫　種[回]収</caption>
 <thead>
   <tr>
     <th>品種</th>
@@ -359,7 +359,7 @@
     <th>SW</th>
     <th>種芋</th>
     <th>15*1*3</th>
-    <th>キャベツ等の次<br>春収穫の芋を半分にして乾燥<br>切り口を下向き<br>ネギ</th>
+    <th>キャベツ等の次<br>店の在庫なし<br>春収穫の芋を半分にして乾燥<br>切り口を下向き<br>ネギ</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -389,6 +389,26 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>返2<br>芽<br>返</td><td>■</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>サツマイモ（仮）</th>
+    <th></th>
+    <th>WC</th>
+    <th>苗</th>
+    <th>3*3*0.4</th>
+    <th>季節外れの様子見</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>根<br>植</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -548,7 +568,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>　</td><td>種</td>
+        <td>　</td><td>　</td><td>種<br>○</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -1199,7 +1219,7 @@
     <th>W</th>
     <th></th>
     <th>畝<del>13</del>9</th>
-    <th>直進・広め<br>ジャガイモ<br>ニンニク<br>赤カブ<br>春菊<br>大根<br>ほうれん草<br>小松菜<br>白菜</th>
+    <th>直進・広め<br>ジャガイモ<br>ニンニク<br>赤カブ<br>春菊<br>大根<br>ほうれん草<br>小松菜<br>白菜<br>サツマイモ（仮）</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
