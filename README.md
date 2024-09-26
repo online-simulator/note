@@ -579,7 +579,7 @@
     <th>WC</th>
     <th>pot</th>
     <th>(5*10)*1*0.6</th>
-    <th></th>
+    <th>芽出しが甘い（芽が小さい）</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -588,7 +588,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>　</td><td>種<br>○<br>植<br>∩</td>
+        <td>　</td><td>　</td><td>種<br>○<br>植<br>∩<br>虫</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
