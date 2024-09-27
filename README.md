@@ -559,7 +559,7 @@
     <th></th>
     <th>pot</th>
     <th>(3*9)*1*3</th>
-    <th></th>
+    <th>水やりに蛙が集まって虫が少ない</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -579,7 +579,7 @@
     <th>WC</th>
     <th>pot</th>
     <th>(5*10)*1*0.6</th>
-    <th>芽出しが甘い（芽が小さい）</th>
+    <th>芽が小さい<br>バッタが食べた？<br>直播きで補充</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
