@@ -108,7 +108,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>■</td><td>　</td><td>　</td>
+        <td>■</td><td>　</td><td>■</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -168,7 +168,7 @@
               <td>　</td><td>土</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>倒<br>枝<br>供</td><td>　</td><td>　</td>
+        <td>倒<br>枝<br>供</td><td>供</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -508,7 +508,7 @@
               <td>土</td><td>　</td><td>■</td>
     <td>■3</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>■</td><td>■</td><td>　</td>
+        <td>■</td><td>■</td><td>■</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -588,7 +588,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>　</td><td>種<br>○<br>植<br>∩<br>虫</td>
+        <td>　</td><td>　</td><td>種<br>○<br>植<br>∩<br>虫<br>種</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -708,7 +708,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>土<br>種</td><td>　</td>
+        <td>　</td><td>土<br>種</td><td>○</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -1014,7 +1014,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>大葉</th>
+    <th><del>大葉</del></th>
     <th><img src="img/IMG_2024-06-15-16-09-34-019.jpg"><img src="img/IMG_2024-09-14-13-27-50-571.jpg"></th>
     <th>EC</th>
     <th>苗</th>
@@ -1148,7 +1148,7 @@
               <td>　</td><td>　</td><td>■<br>芽</td>
     <td>■2</td><td>　</td><td>　</td>
       <td>■</td><td>　</td><td>　</td>
-        <td>■</td><td>■</td><td>　</td>
+        <td>■</td><td>■</td><td>■</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -1236,7 +1236,7 @@
   <tr>
     <th></th>
     <th></th>
-    <th>NE<br>SE<br>SC</th>
+    <th>NE<br>SE<br>SC<br>CC</th>
     <th></th>
     <th></th>
     <th></th>
@@ -1248,7 +1248,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>耕</td><td>　</td><td>　</td>
+        <td>耕</td><td>　</td><td>耕</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
