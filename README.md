@@ -219,7 +219,7 @@
     <th>NC</th>
     <th>条<br>点</th>
     <th>20*3*1<br>50*2*1</th>
-    <th>土の硬さ</th>
+    <th>土の硬さ<br>芋虫が葉を食べる</th>
     <td>種<br>∩</td><td>　</td><td>◎</td>
       <td>　</td><td><del>∩</del></td><td>　</td>
         <td>　</td><td>　</td><td>芽</td>
@@ -568,7 +568,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>　</td><td>種<br>○</td>
+        <td>　</td><td>　</td><td>種<br>○<br>◎</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -1199,7 +1199,7 @@
     <th>NC</th>
     <th></th>
     <th></th>
-    <th></th>
+    <th>バッタがハマスゲ同様に食べる</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
