@@ -579,7 +579,7 @@
     <th>WC</th>
     <th>pot</th>
     <th>(5*10)*1*0.6</th>
-    <th>芽が小さい<br>バッタが食べた？<br>直播きで補充</th>
+    <th>芽が小さい<br>バッタが草ないから食べた？<br>直播きの補充失敗</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
