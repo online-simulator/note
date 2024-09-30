@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="css/size.css">
 <body>
 <table>
-<caption>2024年<br>[土]作り　[耕]うん　石[灰]　[肥]料　[芽]かき　[葉]かき　[枝]落とし　つる[返]し　[根]出し　[種]まき　定[植]　植[替]え　[重]曹1/1000倍　∩トンネル　○◎発芽　■収穫　種[回]収</caption>
+<caption>2024年<br>[土]作り　[耕]うん　石[灰]　[肥]料　[芽]かき　[葉]かき　[枝]落とし　つる[返]し　[根]出し　[種]まき　定[植]　植[替]え　[重]曹1/1000倍　∩トンネル　○◎発芽　■収穫　[試]し掘り　種[回]収</caption>
 <thead>
   <tr>
     <th>品種</th>
@@ -388,7 +388,7 @@
               <td>土</td><td>土2<br>植</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>返2<br>芽<br>返</td><td>■</td>
+        <td>　</td><td>返2<br>芽<br>返</td><td>試</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
