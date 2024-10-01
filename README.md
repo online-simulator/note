@@ -559,7 +559,7 @@
     <th></th>
     <th>pot</th>
     <th>(3*9)*1*3</th>
-    <th>水やりに蛙が集まって虫が少ない</th>
+    <th>水やりに蛙が集まって虫が少ない<br>ネギの次<br>網作り10m*2+8m*3</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -690,6 +690,26 @@
       <td>虫<br>土<br>芽</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>カブ</th>
+    <th></th>
+    <th>CC</th>
+    <th>点</th>
+    <th>10*2*2</th>
+    <th>きゅうりの次</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>土</td>
+          <td>畝2</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -1110,6 +1130,26 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>ズッキーニ</th>
+    <th></th>
+    <th>SC</th>
+    <th>種</th>
+    <th>2*2*1</th>
+    <th>様子見</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>種</td><td>◎</td>
+          <td>種</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
