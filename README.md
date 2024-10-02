@@ -71,6 +71,26 @@
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>畦道　[補]修</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>補</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
 </thead>
 <tbody>
   <tr>
