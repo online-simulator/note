@@ -278,8 +278,8 @@
     <th></th>
     <th>WC</th>
     <th>点</th>
-    <th>(3*20)*2*2</th>
-    <th></th>
+    <th>(3*20)*2*1<br>(3*22)*1*1</th>
+    <th>1畝まき直し</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -289,7 +289,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>∩</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>種</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -379,7 +379,7 @@
     <th>CC</th>
     <th>苗</th>
     <th>10*1*3</th>
-    <th>ジャガイモの次<br>連作の様子見</th>
+    <th>ジャガイモの次<br>連作の様子見<br>根の延長に若干の筋あり</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -389,7 +389,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>返2<br>芽<br>返</td><td>試</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>試</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -459,7 +459,7 @@
     <th>WC</th>
     <th>条</th>
     <th>100*3*0.7</th>
-    <th></th>
+    <th>∩新品交換</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -469,7 +469,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>∩</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>∩</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -479,7 +479,7 @@
     <th>WC</th>
     <th>条</th>
     <th>50*2*0.3</th>
-    <th></th>
+    <th>∩新品交換</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -489,7 +489,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>∩</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>∩</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -559,7 +559,7 @@
     <th></th>
     <th>pot</th>
     <th>(3*9)*1*3</th>
-    <th>水やりに蛙が集まって虫が少ない<br>ネギの次<br>網作り10m*2+8m*3</th>
+    <th>水やりに蛙が集まって虫が少ない<br>ネギの次<br>網作り10m*1+8m*3<br>∩新品交換</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -569,7 +569,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>種<br>○<br>◎<br>耕<br>灰<br>植<br>∩</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>∩</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -698,7 +698,7 @@
     <th></th>
     <th>CC</th>
     <th>点</th>
-    <th>10*2*2</th>
+    <th>(4*10)*2*2</th>
     <th>きゅうりの次</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -709,7 +709,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>土</td>
-          <td>畝2</td><td>　</td><td>　</td>
+          <td>畝2<br>種<br>∩</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
