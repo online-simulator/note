@@ -37,7 +37,7 @@
     <th></th>
     <th></th>
     <th></th>
-    <th>雨　午[前]　午[後]　[終]日</th>
+    <th>雨<br>午[前]<br>午[後]<br>[終]日</th>
     <td>－</td><td>－</td><td>－</td>
       <td>－</td><td>－</td><td>－</td>
         <td>－</td><td>－</td><td>－</td>
@@ -47,7 +47,7 @@
     <td>－</td><td>－</td><td>－</td>
       <td>　</td><td>　</td><td>終1</td>
         <td>朝1</td><td>夕1<br>朝1</td><td>前1</td>
-          <td>前1</td><td>　</td><td>　</td>
+          <td>終1</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -57,7 +57,7 @@
     <th></th>
     <th></th>
     <th></th>
-    <th>水道　[修]理　交[換]</th>
+    <th>水道<br>[修]理<br>交[換]</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -77,7 +77,7 @@
     <th></th>
     <th></th>
     <th></th>
-    <th>畦道　[補]修</th>
+    <th>畦道<br>[補]修</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
