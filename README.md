@@ -47,7 +47,7 @@
     <td>－</td><td>－</td><td>－</td>
       <td>　</td><td>　</td><td>終1</td>
         <td>朝1</td><td>夕1<br>朝1</td><td>前1</td>
-          <td>終1</td><td>　</td><td>　</td>
+          <td>終1<br>前1</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -199,7 +199,7 @@
     <th><del>SE</del><br>SC</th>
     <th>株</th>
     <th>10*1*3<br>30*3*1</th>
-    <th>土と一緒に移動・水</th>
+    <th>土と一緒に移動<br>水やりすぎで4本根腐れ</th>
     <td>土</td><td>植</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>■</td>
@@ -399,7 +399,7 @@
     <th>CC</th>
     <th>苗</th>
     <th>10*1*3</th>
-    <th>ジャガイモの次<br>連作の様子見<br>根の延長に若干の筋あり</th>
+    <th>ジャガイモの次<br>連作の様子見<br>根の延長に若干の筋あり<br>広げ過ぎ<br>silk=3~4本<br>紅=0~4本</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -409,7 +409,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>返2<br>芽<br>返</td><td>試</td>
-          <td>試</td><td>　</td><td>　</td>
+          <td>試<br>■</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
