@@ -209,7 +209,7 @@
     <td>　</td><td>■<br>芽</td><td>　</td>
       <td>　</td><td>　</td><td>土</td>
         <td>替</td><td>　</td><td>　</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>■</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -249,7 +249,7 @@
     <td>土<br>種</td><td>◎</td><td>土</td>
       <td>　</td><td>芽</td><td>芽<br>虫</td>
         <td>芽</td><td>虫<br>芽</td><td>肥<br>芽</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>■</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -399,7 +399,7 @@
     <th>CC</th>
     <th>苗</th>
     <th>10*1*3</th>
-    <th>ジャガイモの次<br>連作の様子見<br>根の延長に若干の筋あり<br>広げ過ぎ<br>silk=3~4本<br>紅=0~4本</th>
+    <th>ジャガイモの次<br>連作の様子見<br>根の延長に若干の筋あり<br>鳴は広めでつる先の根まで成長<br>斜植のsilk=3~4本<br>斜植の紅=0~4本<br>斜~横植の鳴=3~6本</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -409,7 +409,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>返2<br>芽<br>返</td><td>試</td>
-          <td>試<br>■</td><td>　</td><td>　</td>
+          <td>試<br>■2</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -989,7 +989,7 @@
     <td>　</td><td>■</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>■</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -1209,7 +1209,7 @@
     <td>■2</td><td>　</td><td>　</td>
       <td>■</td><td>　</td><td>　</td>
         <td>■</td><td>■</td><td>■</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>■</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
