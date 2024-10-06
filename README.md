@@ -299,7 +299,7 @@
     <th>WC</th>
     <th>点</th>
     <th>(3*20)*2*1<br>(3*22)*1*1</th>
-    <th>1畝まき直し</th>
+    <th>種が古い<br>北の1畝まき直し</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -308,8 +308,8 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>土<br>種</td><td>∩</td>
-          <td>種</td><td>　</td><td>　</td>
+        <td>　</td><td>土<br>種</td><td>○<br>∩</td>
+          <td>種<br>◎</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -339,7 +339,7 @@
     <th>NW</th>
     <th></th>
     <th></th>
-    <th>小松菜の次</th>
+    <th>小松菜の次<br>種が古い</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -479,7 +479,7 @@
     <th>WC</th>
     <th>条</th>
     <th>100*3*0.7</th>
-    <th>∩新品交換</th>
+    <th>∩新品交換<br>種が古い</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -499,7 +499,7 @@
     <th>WC</th>
     <th>条</th>
     <th>50*2*0.3</th>
-    <th>∩新品交換</th>
+    <th>∩新品交換<br>種が古い</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -729,7 +729,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>土</td>
-          <td>畝2<br>種<br>∩</td><td>　</td><td>　</td>
+          <td>畝2<br>種<br>∩<br>◎</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
