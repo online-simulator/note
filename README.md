@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="css/size.css">
 <body>
 <table>
-<caption>2024年<br>[土]作り　[耕]うん　石[灰]　[肥]料　[芽]かき　[葉]かき　[枝]落とし　つる[返]し　[根]出し　[種]まき　定[植]　植[替]え　[重]曹1/1000倍　∩トンネル　○◎発芽　■収穫　[乾]燥　[試]し掘り　種[回]収</caption>
+<caption>2024年<br>[土]作り　[耕]うん　石[灰]　[肥]料　[芽]かき　[葉]かき　[枝]落とし　つる[返]し　[根]出し　[種]まき　定[植]　[補]充　[移]植　[重]曹1/1000倍　∩トンネル　○◎発芽　■収穫　[乾]燥　[試]し掘り　種[回]収</caption>
 <thead>
   <tr>
     <th>品種</th>
@@ -77,7 +77,7 @@
     <th></th>
     <th></th>
     <th></th>
-    <th>畦道<br>[補]修</th>
+    <th>畦道<br>補[修]</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -87,7 +87,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>補</td><td>　</td><td>　</td>
+          <td>修</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -199,7 +199,7 @@
     <th><del>SE</del><br>SC</th>
     <th>株</th>
     <th>10*1*3<br>30*3*1</th>
-    <th>土と一緒に移動<br>水やりすぎで4本根腐れ</th>
+    <th>土と一緒に移植<br>鎮圧不足で水やりすぎ<br>根つかずで10本補充<br>鎮圧と土寄せのやり直し</th>
     <td>土</td><td>植</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>■</td>
@@ -208,8 +208,8 @@
               <td>　</td><td>土2</td><td>■<br>土2</td>
     <td>　</td><td>■<br>芽</td><td>　</td>
       <td>　</td><td>　</td><td>土</td>
-        <td>替</td><td>　</td><td>　</td>
-          <td>■</td><td>　</td><td>　</td>
+        <td>移</td><td>　</td><td>　</td>
+          <td>■<br>補</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -218,8 +218,8 @@
     <th><img src="img/IMG_2024-06-15-16-22-13-055.jpg"></th>
     <th>SC</th>
     <th></th>
-    <th>10*1*1</th>
-    <th>連作の合間用</th>
+    <th>10*2*1<br>15*3*1</th>
+    <th>連作の合間用<br>隣の畝に株分け移植<br>鎮圧後に土寄せ</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>■</td>
@@ -229,7 +229,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>移</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -409,7 +409,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>返2<br>芽<br>返</td><td>試</td>
-          <td>試<br>■2<br>乾</td><td>　</td><td>　</td>
+          <td>試<br>■2<br>乾<br>耕</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -608,7 +608,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>　</td><td>種<br>○<br>植<br>∩<br>虫<br>種</td>
+        <td>　</td><td>　</td><td>種<br>○<br>植<br>∩<br>虫<br>補</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -688,7 +688,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>■</td><td>　</td><td>　</td>
       <td>　</td><td>■</td><td>　</td>
-        <td>■<br>替<br>枝</td><td>　</td><td>　</td>
+        <td>■<br>移<br>枝</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -1169,7 +1169,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>種</td><td>◎</td>
-          <td>種</td><td>　</td><td>　</td>
+          <td>種<br>○</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
