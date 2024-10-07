@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="css/size.css">
 <body>
 <table>
-<caption>2024年<br>[土]作り　[耕]うん　石[灰]　[肥]料　[芽]かき　[葉]かき　[枝]落とし　つる[返]し　[根]出し　[種]まき　定[植]　[補]充　[移]植　[重]曹1/1000倍　∩トンネル　○◎発芽　■収穫　[乾]燥　[試]し掘り　種[回]収</caption>
+<caption>2024年<br>[土]作り　[耕]うん　石[灰]　[肥]料　[芽]かき　[葉]かき　[枝]落とし　つる[返]し　[根]出し　[種]まき　定[植]　[補]充　[移]植　[重]曹1/1000倍　∩トンネル　△○◎発芽　■収穫　[乾]燥　[試]し掘り　種[回]収</caption>
 <thead>
   <tr>
     <th>品種</th>
@@ -45,9 +45,9 @@
             <td>－</td><td>－</td><td>－</td>
               <td>－</td><td>－</td><td>－</td>
     <td>－</td><td>－</td><td>－</td>
-      <td>　</td><td>　</td><td>終1</td>
-        <td>朝1</td><td>夕1<br>朝1</td><td>前1</td>
-          <td>終1<br>前1</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>終</td>
+        <td>朝</td><td>夕<br>朝</td><td>前</td>
+          <td>終<br>前<br>終</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -199,7 +199,7 @@
     <th><del>SE</del><br>SC</th>
     <th>株</th>
     <th>10*1*3<br>30*3*1</th>
-    <th>土と一緒に移植<br>鎮圧不足で水やりすぎ<br>根つかずで10本補充<br>鎮圧と土寄せのやり直し</th>
+    <th>土と一緒に移植<br>鎮圧不足で水やりすぎ＋雨<br>根つかずで10本補充<br>鎮圧と土寄せのやり直し</th>
     <td>土</td><td>植</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>■</td>
@@ -499,7 +499,7 @@
     <th>WC</th>
     <th>条</th>
     <th>50*2*0.3</th>
-    <th>∩新品交換<br>種が古い</th>
+    <th>∩新品交換<br>種が古い<br>網垂下り付近のみ発芽</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -509,7 +509,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>∩</td>
-          <td>∩</td><td>　</td><td>　</td>
+          <td>∩<br>△</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -579,7 +579,7 @@
     <th></th>
     <th>pot</th>
     <th>(3*9)*1*3</th>
-    <th>水やりに蛙が集まって虫が少ない<br>ネギの次<br>網作り10m*1+8m*3<br>∩新品交換</th>
+    <th>水やりに蛙が集まって虫が少ない<br>ネギの次<br>網作り10m*1+8m*3<br>∩新品交換<br>バッタ外出（前日夜G）</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -599,7 +599,7 @@
     <th>WC</th>
     <th>pot</th>
     <th>(5*10)*1*0.6</th>
-    <th>芽が小さい<br>バッタが草ないから食べた？<br>直播きの補充失敗</th>
+    <th>芽が小さい<br>バッタ外出<br>バッタが草ないから食べた？<br>直播きの補充失敗</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
