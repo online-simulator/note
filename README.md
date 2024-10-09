@@ -394,7 +394,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>サツマイモ</th>
+    <th><del>サツマイモ</del></th>
     <th><img src="img/IMG_2024-06-15-16-09-09-804.jpg"><img src="img/IMG_2024-07-07-11-43-48-434.jpg"><img src="img/IMG_2024-09-05-14-41-59-587.jpg"><img src="img/IMG_2024-09-14-13-22-01-801.jpg"></th>
     <th>CC</th>
     <th>苗</th>
@@ -409,7 +409,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>返2<br>芽<br>返</td><td>試</td>
-          <td>試<br>■2<br>乾<br>耕</td><td>　</td><td>　</td>
+          <td>試<br>■2<br>乾<br>耕<br>土</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -599,7 +599,7 @@
     <th>WC</th>
     <th>pot</th>
     <th>(5*10)*1*0.6</th>
-    <th>芽が小さい<br>バッタ∩外出<br>バッタが草ないから食べた？<br>直播きの補充失敗</th>
+    <th>芽が小さい<br>バッタ∩外出<br>バッタが草ないから食べた？<br>直播きの補充失敗<br>株分け補充</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -609,7 +609,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>種<br>○<br>植<br>∩<br>虫<br>補</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>芽<br>補</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
