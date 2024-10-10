@@ -1034,7 +1034,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>大葉</th>
+    <th><del>大葉</del></th>
     <th><img src="img/IMG_2024-04-27-10-54-57-910.jpg"><img src="img/IMG_2024-06-15-16-15-26-594.jpg"><img src="img/IMG_2024-07-07-11-41-27-408.jpg"><img src="img/IMG_2024-09-05-14-46-13-796.jpg"></th>
     <th>SC</th>
     <th>苗</th>
@@ -1049,7 +1049,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>土</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
