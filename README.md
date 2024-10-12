@@ -1309,7 +1309,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>耕</td><td>　</td><td>耕2</td>
-          <td>耕</td><td>　</td><td>　</td>
+          <td>耕</td><td>灰<br>畝1</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
