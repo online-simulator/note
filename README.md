@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="css/size.css">
 <body>
 <table>
-<caption>2024年<br>[土]作り　[耕]うん　石[灰]　[肥]料　[芽]かき　[葉]かき　[枝]落とし　つる[返]し　[根]出し　[種]まき　定[植]　[補]充　[移]植　[重]曹1/1000倍　∩トンネル　△○◎発芽　■収穫　[乾]燥　[試]し掘り　種[回]収</caption>
+<caption>2024年<br>[土]作り　[耕]うん　石[灰]　[貝]灰　[肥]料　[芽]かき　[葉]かき　[枝]落とし　つる[返]し　[根]出し　[種]まき　定[植]　[補]充　[移]植　[重]曹1/1000倍　虫[除]け　[虫]食い　虫∩[外]出　∩トンネル　△○◎発芽　■収穫　[乾]燥　[試]し掘り　種[回]収</caption>
 <thead>
   <tr>
     <th>品種</th>
@@ -149,7 +149,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>■</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -254,6 +254,26 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
+    <th>人参</th>
+    <th></th>
+    <th>NC</th>
+    <th>条</th>
+    <th>100*2*1</th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>貝<br>種</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
     <th><del>人参</del></th>
     <th><img src="img/IMG_2024-04-27-10-45-16-448.jpg"></th>
     <th>SW</th>
@@ -309,7 +329,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>○<br>∩</td>
-          <td>種<br>◎</td><td>　</td><td>　</td>
+          <td>種<br>◎</td><td>除</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -589,7 +609,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>種<br>○<br>◎<br>耕<br>灰<br>植<br>∩</td>
-          <td>∩</td><td>　</td><td>　</td>
+          <td>∩</td><td>虫<br>除<br>外</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -609,7 +629,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>種<br>○<br>植<br>∩<br>虫<br>補</td>
-          <td>芽<br>補</td><td>　</td><td>　</td>
+          <td>芽<br>補</td><td>除</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -1296,10 +1316,10 @@
   <tr>
     <th></th>
     <th></th>
-    <th>NE<br>SE<br>SC<br>CC</th>
+    <th>NE<br>NC<br>SE<br>SC<br>CC</th>
     <th></th>
     <th></th>
-    <th></th>
+    <th>貝灰は即植付け可<br>人参</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -1309,7 +1329,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>耕</td><td>　</td><td>耕2</td>
-          <td>耕</td><td>灰<br>畝1</td><td>　</td>
+          <td>耕</td><td>貝<br>畝1</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
