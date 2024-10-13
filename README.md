@@ -499,7 +499,7 @@
     <th>WC</th>
     <th>条</th>
     <th>100*3*0.7</th>
-    <th>∩新品交換<br>種が古い</th>
+    <th>∩新品交換<br>種が古い<br>網垂下り付近のみ発芽</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -519,7 +519,7 @@
     <th>WC</th>
     <th>条</th>
     <th>50*2*0.3</th>
-    <th>∩新品交換<br>種が古い<br>網垂下り付近のみ発芽</th>
+    <th>∩新品交換<br>種が古い</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
