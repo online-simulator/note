@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="css/size.css">
 <body>
 <table>
-<caption>2024年<br>[土]作り　[耕]うん　石[灰]　[貝]灰　[肥]料　[芽]かき　[葉]かき　[枝]落とし　つる[返]し　[根]出し　[種]まき　定[植]　[補]充　[移]植　[重]曹1/1000倍　虫[除]け　[虫]食い　虫∩[外]出　∩トンネル　△○◎発芽　■収穫　[乾]燥　[試]し掘り　種[回]収</caption>
+<caption>2024年<br>[土]作り　[耕]うん　石[灰]　[貝]灰　培[養]土　[肥]料　[芽]かき　[葉]かき　[枝]落とし　つる[返]し　[根]出し　[種]まき　定[植]　[補]充　[移]植　[重]曹1/1000倍　虫[除]け　[虫]食い　虫∩[外]出　∩トンネル　△○◎発芽　■収穫　[乾]燥　[試]し掘り　種[回]収</caption>
 <thead>
   <tr>
     <th>品種</th>
@@ -269,7 +269,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>　</td><td>貝<br>種</td><td>　</td>
+          <td>　</td><td>貝<br>種<br>養</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -629,7 +629,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>種<br>○<br>植<br>∩<br>虫<br>補</td>
-          <td>芽<br>補</td><td>除</td><td>　</td>
+          <td>芽<br>補</td><td>除<br>養</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
