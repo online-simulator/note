@@ -129,7 +129,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>■</td><td>　</td><td>■</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>■</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -149,7 +149,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>　</td><td>■2</td><td>　</td>
+          <td>　</td><td>■3</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -498,8 +498,8 @@
     <th></th>
     <th>WC</th>
     <th>条</th>
-    <th>100*3*0.7</th>
-    <th>∩新品交換<br>種が古い</th>
+    <th>100*3*0.7<br>100*3*0.5</th>
+    <th>∩新品交換<br>種が古い<br>まき直し</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -509,7 +509,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>∩</td>
-          <td>∩</td><td>　</td><td>　</td>
+          <td>∩</td><td>種</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -518,8 +518,8 @@
     <th></th>
     <th>WC</th>
     <th>条</th>
-    <th>50*2*0.3</th>
-    <th>∩新品交換<br>種が古い<br>網垂下り付近のみ発芽</th>
+    <th>50*2*0.3<br>100*3*0.5</th>
+    <th>∩新品交換<br>種が古い<br>網垂下り付近のみ発芽<br>まき直し</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -529,7 +529,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>∩</td>
-          <td>∩<br>△</td><td>　</td><td>　</td>
+          <td>∩<br>△</td><td>種</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -609,7 +609,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>種<br>○<br>◎<br>耕<br>灰<br>植<br>∩</td>
-          <td>∩</td><td>虫<br>除<br>外</td><td>　</td>
+          <td>∩</td><td>虫<br>除<br>外2<br>芽</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -749,7 +749,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>土</td>
-          <td>畝2<br>種<br>∩<br>◎</td><td>　</td><td>　</td>
+          <td>畝2<br>種<br>∩<br>◎<br>芽</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
