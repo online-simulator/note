@@ -47,7 +47,7 @@
     <td>－</td><td>－</td><td>－</td>
       <td>　</td><td>　</td><td>終</td>
         <td>朝</td><td>夕<br>朝</td><td>前</td>
-          <td>終<br>前<br>終2</td><td>　</td><td>　</td>
+          <td>終<br>前<br>終2</td><td>朝</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -149,7 +149,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>　</td><td>■3</td><td>　</td>
+          <td>　</td><td>■4</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -358,8 +358,8 @@
     <th></th>
     <th>NW</th>
     <th></th>
-    <th></th>
-    <th>小松菜の次<br>種が古い</th>
+    <th>**0.5</th>
+    <th>小松菜の次<br>種が古い<br>まき直し</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -369,7 +369,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>　</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>土<br>種</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -430,6 +430,26 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>返2<br>芽<br>返</td><td>試</td>
           <td>試<br>■2<br>乾<br>耕<br>土</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>玉ねぎ</th>
+    <th></th>
+    <th>CC</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>畝3<br>養<br>肥<br>耕</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -1319,7 +1339,7 @@
     <th>NE<br>NC<br>SE<br>SC<br>CC</th>
     <th></th>
     <th></th>
-    <th>貝灰は即植付け可<br>人参</th>
+    <th>貝灰は即植付け可<br>人参<br>玉ねぎ</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
