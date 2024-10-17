@@ -129,7 +129,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>■</td><td>　</td><td>■</td>
-          <td>　</td><td>■</td><td>　</td>
+          <td>　</td><td>■2</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -409,7 +409,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>植<br>柵</td><td>　</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>△</td><td>△</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -459,7 +459,7 @@
     <th>WC</th>
     <th>苗</th>
     <th>3*3*0.4</th>
-    <th>季節外れの様子見</th>
+    <th>季節外れの様子見<br>バッタ用の葉</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -629,7 +629,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>種<br>○<br>◎<br>耕<br>灰<br>植<br>∩</td>
-          <td>∩</td><td>虫<br>除<br>外2<br>芽</td><td>　</td>
+          <td>∩</td><td>虫<br>除<br>外2<br>芽<br>外</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -649,7 +649,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>種<br>○<br>植<br>∩<br>虫<br>補</td>
-          <td>芽<br>補</td><td>除<br>養</td><td>　</td>
+          <td>芽<br>補</td><td>除<br>養<br>外</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
