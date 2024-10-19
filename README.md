@@ -47,7 +47,7 @@
     <td>－</td><td>－</td><td>－</td>
       <td>　</td><td>　</td><td>終</td>
         <td>朝</td><td>夕<br>朝</td><td>前</td>
-          <td>終<br>前<br>終2</td><td>朝</td><td>　</td>
+          <td>終<br>前<br>終2</td><td>朝<br>終</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
