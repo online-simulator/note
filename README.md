@@ -149,7 +149,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>　</td><td>■6</td><td>　</td>
+          <td>　</td><td>■7</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -209,7 +209,7 @@
     <td>　</td><td>■<br>芽</td><td>　</td>
       <td>　</td><td>　</td><td>土</td>
         <td>移</td><td>　</td><td>　</td>
-          <td>■<br>補</td><td>　</td><td>　</td>
+          <td>■<br>補</td><td>■</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -269,7 +269,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>　</td><td>貝<br>種<br>養</td><td>　</td>
+          <td>　</td><td>貝<br>種<br>養<br>◎</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -529,7 +529,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>∩</td>
-          <td>∩</td><td>種</td><td>　</td>
+          <td>∩</td><td>種<br>◎</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -789,7 +789,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>○</td>
-          <td>　</td><td>■3</td><td>　</td>
+          <td>　</td><td>■4</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
