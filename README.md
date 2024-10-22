@@ -47,7 +47,7 @@
     <td>－</td><td>－</td><td>－</td>
       <td>　</td><td>　</td><td>終</td>
         <td>朝</td><td>夕<br>朝</td><td>前</td>
-          <td>終<br>前<br>終2</td><td>朝<br>終</td><td>　</td>
+          <td>終<br>前<br>終2</td><td>朝<br>終</td><td>終</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -789,7 +789,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>○</td>
-          <td>　</td><td>■5</td><td>■</td>
+          <td>　</td><td>■5</td><td>■2</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
