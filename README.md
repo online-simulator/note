@@ -37,7 +37,7 @@
     <th></th>
     <th></th>
     <th></th>
-    <th>雨<br>午[前]<br>午[後]<br>[終]日</th>
+    <th>雨<br>午[前]<br>午[後]<br>[終]日<br>10/26~季節の急変⇒発汗量の急減少⇒水分過多⇒腰</th>
     <td>－</td><td>－</td><td>－</td>
       <td>－</td><td>－</td><td>－</td>
         <td>－</td><td>－</td><td>－</td>
