@@ -149,7 +149,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>　</td><td>■8</td><td>■5</td>
+          <td>　</td><td>■8</td><td>■6</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -209,7 +209,7 @@
     <td>　</td><td>■<br>芽</td><td>　</td>
       <td>　</td><td>　</td><td>土</td>
         <td>移</td><td>　</td><td>　</td>
-          <td>■<br>補</td><td>■</td><td>■3</td>
+          <td>■<br>補</td><td>■</td><td>■4</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -549,7 +549,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>∩</td>
-          <td>∩<br>△</td><td>種<br>◎</td><td>芽2<br>籾</td>
+          <td>∩<br>△</td><td>種<br>◎</td><td>芽2<br>籾<br>■</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -789,7 +789,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>○</td>
-          <td>　</td><td>■5</td><td>■7</td>
+          <td>　</td><td>■5</td><td>■8</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -1199,7 +1199,7 @@
     <th>SC</th>
     <th>種</th>
     <th>2*2*1</th>
-    <th>様子見</th>
+    <th>様子見<br>風で折れた茎の上部を[切]除</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -1209,7 +1209,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>種</td><td>◎</td>
-          <td>種<br>○</td><td>　</td><td>花<br>受</td>
+          <td>種<br>○</td><td>　</td><td>花<br>受<br>切</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
