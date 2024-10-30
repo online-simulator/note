@@ -149,7 +149,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>　</td><td>■8</td><td>■6</td>
+          <td>　</td><td>■8</td><td>■7</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
