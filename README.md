@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="css/size.css">
 <body>
 <table>
-<caption>2024年<br>[土]作り　[耕]うん　石[灰]　[貝]灰　培[養]土　[肥]料　[芽]かき　[葉]かき　[枝]落とし　つる[返]し　[根]出し　[種]まき　定[植]　[補]充　[移]植　[受]粉　[重]曹1/1000倍　虫[除]け　[虫]食い　虫∩[外]出　∩トンネル　△○◎発芽　■収穫　[乾]燥　[試]し掘り　種[回]収</caption>
+<caption>2024年<br>[土]作り　[耕]うん　石[灰]　[貝]灰　培[養]土　[肥]料　[芽]かき　[葉]かき　[枝]落とし　つる[返]し　[根]出し　[種]まき　定[植]　[補]充　[移]植　[受]粉　[重]曹1/1000倍　虫[除]け　[虫]食い　虫∩[外]出　∩トンネル　△○◎発芽　□■収穫　[乾]燥　[試]し掘り　種[回]収</caption>
 <thead>
   <tr>
     <th>品種</th>
@@ -149,7 +149,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>　</td><td>■8</td><td>■7</td>
+          <td>　</td><td>■8</td><td>■8</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -169,7 +169,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>枝</td><td>　</td><td>　</td>
-          <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>枝</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -209,7 +209,7 @@
     <td>　</td><td>■<br>芽</td><td>　</td>
       <td>　</td><td>　</td><td>土</td>
         <td>移</td><td>　</td><td>　</td>
-          <td>■<br>補</td><td>■</td><td>■5</td>
+          <td>■<br>補</td><td>■</td><td>■6</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -779,7 +779,7 @@
     <th>NW</th>
     <th>条<br>点</th>
     <th>30*4*0.3<br>80*4*0.3</th>
-    <th></th>
+    <th>生の辛みは少し<br>10/31辛い</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>種</td><td>◎</td>
@@ -789,7 +789,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>○</td>
-          <td>　</td><td>■5</td><td>■9</td>
+          <td>　</td><td>■5</td><td>■10</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -1199,7 +1199,7 @@
     <th>SC</th>
     <th>種</th>
     <th>2*2*1</th>
-    <th>様子見<br>風で折れた茎の上部を[切]除</th>
+    <th>様子見<br>風で折れた茎の上部を[切]除<br>雄花の開花失敗で小さい</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -1209,7 +1209,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>種</td><td>◎</td>
-          <td>種<br>○</td><td>　</td><td>花<br>受<br>切</td>
+          <td>種<br>○</td><td>　</td><td>花<br>受<br>切<br>□</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
