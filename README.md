@@ -48,7 +48,7 @@
       <td>　</td><td>　</td><td>終</td>
         <td>朝</td><td>夕<br>朝</td><td>前</td>
           <td>終<br>前<br>終2</td><td>朝<br>終</td><td>終<br>朝<br>夜<br>後</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>終</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -779,7 +779,7 @@
     <th>NW</th>
     <th>条<br>点</th>
     <th>30*4*0.3<br>80*4*0.3</th>
-    <th>生の辛みは少し<br>10/31辛い</th>
+    <th>生の辛みは少し<br>10/31の1個だけ辛い</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>種</td><td>◎</td>
@@ -790,7 +790,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>○</td>
           <td>　</td><td>■5</td><td>■10</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>■</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
