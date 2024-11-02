@@ -48,7 +48,7 @@
       <td>　</td><td>　</td><td>終</td>
         <td>朝</td><td>夕<br>朝</td><td>前</td>
           <td>終<br>前<br>終2</td><td>朝<br>終</td><td>終<br>朝<br>夜<br>後</td>
-            <td>終2</td><td>　</td><td>　</td>
+            <td>終<br>前</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -130,7 +130,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>■</td><td>　</td><td>■</td>
           <td>　</td><td>■2</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>■</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -150,7 +150,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>■8</td><td>■8</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>■</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -790,7 +790,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>○</td>
           <td>　</td><td>■5</td><td>■10</td>
-            <td>■</td><td>　</td><td>　</td>
+            <td>■2</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -1210,7 +1210,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>種</td><td>◎</td>
           <td>種<br>○</td><td>　</td><td>花<br>受<br>切<br>□</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>葉</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
