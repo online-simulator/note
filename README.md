@@ -399,7 +399,7 @@
     <th>SW</th>
     <th>種芋</th>
     <th>15*1*3</th>
-    <th>キャベツ等の次<br>店の在庫なし<br>春収穫の芋を半分にして乾燥<br>切り口を下向き<br>ネギ</th>
+    <th>キャベツ等の次<br>店の在庫なし<br>春収穫の芋を半分にして乾燥<br>切り口を下向き<br>ネギ<br>半分の23本が発芽</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -409,8 +409,8 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>植<br>柵</td><td>　</td>
-          <td>△</td><td>△</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
+          <td>△</td><td>△</td><td>△</td>
+            <td>○</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
