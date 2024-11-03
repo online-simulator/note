@@ -150,7 +150,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>■8</td><td>■8</td>
-            <td>■</td><td>　</td><td>　</td>
+            <td>■2</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -190,7 +190,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>倒<br>枝<br>供</td><td>供</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>枝</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -790,7 +790,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>○</td>
           <td>　</td><td>■5</td><td>■10</td>
-            <td>■2</td><td>　</td><td>　</td>
+            <td>■3</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
