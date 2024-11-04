@@ -434,12 +434,12 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>玉ねぎ</th>
+    <th>玉葱</th>
     <th></th>
     <th>CC</th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th>苗</th>
+    <th>20*2*4</th>
+    <th>中sizeで株間12~15cmの深さ3cm<br>根を乾燥後、水浸しで活性化してから植える</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -450,7 +450,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>畝3<br>養<br>肥<br>耕</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>耕<br>畝4</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -550,7 +550,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>∩</td>
           <td>∩<br>△</td><td>種<br>◎</td><td>芽2<br>籾<br>■</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>■</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -774,7 +774,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th><del>赤カブ</del><br>赤カブ</th>
+    <th><del>赤カブ</del><br><del>赤カブ</del></th>
     <th><img src="img/IMG_2024-04-20-13-50-26-973.jpg"></th>
     <th>NW</th>
     <th>条<br>点</th>
@@ -790,7 +790,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>○</td>
           <td>　</td><td>■5</td><td>■10</td>
-            <td>■3</td><td>　</td><td>　</td>
+            <td>■4</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -1339,7 +1339,7 @@
     <th>NE<br>NC<br>SE<br>SC<br>CC</th>
     <th></th>
     <th></th>
-    <th>貝灰は即植付け可<br>人参<br>玉ねぎ</th>
+    <th>貝灰は即植付け可<br>人参<br>玉葱</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
