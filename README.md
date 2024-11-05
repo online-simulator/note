@@ -438,8 +438,8 @@
     <th></th>
     <th>CC</th>
     <th>苗</th>
-    <th>20*2*4</th>
-    <th>中sizeで株間12~15cmの深さ3cm<br>根を乾燥後、水浸しで活性化してから植える</th>
+    <th>26*2*3</th>
+    <th>サツマイモの次<br>中sizeで株間12~15cmの深さ3cm<br>根を乾燥<br>根元が繊細<br><del>直前に根だけ水浸し<br>活性化して植える<br></del>ネギと同じように鎮圧</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -450,7 +450,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>畝3<br>養<br>肥<br>耕</td><td>　</td>
-            <td>耕<br>畝4</td><td>　</td><td>　</td>
+            <td>耕<br>畝4<br>植<br>籾</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
