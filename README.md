@@ -450,7 +450,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>畝3<br>養<br>肥<br>耕</td><td>　</td>
-            <td>耕<br>畝4<br>植<br>籾</td><td>　</td><td>　</td>
+            <td>耕<br>畝4<br>植<br>籾<br>水</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
