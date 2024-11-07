@@ -150,7 +150,6 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>■8</td><td>■8</td>
-            <td>■2</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -210,7 +209,7 @@
       <td>　</td><td>　</td><td>土</td>
         <td>移</td><td>　</td><td>　</td>
           <td>■<br>補</td><td>■</td><td>■6</td>
-            <td>■</td><td>　</td><td>　</td>
+            <td>■2</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -250,7 +249,7 @@
       <td>　</td><td>芽</td><td>芽<br>虫</td>
         <td>芽</td><td>虫<br>芽</td><td>肥<br>芽</td>
           <td>■</td><td>　</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>■</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -330,7 +329,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>○<br>∩</td>
           <td>種<br>◎</td><td>除<br>芽<br>外</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>土<br>葉</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -439,7 +438,7 @@
     <th>CC</th>
     <th>苗</th>
     <th>26*2*3</th>
-    <th>サツマイモの次<br>中sizeで株間12~15cmの深さ3cm<br>根を乾燥<br>根元が繊細<br><del>直前に根だけ水浸し<br>活性化して植える<br></del>ネギと同じように鎮圧</th>
+    <th>サツマイモの次<br>中sizeで株間12~15cmの深さ3cm<br>根を乾燥<br>根元が繊細<br><del>直前に根だけ水浸し<br>活性化して植える<br></del>ネギと同じように鎮圧<br>細い苗でマルチに付着＋強風<br>直に籾の方が傷みが少ない</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -514,12 +513,12 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>ほうれん草</th>
+    <th><del>ほうれん草</del></th>
     <th></th>
     <th>WC</th>
     <th>条</th>
     <th>100*3*0.7<br>100*3*0.5</th>
-    <th>∩新品交換<br>種が古い<br>まき直し</th>
+    <th>∩新品交換<br>種が古い<br>まき直し<br>発芽失敗</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -530,7 +529,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>∩</td>
           <td>∩</td><td>種</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>土</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -550,7 +549,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>∩</td>
           <td>∩<br>△</td><td>種<br>◎</td><td>芽2<br>籾<br>■</td>
-            <td>■<br>蛙</td><td>　</td><td>　</td>
+            <td>■2<br>蛙</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -790,7 +789,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>○</td>
           <td>　</td><td>■5</td><td>■10</td>
-            <td>■5</td><td>　</td><td>　</td>
+            <td>■6</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
