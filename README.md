@@ -150,6 +150,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>■8</td><td>■8</td>
+            <td>■3</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
