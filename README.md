@@ -150,7 +150,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>■8</td><td>■8</td>
-            <td>■3</td><td>　</td><td>　</td>
+            <td>■4</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -210,7 +210,7 @@
       <td>　</td><td>　</td><td>土</td>
         <td>移</td><td>　</td><td>　</td>
           <td>■<br>補</td><td>■</td><td>■6</td>
-            <td>■2</td><td>　</td><td>　</td>
+            <td>■3</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -230,7 +230,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>移</td><td>　</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>■</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -319,7 +319,7 @@
     <th>WC</th>
     <th>点</th>
     <th>(3*20)*2*1<br>(3*22)*1*1</th>
-    <th>種が古い<br>北の1畝まき直し</th>
+    <th>種が古い<br>北の1畝まき直し<br>初生りφ10*50cm</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -330,7 +330,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>○<br>∩</td>
           <td>種<br>◎</td><td>除<br>芽<br>外</td><td>　</td>
-            <td>土<br>葉</td><td>　</td><td>　</td>
+            <td>土<br>葉<br>■</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
