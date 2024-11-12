@@ -330,7 +330,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>○<br>∩</td>
           <td>種<br>◎</td><td>除<br>芽<br>外</td><td>　</td>
-            <td>土<br>葉<br>■</td><td>　</td><td>　</td>
+            <td>土<br>葉<br>■2</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -550,7 +550,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>∩</td>
           <td>∩<br>△</td><td>種<br>◎</td><td>芽2<br>籾<br>■</td>
-            <td>■2<br>蛙</td><td>■</td><td>　</td>
+            <td>■2<br>蛙</td><td>■2</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
