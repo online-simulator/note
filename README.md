@@ -48,7 +48,7 @@
       <td>　</td><td>　</td><td>終</td>
         <td>朝</td><td>夕<br>朝</td><td>前</td>
           <td>終<br>前<br>終2</td><td>朝<br>終</td><td>終<br>朝<br>夜<br>後</td>
-            <td>終<br>前<br>夜<br>天</td><td>　</td><td>　</td>
+            <td>終<br>前<br>夜<br>天</td><td>天</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -150,7 +150,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>■8</td><td>■8</td>
-            <td>■4</td><td>■</td><td>　</td>
+            <td>■4</td><td>■2</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
