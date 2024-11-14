@@ -650,7 +650,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>種<br>○<br>植<br>∩<br>虫<br>補</td>
           <td>芽<br>補</td><td>除<br>養<br>外</td><td>　</td>
-            <td>蛙</td><td>卵<br>■</td><td>　</td>
+            <td>蛙</td><td>卵<br>■2</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
