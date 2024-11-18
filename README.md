@@ -170,7 +170,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>枝</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>枝</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>花</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -190,7 +190,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>倒<br>枝<br>供</td><td>供</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
-            <td>枝</td><td>　</td><td>　</td>
+            <td>枝</td><td>花<br>供</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -330,7 +330,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>○<br>∩</td>
           <td>種<br>◎</td><td>除<br>芽<br>外</td><td>　</td>
-            <td>土<br>葉<br>■2</td><td>　</td><td>　</td>
+            <td>土<br>葉<br>■3</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -650,7 +650,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>種<br>○<br>植<br>∩<br>虫<br>補</td>
           <td>芽<br>補</td><td>除<br>養<br>外</td><td>　</td>
-            <td>蛙</td><td>排<br>■3</td><td>　</td>
+            <td>蛙</td><td>排<br>■4</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -690,6 +690,46 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>えんどう<br>そら豆</th>
+    <th></th>
+    <th>EC</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>種</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>ブロッコリー</th>
+    <th></th>
+    <th>NE</th>
+    <th>10*2*1</th>
+    <th></th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>苗</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
