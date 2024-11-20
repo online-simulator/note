@@ -37,7 +37,7 @@
     <th></th>
     <th></th>
     <th></th>
-    <th>雨<br>午[前]<br>午[後]<br>[終]日<br>10/26~季節の急変⇒発汗量の急減少⇒水分過多⇒腰</th>
+    <th>雨<br>午[前]<br>午[後]<br>[終]日</th>
     <td>－</td><td>－</td><td>－</td>
       <td>－</td><td>－</td><td>－</td>
         <td>－</td><td>－</td><td>－</td>
@@ -48,7 +48,27 @@
       <td>　</td><td>　</td><td>終</td>
         <td>朝</td><td>夕<br>朝</td><td>前</td>
           <td>終<br>前<br>終2</td><td>朝<br>終</td><td>終<br>朝<br>夜<br>後</td>
-            <td>終<br>前<br>夜<br>天</td><td>天<br>夕<br>後2</td><td>　</td>
+            <td>終<br>前<br>夜</td><td>夕<br>後2</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>10/26~季節の急変⇒発汗量の急減少⇒水分過多⇒腰</th>
+    <td>－</td><td>－</td><td>－</td>
+      <td>－</td><td>－</td><td>－</td>
+        <td>－</td><td>－</td><td>－</td>
+          <td>－</td><td>－</td><td>－</td>
+            <td>－</td><td>－</td><td>－</td>
+              <td>－</td><td>－</td><td>－</td>
+    <td>－</td><td>－</td><td>－</td>
+      <td>－</td><td>－</td><td>－</td>
+        <td>－</td><td>－</td><td>－</td>
+          <td>－</td><td>－</td><td>－</td>
+            <td>天</td><td>天<br>滝</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -130,7 +150,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>■</td><td>　</td><td>■</td>
           <td>　</td><td>■2</td><td>　</td>
-            <td>■</td><td>■</td><td>　</td>
+            <td>■</td><td>■2</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -150,7 +170,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>■8</td><td>■8</td>
-            <td>■4</td><td>■5</td><td>　</td>
+            <td>■4</td><td>■6</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
