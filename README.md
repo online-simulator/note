@@ -714,12 +714,12 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>えんどう<br>そら豆</th>
+    <th>えんどう<br>そら豆<br>ほうれん草</th>
     <th></th>
     <th>EC</th>
     <th></th>
     <th></th>
-    <th></th>
+    <th>親管理</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -730,7 +730,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
-            <td>種</td><td>　</td><td>　</td>
+            <td>種</td><td>　</td><td>◎</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -739,7 +739,7 @@
     <th>NE</th>
     <th>10*2*1</th>
     <th></th>
-    <th></th>
+    <th>親管理</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -750,7 +750,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>苗</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>◎</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
