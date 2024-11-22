@@ -68,7 +68,7 @@
       <td>－</td><td>－</td><td>－</td>
         <td>－</td><td>－</td><td>－</td>
           <td>－</td><td>－</td><td>－</td>
-            <td>天</td><td>天<br>滝</td><td>　</td>
+            <td>天</td><td>天<br>滝</td><td>ス</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -170,7 +170,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>■8</td><td>■8</td>
-            <td>■4</td><td>■6</td><td>■</td>
+            <td>■4</td><td>■6</td><td>■2</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
