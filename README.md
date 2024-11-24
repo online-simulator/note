@@ -659,7 +659,7 @@
     <th>WC</th>
     <th>pot</th>
     <th>(5*10)*1*0.6</th>
-    <th>芽が小さい<br>バッタ∩外出<br>バッタが草ないから食べた？<br>直播きの補充失敗<br>株分け補充<br>∩高さ調整<br>黒芋虫は∩接触部から？<br>バッタは裾から入る<br>葉先をまとめる</th>
+    <th>芽が小さい<br>バッタ∩外出<br>バッタが草ないから食べた？<br>直播きの補充失敗<br>株分け補充<br>∩高さ調整<br>黒芋虫は∩接触部から？<br>バッタは裾から入る<br>葉先をまとめる<br>穴なし分け</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -670,7 +670,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>種<br>○<br>植<br>∩<br>虫<br>補</td>
           <td>芽<br>補</td><td>除<br>養<br>外</td><td>　</td>
-            <td>蛙</td><td>排<br>■5</td><td>■</td>
+            <td>蛙</td><td>排<br>■5</td><td>■2</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
