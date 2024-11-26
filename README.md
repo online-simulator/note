@@ -350,7 +350,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>○<br>∩</td>
           <td>種<br>◎</td><td>除<br>芽<br>外</td><td>　</td>
-            <td>土<br>葉<br>■</td><td>■3</td><td>■2</td>
+            <td>土<br>葉<br>■</td><td>■3</td><td>■3</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
