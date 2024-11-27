@@ -48,7 +48,7 @@
       <td>　</td><td>　</td><td>終</td>
         <td>朝</td><td>夕<br>朝</td><td>前</td>
           <td>終<br>前<br>終2</td><td>朝<br>終</td><td>終<br>朝<br>夜<br>後</td>
-            <td>終<br>前<br>夜</td><td>夕<br>後2</td><td>終</td>
+            <td>終<br>前<br>夜</td><td>夕<br>後2</td><td>終<br>後</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -179,7 +179,7 @@
     <th>EC</th>
     <th>元株</th>
     <th>5*2*1</th>
-    <th>様子見</th>
+    <th>様子見<br>脚立</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -190,7 +190,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>枝</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>枝</td>
-            <td>　</td><td>花</td><td>　</td>
+            <td>　</td><td>花</td><td>倒</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -250,7 +250,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>移</td><td>　</td><td>　</td>
-            <td>■</td><td>■</td><td>　</td>
+            <td>■</td><td>■</td><td>■</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -270,7 +270,7 @@
       <td>　</td><td>芽</td><td>芽<br>虫</td>
         <td>芽</td><td>虫<br>芽</td><td>肥<br>芽</td>
           <td>■</td><td>　</td><td>　</td>
-            <td>■</td><td>■2</td><td>■3</td>
+            <td>■</td><td>■2</td><td>■4</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -350,7 +350,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>土<br>種</td><td>○<br>∩</td>
           <td>種<br>◎</td><td>除<br>芽<br>外</td><td>　</td>
-            <td>土<br>葉<br>■</td><td>■3</td><td>■3</td>
+            <td>土<br>葉<br>■</td><td>■3</td><td>■4</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -670,7 +670,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>種<br>○<br>植<br>∩<br>虫<br>補</td>
           <td>芽<br>補</td><td>除<br>養<br>外</td><td>　</td>
-            <td>蛙</td><td>排<br>■5</td><td>■3</td>
+            <td>蛙</td><td>排<br>■5</td><td>■4</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -690,7 +690,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
-            <td>　</td><td>　</td><td>種</td>
+            <td>　</td><td>　</td><td>種<br>籾</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
