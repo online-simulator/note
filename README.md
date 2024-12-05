@@ -571,7 +571,7 @@
         <td>　</td><td>土<br>種</td><td>∩</td>
           <td>∩<br>△</td><td>種<br>◎</td><td>芽2<br>籾<br>■</td>
             <td>■2<br>蛙</td><td>■3</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>■</td><td>　</td><td>　</td>
   </tr>
   <tr>
     <th>ナス</th>
@@ -671,7 +671,7 @@
         <td>　</td><td>　</td><td>種<br>○<br>植<br>∩<br>虫<br>補</td>
           <td>芽<br>補</td><td>除<br>養<br>外</td><td>　</td>
             <td>蛙</td><td>排<br>■5</td><td>■5<br>土</td>
-              <td>■2</td><td>　</td><td>　</td>
+              <td>■3</td><td>　</td><td>　</td>
   </tr>
   <tr>
     <th>白菜</th>
@@ -691,7 +691,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>種<br>籾</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>○</td><td>　</td><td>　</td>
   </tr>
   <tr>
     <th><del>そら豆</del></th>
