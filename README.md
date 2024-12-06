@@ -69,7 +69,7 @@
         <td>－</td><td>－</td><td>－</td>
           <td>－</td><td>－</td><td>－</td>
             <td>天</td><td>天<br>滝</td><td>ス<br>森<br>ハ</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>ス<br>駅</td><td>　</td><td>　</td>
   </tr>
   <tr>
     <th></th>
