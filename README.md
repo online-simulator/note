@@ -151,7 +151,7 @@
         <td>■</td><td>　</td><td>■</td>
           <td>　</td><td>■2</td><td>　</td>
             <td>■</td><td>■2</td><td>■5</td>
-              <td>■2</td><td>　</td><td>　</td>
+              <td>■3</td><td>　</td><td>　</td>
   </tr>
   <tr>
     <th>柿</th>
