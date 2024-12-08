@@ -151,7 +151,7 @@
         <td>■</td><td>　</td><td>■</td>
           <td>　</td><td>■2</td><td>　</td>
             <td>■</td><td>■2</td><td>■5</td>
-              <td>■4</td><td>　</td><td>　</td>
+              <td>■5</td><td>　</td><td>　</td>
   </tr>
   <tr>
     <th>柿</th>
@@ -251,7 +251,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>移</td><td>　</td><td>　</td>
             <td>■</td><td>■</td><td>■2</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>■</td><td>　</td><td>　</td>
   </tr>
   <tr>
     <th><del>人参</del><br>人参</th>
@@ -351,7 +351,7 @@
         <td>　</td><td>土<br>種</td><td>○<br>∩</td>
           <td>種<br>◎</td><td>除<br>芽<br>外</td><td>　</td>
             <td>土<br>葉<br>■</td><td>■3</td><td>■5</td>
-              <td>■</td><td>　</td><td>　</td>
+              <td>■2</td><td>　</td><td>　</td>
   </tr>
   <tr>
     <th><del>春菊</del></th>
@@ -391,7 +391,7 @@
         <td>　</td><td>土<br>種</td><td>　</td>
           <td>土<br>種</td><td>○</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>籾</td><td>　</td><td>　</td>
   </tr>
   <tr>
     <th><del>ジャガイモ</del></th>
@@ -691,7 +691,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>種<br>籾</td>
-              <td>○</td><td>　</td><td>　</td>
+              <td>○<br>籾</td><td>　</td><td>　</td>
   </tr>
   <tr>
     <th><del>そら豆</del></th>
