@@ -69,7 +69,7 @@
         <td>－</td><td>－</td><td>－</td>
           <td>－</td><td>－</td><td>－</td>
             <td>天</td><td>天<br>滝</td><td>ス<br>森<br>ハ</td>
-              <td>ス<br>駅</td><td>　</td><td>　</td>
+              <td>ス<br>駅<br>○<br>紅</td><td>　</td><td>　</td>
   </tr>
   <tr>
     <th></th>
@@ -151,7 +151,7 @@
         <td>■</td><td>　</td><td>■</td>
           <td>　</td><td>■2</td><td>　</td>
             <td>■</td><td>■2</td><td>■5</td>
-              <td>■5</td><td>　</td><td>　</td>
+              <td>■6</td><td>　</td><td>　</td>
   </tr>
   <tr>
     <th>柿</th>
@@ -231,7 +231,7 @@
         <td>移</td><td>　</td><td>　</td>
           <td>■<br>補</td><td>■</td><td>■6</td>
             <td>■3</td><td>■3</td><td>■4</td>
-              <td>■5</td><td>　</td><td>　</td>
+              <td>■6</td><td>　</td><td>　</td>
   </tr>
   <tr>
     <th>ネギ</th>
@@ -271,7 +271,7 @@
         <td>芽</td><td>虫<br>芽</td><td>肥<br>芽</td>
           <td>■</td><td>　</td><td>　</td>
             <td>■</td><td>■2</td><td>■6</td>
-              <td>■3</td><td>　</td><td>　</td>
+              <td>■4</td><td>　</td><td>　</td>
   </tr>
   <tr>
     <th>人参</th>
@@ -851,7 +851,7 @@
         <td>　</td><td>　</td><td>土</td>
           <td>畝2<br>種<br>∩<br>◎<br>芽</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>■</td><td>　</td><td>　</td>
   </tr>
   <tr>
     <th><del>赤カブ</del><br><del>赤カブ</del></th>
