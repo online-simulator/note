@@ -151,7 +151,7 @@
         <td>■</td><td>　</td><td>■</td>
           <td>　</td><td>■2</td><td>　</td>
             <td>■</td><td>■2</td><td>■5</td>
-              <td>■6</td><td>　</td><td>　</td>
+              <td>■7</td><td>　</td><td>　</td>
   </tr>
   <tr>
     <th>柿</th>
@@ -174,7 +174,7 @@
               <td>■</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>菊</th>
+    <th><del>菊</del></th>
     <th><img src="img/IMG_2024-09-14-13-25-47-860.jpg"></th>
     <th>EC</th>
     <th>元株</th>
@@ -251,7 +251,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>移</td><td>　</td><td>　</td>
             <td>■</td><td>■</td><td>■2</td>
-              <td>■</td><td>　</td><td>　</td>
+              <td>■2</td><td>　</td><td>　</td>
   </tr>
   <tr>
     <th><del>人参</del><br>人参</th>
