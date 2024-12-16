@@ -171,7 +171,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>■8</td><td>■8</td>
             <td>■4</td><td>■6</td><td>■4</td>
-              <td>■</td><td>■2</td><td>　</td>
+              <td>■</td><td>■3</td><td>　</td>
   </tr>
   <tr>
     <th><del>菊</del></th>
@@ -231,7 +231,7 @@
         <td>移</td><td>　</td><td>　</td>
           <td>■<br>補</td><td>■</td><td>■6</td>
             <td>■3</td><td>■3</td><td>■4</td>
-              <td>■6</td><td>■4</td><td>　</td>
+              <td>■6</td><td>■5</td><td>　</td>
   </tr>
   <tr>
     <th>ネギ</th>
@@ -571,7 +571,7 @@
         <td>　</td><td>土<br>種</td><td>∩</td>
           <td>∩<br>△</td><td>種<br>◎</td><td>芽2<br>籾<br>■</td>
             <td>■2<br>蛙</td><td>■3</td><td>　</td>
-              <td>■</td><td>■</td><td>　</td>
+              <td>■</td><td>■2</td><td>　</td>
   </tr>
   <tr>
     <th>ナス</th>
@@ -651,7 +651,7 @@
         <td>　</td><td>　</td><td>種<br>○<br>◎<br>耕<br>灰<br>植<br>∩</td>
           <td>∩</td><td>虫<br>除<br>外2<br>芽<br>外</td><td>芽<br>籾</td>
             <td>　</td><td>　</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>土</td><td>　</td>
   </tr>
   <tr>
     <th><del>白菜</del></th>
