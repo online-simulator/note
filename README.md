@@ -171,7 +171,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>■8</td><td>■8</td>
             <td>■4</td><td>■6</td><td>■4</td>
-              <td>■</td><td>■3</td><td>　</td>
+              <td>■</td><td>■4</td><td>　</td>
   </tr>
   <tr>
     <th><del>菊</del></th>
@@ -231,7 +231,7 @@
         <td>移</td><td>　</td><td>　</td>
           <td>■<br>補</td><td>■</td><td>■6</td>
             <td>■3</td><td>■3</td><td>■4</td>
-              <td>■6</td><td>■5</td><td>　</td>
+              <td>■6</td><td>■6</td><td>　</td>
   </tr>
   <tr>
     <th>ネギ</th>
@@ -351,7 +351,7 @@
         <td>　</td><td>土<br>種</td><td>○<br>∩</td>
           <td>種<br>◎</td><td>除<br>芽<br>外</td><td>　</td>
             <td>土<br>葉<br>■</td><td>■3</td><td>■5</td>
-              <td>■2</td><td>■</td><td>　</td>
+              <td>■2</td><td>■2</td><td>　</td>
   </tr>
   <tr>
     <th><del>春菊</del></th>
@@ -574,7 +574,7 @@
               <td>■</td><td>■2</td><td>　</td>
   </tr>
   <tr>
-    <th>ナス</th>
+    <th><del>ナス</del></th>
     <th><img src="img/IMG_2024-04-27-10-57-12-729.jpg"><img src="img/IMG_2024-06-15-16-13-34-293.jpg"><img src="img/IMG_2024-07-07-11-43-02-571.jpg"><img src="img/IMG_2024-09-14-13-28-10-238.jpg"></th>
     <th>EC</th>
     <th>苗</th>
@@ -1094,7 +1094,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>ピーマン</th>
+    <th><del>ピーマン</del></th>
     <th><img src="img/IMG_2024-04-27-10-49-37-344.jpg"><img src="img/IMG_2024-06-15-16-16-09-565.jpg"><img src="img/IMG_2024-09-14-13-27-30-050.jpg"></th>
     <th>SC</th>
     <th>苗</th>
@@ -1111,10 +1111,10 @@
         <td>　</td><td>　</td><td>　</td>
           <td>■</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>■</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>■</td><td>　</td>
   </tr>
   <tr>
-    <th>ナス</th>
+    <th><del>ナス</del></th>
     <th><img src="img/IMG_2024-04-27-10-49-30-232.jpg"><img src="img/IMG_2024-06-15-16-15-53-804.jpg"><img src="img/IMG_2024-09-14-13-27-44-328.jpg"></th>
     <th>CC</th>
     <th>苗</th>
