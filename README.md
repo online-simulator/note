@@ -69,7 +69,7 @@
         <td>－</td><td>－</td><td>－</td>
           <td>－</td><td>－</td><td>－</td>
             <td>天</td><td>天<br>滝</td><td>ス<br>森<br>ハ</td>
-              <td>ス<br>駅<br>○<br>紅</td><td>ハ</td><td>　</td>
+              <td>ス<br>駅<br>○<br>紅</td><td>ハ<br>香</td><td>　</td>
   </tr>
   <tr>
     <th></th>
@@ -109,7 +109,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>修<br>耕<br>修</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>木</td><td>　</td>
   </tr>
 </thead>
 <tbody>
@@ -171,7 +171,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>■8</td><td>■8</td>
             <td>■4</td><td>■6</td><td>■4</td>
-              <td>■</td><td>■4</td><td>　</td>
+              <td>■</td><td>■5</td><td>　</td>
   </tr>
   <tr>
     <th><del>菊</del></th>
@@ -211,7 +211,7 @@
         <td>倒<br>枝<br>供</td><td>供</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>枝</td><td>花<br>供</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>枝</td><td>　</td>
   </tr>
   <tr>
     <th>ネギ</th>
@@ -231,7 +231,7 @@
         <td>移</td><td>　</td><td>　</td>
           <td>■<br>補</td><td>■</td><td>■6</td>
             <td>■3</td><td>■3</td><td>■4</td>
-              <td>■6</td><td>■6</td><td>　</td>
+              <td>■6</td><td>■7</td><td>　</td>
   </tr>
   <tr>
     <th>ネギ</th>
@@ -251,7 +251,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>移</td><td>　</td><td>　</td>
             <td>■</td><td>■</td><td>■2</td>
-              <td>■2</td><td>■</td><td>　</td>
+              <td>■2</td><td>■2</td><td>　</td>
   </tr>
   <tr>
     <th><del>人参</del><br>人参</th>
@@ -474,12 +474,12 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>サツマイモ（仮）</th>
+    <th>サツマイモ</th>
     <th></th>
     <th>WC</th>
     <th>苗</th>
     <th>3*3*0.4</th>
-    <th>季節外れの様子見<br>バッタ用の葉</th>
+    <th>季節外れの様子見<br>バッタ用の葉<br>直立に支え<br>紅φ1~3cm=10本</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -491,7 +491,7 @@
         <td>　</td><td>　</td><td>根<br>植</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>■</td><td>　</td>
   </tr>
   <tr>
     <th><del>ほうれん草</del></th>
@@ -851,7 +851,7 @@
         <td>　</td><td>　</td><td>土</td>
           <td>畝2<br>種<br>∩<br>◎<br>芽</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
-              <td>■</td><td>■3</td><td>　</td>
+              <td>■</td><td>■4</td><td>　</td>
   </tr>
   <tr>
     <th><del>赤カブ</del><br><del>赤カブ</del></th>
