@@ -171,7 +171,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>■8</td><td>■8</td>
             <td>■4</td><td>■6</td><td>■4</td>
-              <td>■</td><td>■5</td><td>　</td>
+              <td>■</td><td>■6</td><td>　</td>
   </tr>
   <tr>
     <th><del>菊</del></th>
@@ -231,7 +231,7 @@
         <td>移</td><td>　</td><td>　</td>
           <td>■<br>補</td><td>■</td><td>■6</td>
             <td>■3</td><td>■3</td><td>■4</td>
-              <td>■6</td><td>■7</td><td>　</td>
+              <td>■6</td><td>■8</td><td>　</td>
   </tr>
   <tr>
     <th>ネギ</th>
@@ -271,7 +271,7 @@
         <td>芽</td><td>虫<br>芽</td><td>肥<br>芽</td>
           <td>■</td><td>　</td><td>　</td>
             <td>■</td><td>■2</td><td>■6</td>
-              <td>■4</td><td>■</td><td>　</td>
+              <td>■4</td><td>■2</td><td>　</td>
   </tr>
   <tr>
     <th>人参</th>
@@ -571,7 +571,7 @@
         <td>　</td><td>土<br>種</td><td>∩</td>
           <td>∩<br>△</td><td>種<br>◎</td><td>芽2<br>籾<br>■</td>
             <td>■2<br>蛙</td><td>■3</td><td>　</td>
-              <td>■</td><td>■2</td><td>　</td>
+              <td>■</td><td>■3</td><td>　</td>
   </tr>
   <tr>
     <th><del>ナス</del></th>
