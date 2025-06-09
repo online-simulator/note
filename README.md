@@ -38,18 +38,18 @@
     <th></th>
     <th></th>
     <th>クリーナ交[換]<br>泥詰まり[除]去</th>
-    <td>－</td><td>－</td><td>－</td>
-      <td>－</td><td>－</td><td>－</td>
-        <td>－</td><td>－</td><td>－</td>
-          <td>－</td><td>－</td><td>－</td>
-            <td>－</td><td>－</td><td>換<br>除</td>
-              <td>－</td><td>－</td><td>－</td>
-    <td>－</td><td>－</td><td>－</td>
-      <td>－</td><td>－</td><td>－</td>
-        <td>－</td><td>－</td><td>－</td>
-          <td>－</td><td>－</td><td>－</td>
-            <td>－</td><td>－</td><td>－</td>
-              <td>－</td><td>－</td><td>－</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>換<br>除</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
     <th></th>
@@ -319,7 +319,7 @@
     <th>CC</th>
     <th>苗</th>
     <th>26*2*4</th>
-    <th>3+3の結束</th>
+    <th>3+3の結束で保存</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
