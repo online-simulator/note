@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="css/size.css">
 <body>
 <table>
-<caption>2025年<br>支[柱]</caption>
+<caption>2025年<br>支[柱]　[摘]芯</caption>
 <thead>
   <tr>
     <th>品種</th>
@@ -205,7 +205,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植<br>柱</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>芽</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -219,13 +219,13 @@
     <th>WC</th>
     <th>苗</th>
     <th>6*1*1</th>
-    <th></th>
+    <th>3本仕立て</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植<br>柱</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>葉</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -266,6 +266,66 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>虫</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>インゲン豆</th>
+    <th></th>
+    <th>SW</th>
+    <th>株</th>
+    <th>(2*5)*2*1</th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>土</td><td>植</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>コーン</th>
+    <th></th>
+    <th>SW</th>
+    <th>株</th>
+    <th>8*2*1</th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>土</td><td>植</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>スイカ</th>
+    <th></th>
+    <th>CC</th>
+    <th>株</th>
+    <th>3*1*1</th>
+    <th>枝を5本残す<br>摘芯ミスに注意</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>植<br>柱</td>
+              <td>　</td><td>摘<br>枝</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
