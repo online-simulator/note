@@ -83,7 +83,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
-              <td>修</td><td>修</td><td>　</td>
+              <td>修</td><td>修2</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
