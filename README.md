@@ -374,6 +374,26 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
+    <th><del>ニンニク</del></th>
+    <th></th>
+    <th>NW</th>
+    <th>株</th>
+    <th>15*2*0.7</th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>■<br>乾</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
     <th><del>玉葱</del></th>
     <th></th>
     <th>CC</th>
