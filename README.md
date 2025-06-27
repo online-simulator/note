@@ -225,7 +225,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植<br>柱</td>
-              <td>　</td><td>葉</td><td>■2</td>
+              <td>　</td><td>葉</td><td>■3</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -265,7 +265,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植<br>柱</td>
-              <td>虫</td><td>　</td><td>■2</td>
+              <td>虫</td><td>　</td><td>■3</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
