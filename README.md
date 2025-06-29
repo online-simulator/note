@@ -165,7 +165,7 @@
         <td>供</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>供</td><td>　</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>供</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
