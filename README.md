@@ -318,7 +318,7 @@
     <th></th>
     <th>SW</th>
     <th>株</th>
-    <th><del>8*2*1</del><br>14*3*1</th>
+    <th><del>8*2*1</del><br>(14+1)*3*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -326,7 +326,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>土</td><td>植2</td><td>　</td>
-    <td>　</td><td>　</td><td>　</td>
+    <td>植</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
