@@ -239,14 +239,14 @@
     <th>WC</th>
     <th>苗</th>
     <th>4*1*1</th>
-    <th></th>
+    <th>水やりに蜂</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>　</td><td>■3</td>
-    <td>■2</td><td>　</td><td>　</td>
+    <td>■2<br>蛙</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
