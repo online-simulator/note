@@ -314,6 +314,26 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
+    <th></th>
+    <th></th>
+    <th>NE</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>土<br>耕</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
     <th>ズッキーニ</th>
     <th></th>
     <th>NW</th>
