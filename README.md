@@ -195,7 +195,7 @@
   </tr>
   <tr>
     <th>トマト</th>
-    <th></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0005.JPG"><img src="img/IMG_2025-07-10-DSC_0006.JPG"><img src="img/IMG_2025-07-10-DSC_0007.JPG"></th>
     <th>NW</th>
     <th>苗</th>
     <th>10*1*1</th>
@@ -215,7 +215,7 @@
   </tr>
   <tr>
     <th>トマト</th>
-    <th></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0019.JPG"></th>
     <th>SW</th>
     <th>苗</th>
     <th>(3+4)*1*1</th>
@@ -235,7 +235,7 @@
   </tr>
   <tr>
     <th>ナス</th>
-    <th></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0016.JPG"></th>
     <th>WC</th>
     <th>苗</th>
     <th>6*1*1</th>
@@ -255,7 +255,7 @@
   </tr>
   <tr>
     <th>ピーマン</th>
-    <th></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0018.JPG"><img src="img/IMG_2025-07-10-DSC_0004.JPG"></th>
     <th>WC</th>
     <th>苗</th>
     <th>4*1*1</th>
@@ -275,7 +275,7 @@
   </tr>
   <tr>
     <th>オクラ</th>
-    <th></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0017.JPG"></th>
     <th>WC</th>
     <th>苗</th>
     <th>9*1*2<br>5*1*1</th>
@@ -295,7 +295,7 @@
   </tr>
   <tr>
     <th>きゅうり</th>
-    <th></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0020.JPG"></th>
     <th>SW</th>
     <th>苗</th>
     <th>4*1*1</th>
@@ -314,8 +314,48 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>インゲン豆</th>
+    <th>ほうれん草</th>
+    <th><img src="img/IMG_2025-07-10-DSC_0021.JPG"></th>
+    <th>SW</th>
+    <th>条</th>
+    <th>50*2*1</th>
     <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>種</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>チンゲン菜</th>
+    <th><img src="img/IMG_2025-07-10-DSC_0024.JPG"></th>
+    <th>SW</th>
+    <th>条</th>
+    <th>50*2*1</th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>種</td>
+              <td>　</td><td>虫</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>インゲン豆</th>
+    <th><img src="img/IMG_2025-07-10-DSC_0022.JPG"></th>
     <th>SW</th>
     <th>株</th>
     <th>(2*5)*2*1</th>
@@ -375,7 +415,7 @@
   </tr>
   <tr>
     <th>コーン</th>
-    <th></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0023.JPG"></th>
     <th>SW</th>
     <th>株</th>
     <th><del>8*2*1</del><br>(14+1)*3*1</th>
@@ -395,7 +435,7 @@
   </tr>
   <tr>
     <th>スイカ</th>
-    <th></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0010.JPG"></th>
     <th>CC</th>
     <th>株</th>
     <th>3*1*1</th>
@@ -415,7 +455,7 @@
   </tr>
   <tr>
     <th>カボチャ</th>
-    <th></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0011.JPG"><img src="img/IMG_2025-07-10-DSC_0012.JPG"></th>
     <th>SC</th>
     <th>苗</th>
     <th>3*2*1</th>
@@ -495,7 +535,7 @@
   </tr>
   <tr>
     <th>サツマイモ</th>
-    <th></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0013.JPG"><img src="img/IMG_2025-07-10-DSC_0014.JPG"></th>
     <th>CC</th>
     <th>苗</th>
     <th>6*2*3</th>
@@ -515,7 +555,7 @@
   </tr>
   <tr>
     <th>サツマイモ</th>
-    <th></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0009.JPG"></th>
     <th>SE</th>
     <th>苗</th>
     <th>6*1*2</th>
@@ -535,7 +575,7 @@
   </tr>
   <tr>
     <th>里芋</th>
-    <th></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0008.JPG"></th>
     <th>SE</th>
     <th>苗</th>
     <th>3*1*1</th>
