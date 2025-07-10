@@ -214,6 +214,26 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
+    <th>トマト</th>
+    <th></th>
+    <th>SW</th>
+    <th>苗</th>
+    <th>(3+4)*1*1</th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>植</td><td>　</td><td>　</td>
+    <td>　</td><td>植</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
     <th>ナス</th>
     <th></th>
     <th>WC</th>
@@ -346,7 +366,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
-    <td>耕<br>土2</td><td>　</td><td>　</td>
+    <td>耕<br>土2</td><td>植</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
