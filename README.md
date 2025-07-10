@@ -338,7 +338,7 @@
     <th><img src="img/IMG_2025-07-10-DSC_0024.JPG"></th>
     <th>SW</th>
     <th>条</th>
-    <th>50*2*1</th>
+    <th>50*3*1</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
