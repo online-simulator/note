@@ -374,46 +374,6 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th></th>
-    <th></th>
-    <th>NE</th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <td>　</td><td>　</td><td>　</td>
-      <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>　</td><td>　</td>
-          <td>　</td><td>　</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
-    <td>土<br>耕</td><td>　</td><td>　</td>
-      <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>　</td><td>　</td>
-          <td>　</td><td>　</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
-  </tr>
-  <tr>
-    <th>ズッキーニ</th>
-    <th></th>
-    <th>NW</th>
-    <th>株</th>
-    <th>1*1*1</th>
-    <th></th>
-    <td>　</td><td>　</td><td>　</td>
-      <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>　</td><td>　</td>
-          <td>　</td><td>　</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
-    <td>耕<br>土2</td><td>植</td><td>　</td>
-      <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>　</td><td>　</td>
-          <td>　</td><td>　</td><td>　</td>
-            <td>　</td><td>　</td><td>　</td>
-              <td>　</td><td>　</td><td>　</td>
-  </tr>
-  <tr>
     <th>コーン</th>
     <th><img src="img/IMG_2025-07-10-DSC_0023.JPG"></th>
     <th>SW</th>
@@ -467,6 +427,46 @@
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>　</td><td>受</td>
     <td>藁</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th></th>
+    <th></th>
+    <th>NE</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>土<br>耕</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>ズッキーニ</th>
+    <th></th>
+    <th>NW</th>
+    <th>株</th>
+    <th>1*1*1</th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>耕<br>土2</td><td>植</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
