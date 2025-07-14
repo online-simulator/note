@@ -95,7 +95,7 @@
 <tbody>
   <tr>
     <th>金柑</th>
-    <th></th>
+    <th><img src="img/IMG_2025-07-14-DSC_0005.JPG"></th>
     <th>NE</th>
     <th></th>
     <th>1</th>
@@ -115,7 +115,7 @@
   </tr>
   <tr>
     <th>みかん</th>
-    <th></th>
+    <th><img src="img/IMG_2025-07-14-DSC_0006.JPG"></th>
     <th>SW</th>
     <th></th>
     <th>1+1</th>
@@ -455,7 +455,7 @@
   </tr>
   <tr>
     <th>ズッキーニ</th>
-    <th></th>
+    <th><img src="img/IMG_2025-07-14-DSC_0004.JPG"></th>
     <th>NW</th>
     <th>株</th>
     <th>1*1*1</th>
