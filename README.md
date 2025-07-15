@@ -94,6 +94,26 @@
 </thead>
 <tbody>
   <tr>
+    <th>ブルーベリー</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th>1</th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>網</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
     <th>金柑</th>
     <th><img src="img/IMG_2025-07-14-DSC_0005.JPG"></th>
     <th>NE</th>
