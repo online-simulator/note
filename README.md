@@ -239,7 +239,7 @@
     <th>SW</th>
     <th>苗</th>
     <th>(3+4)*1*1</th>
-    <th></th>
+    <th>支柱の色（黒焼け⇒緑）</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
