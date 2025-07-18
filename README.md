@@ -219,7 +219,7 @@
     <th>NW</th>
     <th>苗</th>
     <th>10*1*1</th>
-    <th>大の半数は日焼け</th>
+    <th>大の半数は日焼け<br>日差しの要対策（根の地温＜３０℃）</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
