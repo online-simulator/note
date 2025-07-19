@@ -37,6 +37,26 @@
     <th></th>
     <th></th>
     <th></th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>セミ</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
     <th>クリーナ交[換]<br>泥詰まり[除]去</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -226,7 +246,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>芽</td><td>■3</td>
-    <td>■7</td><td>■9</td><td>　</td>
+    <td>■7</td><td>■10</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -266,7 +286,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>葉</td><td>■6</td>
-    <td>■6<br>葉<br>■3</td><td>■3<br>起<br>肥<br>■6</td><td>　</td>
+    <td>■6<br>葉<br>■3</td><td>■3<br>起<br>肥<br>■7</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -286,7 +306,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>　</td><td>■3</td>
-    <td>■2<br>蛙6<br>■7</td><td>■9</td><td>　</td>
+    <td>■2<br>蛙6<br>■7</td><td>■10</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -306,7 +326,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>虫</td><td>　</td><td>■5</td>
-    <td>■5<br>葉<br>■4</td><td>■9</td><td>　</td>
+    <td>■5<br>葉<br>■4</td><td>■10</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -326,7 +346,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植</td>
               <td>　</td><td>　</td><td>■3</td>
-    <td>■9</td><td>■9</td><td>　</td>
+    <td>■9</td><td>■10</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -386,7 +406,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>土</td><td>植</td><td>　</td>
-    <td>　</td><td>■2</td><td>　</td>
+    <td>　</td><td>■3</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
