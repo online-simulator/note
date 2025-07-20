@@ -175,11 +175,11 @@
   </tr>
   <tr>
     <th>柿</th>
-    <th></th>
+    <th><img src="img/IMG_2025-07-20-DSC_0008.JPG"></th>
     <th>E</th>
     <th></th>
     <th>2+2+1</th>
-    <th></th>
+    <th>甘柿接ぎ木</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -235,7 +235,7 @@
   </tr>
   <tr>
     <th>トマト</th>
-    <th><img src="img/IMG_2025-07-10-DSC_0005.JPG"><img src="img/IMG_2025-07-10-DSC_0006.JPG"><img src="img/IMG_2025-07-10-DSC_0007.JPG"><img src="img/IMG_2025-07-17-DSC_0011.JPG"></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0005.JPG"><img src="img/IMG_2025-07-10-DSC_0006.JPG"><img src="img/IMG_2025-07-10-DSC_0007.JPG"><img src="img/IMG_2025-07-17-DSC_0011.JPG"><img src="img/IMG_2025-07-20-DSC_0002.JPG"></th>
     <th>NW</th>
     <th>苗</th>
     <th>10*1*1</th>
@@ -275,7 +275,7 @@
   </tr>
   <tr>
     <th>ナス</th>
-    <th><img src="img/IMG_2025-07-10-DSC_0016.JPG"><img src="img/IMG_2025-07-17-DSC_0007.JPG"></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0016.JPG"><img src="img/IMG_2025-07-17-DSC_0007.JPG"><img src="img/IMG_2025-07-20-DSC_0003.JPG"></th>
     <th>WC</th>
     <th>苗</th>
     <th>6*1*1</th>
@@ -315,7 +315,7 @@
   </tr>
   <tr>
     <th>オクラ</th>
-    <th><img src="img/IMG_2025-07-10-DSC_0017.JPG"><img src="img/IMG_2025-07-17-DSC_0010.JPG"></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0017.JPG"><img src="img/IMG_2025-07-17-DSC_0010.JPG"><img src="img/IMG_2025-07-20-DSC_0004.JPG"></th>
     <th>WC</th>
     <th>苗</th>
     <th>9*1*2<br>5*1*1</th>
@@ -335,7 +335,7 @@
   </tr>
   <tr>
     <th>きゅうり</th>
-    <th><img src="img/IMG_2025-07-10-DSC_0020.JPG"><img src="img/IMG_2025-07-17-DSC_0008.JPG"></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0020.JPG"><img src="img/IMG_2025-07-17-DSC_0008.JPG"><img src="img/IMG_2025-07-20-DSC_0001.JPG"></th>
     <th>SW</th>
     <th>苗</th>
     <th>4*1*1</th>
@@ -415,7 +415,7 @@
   </tr>
   <tr>
     <th>コーン</th>
-    <th><img src="img/IMG_2025-07-10-DSC_0023.JPG"></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0023.JPG"><img src="img/IMG_2025-07-20-DSC_0005.JPG"></th>
     <th>SW</th>
     <th>株</th>
     <th><del>8*2*1</del><br>(14+1)*3*1</th>
