@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="css/size.css">
 <body>
 <table>
-<caption>2025年<br>支[柱]　[摘]芯　土[起]こし　土[寄]せ</caption>
+<caption>2025年<br>支[柱]　[摘]芯　土[起]こし　土[寄]せ　除[草]</caption>
 <thead>
   <tr>
     <th>品種</th>
@@ -104,7 +104,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>修</td><td>修2</td><td>　</td>
-    <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>草</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -506,7 +506,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
-    <td>耕<br>土2</td><td>植</td><td>　</td>
+    <td>耕<br>土2</td><td>植<br>虫</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
