@@ -246,7 +246,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>芽</td><td>■3</td>
-    <td>■7</td><td>■11</td><td>　</td>
+    <td>■7</td><td>■11</td><td>■</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -286,7 +286,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>葉</td><td>■6</td>
-    <td>■6<br>葉<br>■3</td><td>■3<br>起<br>肥<br>■8</td><td>　</td>
+    <td>■6<br>葉<br>■3</td><td>■3<br>起<br>肥<br>■8</td><td>■</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -306,7 +306,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>　</td><td>■3</td>
-    <td>■2<br>蛙6<br>■7</td><td>■11</td><td>　</td>
+    <td>■2<br>蛙6<br>■7</td><td>■11</td><td>■</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -326,7 +326,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>虫</td><td>　</td><td>■5</td>
-    <td>■5<br>葉<br>■4</td><td>■11</td><td>　</td>
+    <td>■5<br>葉<br>■4</td><td>■11</td><td>■</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -339,14 +339,14 @@
     <th>SW</th>
     <th>苗</th>
     <th>4*1*1</th>
-    <th></th>
+    <th>数本枝残し</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植</td>
               <td>　</td><td>　</td><td>■3</td>
-    <td>■9</td><td>■11</td><td>　</td>
+    <td>■9</td><td>■11</td><td>枝<br>■</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -354,7 +354,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>ほうれん草</th>
+    <th><del>ほうれん草</del></th>
     <th><img src="img/IMG_2025-07-10-DSC_0021.JPG"></th>
     <th>SW</th>
     <th>条</th>
@@ -366,7 +366,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>種</td>
               <td>○</td><td>　</td><td>　</td>
-    <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>□</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -374,7 +374,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>チンゲン菜</th>
+    <th><del>チンゲン菜</del></th>
     <th><img src="img/IMG_2025-07-10-DSC_0024.JPG"></th>
     <th>SW</th>
     <th>条</th>
@@ -386,7 +386,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>種</td>
               <td>○</td><td>虫</td><td>　</td>
-    <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>□</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -466,7 +466,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>　</td><td>受</td>
-    <td>藁</td><td>　</td><td>　</td>
+    <td>藁</td><td>　</td><td>摘</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
