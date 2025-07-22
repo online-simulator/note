@@ -97,14 +97,14 @@
     <th></th>
     <th></th>
     <th></th>
-    <th>畦道<br>補[修]</th>
+    <th>畦道<br>補[修]<br>補[充]</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>修</td><td>修2</td><td>　</td>
-    <td>　</td><td>草</td><td>　</td>
+    <td>　</td><td>草</td><td>充</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
