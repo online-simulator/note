@@ -246,7 +246,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>芽</td><td>■3</td>
-    <td>■7</td><td>■11</td><td>■</td>
+    <td>■7</td><td>■11</td><td>■<br>枝<br>芽<br>■</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
