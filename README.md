@@ -226,7 +226,7 @@
           <td>　</td><td>葉</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
-    <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>草</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
