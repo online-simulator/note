@@ -419,7 +419,7 @@
     <th>SW</th>
     <th>株</th>
     <th><del>8*2*1</del><br>(14+1)*3*1</th>
-    <th>鳥の爪？折れた３本の内１本消失</th>
+    <th>粒数＝絹糸数<br>鳥の爪？で折れた３本の内１本消失</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
