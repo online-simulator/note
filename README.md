@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <th></th>
-    <th></th>
+    <th><img src="img/IMG_2025-07-27-DSC_0001.JPG"><img src="img/IMG_2025-07-27-DSC_0016.JPG"><img src="img/IMG_2025-07-27-DSC_0010.JPG"></th>
     <th></th>
     <th></th>
     <th></th>
@@ -195,7 +195,7 @@
   </tr>
   <tr>
     <th>菊</th>
-    <th></th>
+    <th><img src="img/IMG_2025-07-27-DSC_0025.JPG"></th>
     <th>SE</th>
     <th>株</th>
     <th>14*1*1</th>
@@ -215,7 +215,7 @@
   </tr>
   <tr>
     <th>ネギ</th>
-    <th></th>
+    <th><img src="img/IMG_2025-07-27-DSC_0024.JPG"></th>
     <th>SC</th>
     <th>株</th>
     <th>30*3*1<br>15*3*1</th>
@@ -235,7 +235,7 @@
   </tr>
   <tr>
     <th>トマト</th>
-    <th><img src="img/IMG_2025-07-10-DSC_0005.JPG"><img src="img/IMG_2025-07-10-DSC_0006.JPG"><img src="img/IMG_2025-07-10-DSC_0007.JPG"><img src="img/IMG_2025-07-17-DSC_0011.JPG"><img src="img/IMG_2025-07-20-DSC_0002.JPG"></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0005.JPG"><img src="img/IMG_2025-07-10-DSC_0006.JPG"><img src="img/IMG_2025-07-10-DSC_0007.JPG"><img src="img/IMG_2025-07-17-DSC_0011.JPG"><img src="img/IMG_2025-07-20-DSC_0002.JPG"><img src="img/IMG_2025-07-27-DSC_0008.JPG"></th>
     <th>NW</th>
     <th>苗</th>
     <th>10*1*1</th>
@@ -246,7 +246,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>芽</td><td>■3</td>
-    <td>■7</td><td>■11</td><td>■<br>枝<br>芽2<br>■3<br>肥<br>■2</td>
+    <td>■7</td><td>■11</td><td>■<br>枝<br>芽2<br>■3<br>肥<br>■3</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -275,7 +275,7 @@
   </tr>
   <tr>
     <th>ナス</th>
-    <th><img src="img/IMG_2025-07-10-DSC_0016.JPG"><img src="img/IMG_2025-07-17-DSC_0007.JPG"><img src="img/IMG_2025-07-20-DSC_0003.JPG"></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0016.JPG"><img src="img/IMG_2025-07-17-DSC_0007.JPG"><img src="img/IMG_2025-07-20-DSC_0003.JPG"><img src="img/IMG_2025-07-27-DSC_0007.JPG"></th>
     <th>WC</th>
     <th>苗</th>
     <th>6*1*1</th>
@@ -286,7 +286,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>葉</td><td>■6</td>
-    <td>■6<br>葉<br>■3</td><td>■3<br>起<br>肥<br>■8</td><td>■<br>葉<br>■3<br>葉<br>■<br>虫<br>葉<br>■</td>
+    <td>■6<br>葉<br>■3</td><td>■3<br>起<br>肥<br>■8</td><td>■<br>葉<br>■3<br>葉<br>■<br>虫<br>葉<br>■2</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -306,7 +306,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>　</td><td>■3</td>
-    <td>■2<br>蛙6<br>■7</td><td>■11</td><td>■6</td>
+    <td>■2<br>蛙6<br>■7</td><td>■11</td><td>■7</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -326,7 +326,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>虫</td><td>　</td><td>■5</td>
-    <td>■5<br>葉<br>■4</td><td>■11</td><td>■6</td>
+    <td>■5<br>葉<br>■4</td><td>■11</td><td>■7</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -346,7 +346,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>植</td>
               <td>　</td><td>　</td><td>■3</td>
-    <td>■9</td><td>■11</td><td>枝<br>■<br>□<br>■3<br>肥<br>■2</td>
+    <td>■9</td><td>■11</td><td>枝<br>■<br>□<br>■3<br>肥<br>■3</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -395,7 +395,7 @@
   </tr>
   <tr>
     <th>インゲン豆</th>
-    <th><img src="img/IMG_2025-07-10-DSC_0022.JPG"></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0022.JPG"><img src="img/IMG_2025-07-27-DSC_0026.JPG"></th>
     <th>SW</th>
     <th>株</th>
     <th>(2*5)*2*1</th>
@@ -406,7 +406,7 @@
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>土</td><td>植</td><td>　</td>
-    <td>　</td><td>■3</td><td>■2</td>
+    <td>　</td><td>■3</td><td>■3</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -415,18 +415,18 @@
   </tr>
   <tr>
     <th>コーン</th>
-    <th><img src="img/IMG_2025-07-10-DSC_0023.JPG"><img src="img/IMG_2025-07-20-DSC_0005.JPG"></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0023.JPG"><img src="img/IMG_2025-07-20-DSC_0005.JPG"><img src="img/IMG_2025-07-27-DSC_0017.JPG"><img src="img/IMG_2025-07-27-DSC_0020.JPG"><img src="img/IMG_2025-07-27-DSC_0030.JPG"></th>
     <th>SW</th>
     <th>株</th>
     <th><del>8*2*1</del><br>(14+1)*3*1</th>
-    <th></th>
+    <th>鳥の爪？折れた３本の内１本消失</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>土</td><td>植2</td><td>　</td>
-    <td>植<br>肥</td><td>寄</td><td>　</td>
+    <td>植<br>肥</td><td>寄</td><td>折<br>□</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
@@ -435,7 +435,7 @@
   </tr>
   <tr>
     <th>スイカ</th>
-    <th><img src="img/IMG_2025-07-10-DSC_0010.JPG"></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0010.JPG"><img src="img/IMG_2025-07-27-DSC_0022.JPG"></th>
     <th>CC</th>
     <th>株</th>
     <th>3*1*1</th>
@@ -455,7 +455,7 @@
   </tr>
   <tr>
     <th>カボチャ</th>
-    <th><img src="img/IMG_2025-07-10-DSC_0011.JPG"><img src="img/IMG_2025-07-10-DSC_0012.JPG"></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0011.JPG"><img src="img/IMG_2025-07-10-DSC_0012.JPG"><img src="img/IMG_2025-07-27-DSC_0023.JPG"><img src="img/IMG_2025-07-27-DSC_0028.JPG"></th>
     <th>SC</th>
     <th>苗</th>
     <th>3*2*1</th>
@@ -495,7 +495,7 @@
   </tr>
   <tr>
     <th>ズッキーニ</th>
-    <th><img src="img/IMG_2025-07-14-DSC_0004.JPG"></th>
+    <th><img src="img/IMG_2025-07-14-DSC_0004.JPG"><img src="img/IMG_2025-07-27-DSC_0027.JPG"></th>
     <th>NW</th>
     <th>株</th>
     <th>1*1*1</th>
