@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <th></th>
-    <th><img src="img/IMG_2025-07-27-DSC_0001.JPG"><img src="img/IMG_2025-07-27-DSC_0016.JPG"><img src="img/IMG_2025-07-27-DSC_0010.JPG"></th>
+    <th><img src="img/IMG_2025-07-27-DSC_0001.JPG"><img src="img/IMG_2025-07-27-DSC_0016.JPG"><img src="img/IMG_2025-07-27-DSC_0032.JPG"><img src="img/IMG_2025-07-27-DSC_0033.JPG"></th>
     <th></th>
     <th></th>
     <th></th>
@@ -295,7 +295,7 @@
   </tr>
   <tr>
     <th>ピーマン</th>
-    <th><img src="img/IMG_2025-07-10-DSC_0018.JPG"><img src="img/IMG_2025-07-10-DSC_0004.JPG"><img src="img/IMG_2025-07-17-DSC_0009.JPG"></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0018.JPG"><img src="img/IMG_2025-07-10-DSC_0004.JPG"><img src="img/IMG_2025-07-17-DSC_0009.JPG"><img src="img/IMG_2025-07-27-DSC_0031.JPG"></th>
     <th>WC</th>
     <th>苗</th>
     <th>4*1*1</th>
@@ -315,7 +315,7 @@
   </tr>
   <tr>
     <th>オクラ</th>
-    <th><img src="img/IMG_2025-07-10-DSC_0017.JPG"><img src="img/IMG_2025-07-17-DSC_0010.JPG"><img src="img/IMG_2025-07-20-DSC_0004.JPG"></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0017.JPG"><img src="img/IMG_2025-07-17-DSC_0010.JPG"><img src="img/IMG_2025-07-20-DSC_0004.JPG"><img src="img/IMG_2025-07-27-DSC_0010.JPG"></th>
     <th>WC</th>
     <th>苗</th>
     <th>9*1*2<br>5*1*1</th>
