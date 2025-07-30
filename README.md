@@ -415,18 +415,18 @@
   </tr>
   <tr>
     <th>コーン</th>
-    <th><img src="img/IMG_2025-07-10-DSC_0023.JPG"><img src="img/IMG_2025-07-20-DSC_0005.JPG"><img src="img/IMG_2025-07-27-DSC_0017.JPG"><img src="img/IMG_2025-07-27-DSC_0020.JPG"><img src="img/IMG_2025-07-27-DSC_0030.JPG"></th>
+    <th><img src="img/IMG_2025-07-10-DSC_0023.JPG"><img src="img/IMG_2025-07-20-DSC_0005.JPG"><img src="img/IMG_2025-07-27-DSC_0030.JPG"></th>
     <th>SW</th>
     <th>株</th>
     <th><del>8*2*1</del><br>(14+1)*3*1</th>
-    <th>粒数＝絹糸数<br>鳥の爪？で折れた３本の内１本消失<br>動物？が5-1=4本を近場に運んで食べた</th>
+    <th>粒数＝絹糸数</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>土</td><td>植2</td><td>　</td>
-    <td>植<br>肥</td><td>寄</td><td>折<br>□<br>折<img src="img/IMG_2025-07-30-DSC_0005.JPG"><img src="img/IMG_2025-07-30-DSC_0007.JPG">残1<img src="img/IMG_2025-07-30-DSC_0011.JPG"><img src="img/IMG_2025-07-30-DSC_0012.JPG">残2<img src="img/IMG_2025-07-30-DSC_0019.JPG"><img src="img/IMG_2025-07-30-DSC_0018.JPG"></td>
+    <td>植<br>肥</td><td>寄</td><td>鳥の爪？で折れた３本の内１本消失<img src="img/IMG_2025-07-27-DSC_0017.JPG"><img src="img/IMG_2025-07-27-DSC_0020.JPG"><br>□<br>狸？が5-1=4本を近場に運んで食べた<img src="img/IMG_2025-07-30-DSC_0005.JPG"><img src="img/IMG_2025-07-30-DSC_0007.JPG">残1<img src="img/IMG_2025-07-30-DSC_0011.JPG"><img src="img/IMG_2025-07-30-DSC_0012.JPG">残2<img src="img/IMG_2025-07-30-DSC_0019.JPG"><img src="img/IMG_2025-07-30-DSC_0018.JPG"><br>■</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
