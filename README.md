@@ -419,7 +419,7 @@
     <th>SW</th>
     <th>株</th>
     <th><del>8*2*1</del><br>(14+1)*3*1</th>
-    <th>粒数＝絹糸数</th>
+    <th>粒数＝絹糸数<br>昨年より1.5月遅い植</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
