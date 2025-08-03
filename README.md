@@ -507,7 +507,7 @@
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>耕<br>土2</td><td>植<br>虫</td><td>寄</td>
-      <td>　</td><td>　</td><td>　</td>
+      <td>寄</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
