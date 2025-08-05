@@ -45,7 +45,7 @@
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>セミ<br>子蛙</td><td>錦鯉？<br>閃光@03:06<br><img src="img/IMG_2025-07-30-DSC_0002.JPG"><img src="img/IMG_2025-07-30-DSC_0004.JPG"><br>子蛙<img src="img/IMG_2025-07-31-DSC_0002.JPG"><img src="img/IMG_2025-07-31-DSC_0008.JPG"><img src="img/IMG_2025-07-31-DSC_0013.JPG"></td>
-      <td>子蛙<img src="img/IMG_2025-08-01-DSC_0014.JPG"><img src="img/IMG_2025-08-01-DSC_0010.JPG"><img src="img/IMG_2025-08-01-DSC_0019.JPG"><img src="img/IMG_2025-08-01-DSC_0022.JPG"><img src="img/IMG_2025-08-02-DSC_0004.JPG"><img src="img/IMG_2025-08-02-DSC_0014.JPG"><img src="img/IMG_2025-08-02-DSC_0036.JPG"><img src="img/IMG_2025-08-02-DSC_0037.JPG"><img src="img/IMG_2025-08-02-DSC_0038.JPG"><img src="img/IMG_2025-08-03-DSC_0010.JPG"><img src="img/IMG_2025-08-03-DSC_0016.JPG"><img src="img/IMG_2025-08-03-DSC_0028.JPG"><br>セミ<img src="img/IMG_2025-08-04-DSC_0006.JPG"></td><td>　</td><td>　</td>
+      <td>子蛙<img src="img/IMG_2025-08-01-DSC_0014.JPG"><img src="img/IMG_2025-08-01-DSC_0010.JPG"><img src="img/IMG_2025-08-01-DSC_0019.JPG"><img src="img/IMG_2025-08-01-DSC_0022.JPG"><img src="img/IMG_2025-08-02-DSC_0004.JPG"><img src="img/IMG_2025-08-02-DSC_0014.JPG"><img src="img/IMG_2025-08-02-DSC_0036.JPG"><img src="img/IMG_2025-08-02-DSC_0037.JPG"><img src="img/IMG_2025-08-02-DSC_0038.JPG"><img src="img/IMG_2025-08-03-DSC_0010.JPG"><img src="img/IMG_2025-08-03-DSC_0016.JPG"><img src="img/IMG_2025-08-03-DSC_0028.JPG"><img src="img/IMG_2025-08-05-DSC_0002.JPG"><img src="img/IMG_2025-08-05-DSC_0005.JPG"><br>セミ<img src="img/IMG_2025-08-04-DSC_0006.JPG"></td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -247,7 +247,7 @@
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>芽</td><td>■3</td>
     <td>■7</td><td>■11</td><td>■<br>枝<br>芽2<br>■3<br>肥<br>■7</td>
-      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0027.JPG"><br>■2</td><td>　</td><td>　</td>
+      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0027.JPG"><br>■3</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -267,7 +267,7 @@
             <td>　</td><td>　</td><td>　</td>
               <td>植</td><td>　</td><td>　</td>
     <td>　</td><td>植</td><td>枝<br>■<br>肥<br>■3</td>
-      <td>■<br><img src="img/IMG_2025-08-02-DSC_0021.JPG"><br>■</td><td>　</td><td>　</td>
+      <td>■<br><img src="img/IMG_2025-08-02-DSC_0021.JPG"><br>■2</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -287,7 +287,7 @@
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>葉</td><td>■6</td>
     <td>■6<br>葉<br>■3</td><td>■3<br>起<br>肥<br>■8</td><td>■<br>葉<br>■3<br>葉<br>■<br>虫<br>葉<br>■6</td>
-      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0025.JPG"><br>■2</td><td>　</td><td>　</td>
+      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0025.JPG"><br>■3</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -307,7 +307,7 @@
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>　</td><td>■3</td>
     <td>■2<br>蛙6<br>■7</td><td>■11</td><td>■11</td>
-      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0022.JPG"><br>■2</td><td>　</td><td>　</td>
+      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0022.JPG"><br>■3</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -327,7 +327,7 @@
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>虫</td><td>　</td><td>■5</td>
     <td>■5<br>葉<br>■4</td><td>■11</td><td>■11</td>
-      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0024.JPG"><br>■2</td><td>　</td><td>　</td>
+      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0024.JPG"><br>■3</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -347,7 +347,7 @@
             <td>　</td><td>　</td><td>植</td>
               <td>　</td><td>　</td><td>■3</td>
     <td>■9</td><td>■11</td><td>枝<br>■<br>□<br>■3<br>肥<br>■7</td>
-      <td>■2<br>虫<img src="img/IMG_2025-08-02-DSC_0010.JPG"><br>■2<img src="img/IMG_2025-08-04-DSC_0017.JPG"></td><td>　</td><td>　</td>
+      <td>■2<br>虫<img src="img/IMG_2025-08-02-DSC_0010.JPG"><br>■2<img src="img/IMG_2025-08-04-DSC_0017.JPG"><br>■</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -419,7 +419,7 @@
     <th>SW</th>
     <th>株</th>
     <th><del>8*2*1</del><br>(14+1)*3*1</th>
-    <th>粒数＝絹糸数<br>昨年より1.5月遅い植</th>
+    <th>粒数＝絹糸数<br>植の時期と場所を考える</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -427,7 +427,7 @@
             <td>　</td><td>　</td><td>　</td>
               <td>土</td><td>植2</td><td>　</td>
     <td>植<br>肥</td><td>寄</td><td>鳥の爪？で折れた３本の内１本消失<img src="img/IMG_2025-07-27-DSC_0017.JPG"><br>□<img src="img/IMG_2025-07-27-DSC_0020.JPG"><br>狸？が5-1=4本を近場に運んで食べた<img src="img/IMG_2025-07-30-DSC_0005.JPG"><img src="img/IMG_2025-07-30-DSC_0007.JPG">残1<img src="img/IMG_2025-07-30-DSC_0011.JPG"><img src="img/IMG_2025-07-30-DSC_0012.JPG">残2<img src="img/IMG_2025-07-30-DSC_0019.JPG"><img src="img/IMG_2025-07-30-DSC_0018.JPG"><br>■<img src="img/IMG_2025-07-30-DSC_0026.JPG"></td>
-      <td>畔道を越えて4本回収<img src="img/IMG_2025-08-01-DSC_0015.JPG"><img src="img/IMG_2025-08-01-DSC_0016.JPG"><br>■<img src="img/IMG_2025-08-02-DSC_0018.JPG"><br><img src="img/IMG_2025-08-02-DSC_0020.JPG"><br>昼間の蟻？<img src="img/IMG_2025-08-02-DSC_0039.JPG"><br>■<img src="img/IMG_2025-08-03-DSC_0008.JPG"><br>小蟻<img src="img/IMG_2025-08-04-DSC_0001.JPG"><br>近場に残4本<img src="img/IMG_2025-08-04-DSC_0016.JPG"></td><td>　</td><td>　</td>
+      <td>畔道を越えて4本回収<img src="img/IMG_2025-08-01-DSC_0015.JPG"><img src="img/IMG_2025-08-01-DSC_0016.JPG"><br>■<img src="img/IMG_2025-08-02-DSC_0018.JPG"><br><img src="img/IMG_2025-08-02-DSC_0020.JPG"><br>昼間の蟻？<img src="img/IMG_2025-08-02-DSC_0039.JPG"><br>■<img src="img/IMG_2025-08-03-DSC_0008.JPG"><br>小蟻<img src="img/IMG_2025-08-04-DSC_0001.JPG"><br>近場に残4本<img src="img/IMG_2025-08-04-DSC_0016.JPG"><br>真横に残5本以上<img src="img/IMG_2025-08-05-DSC_0003.JPG"><img src="img/IMG_2025-08-05-DSC_0008.JPG"><br>残部僅少<img src="img/IMG_2025-08-05-DSC_0009.JPG"><br>□<img src="img/IMG_2025-08-05-DSC_0010.JPG"></td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
