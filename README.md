@@ -327,7 +327,7 @@
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>虫</td><td>　</td><td>■5</td>
     <td>■5<br>葉<br>■4</td><td>■11</td><td>■11</td>
-      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0024.JPG"><br>■4</td><td>　</td><td>　</td>
+      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0024.JPG"><br>■4<img src="img/IMG_2025-08-06-DSC_0001.JPG"></td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
