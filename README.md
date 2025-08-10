@@ -294,6 +294,26 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
+    <th>ナス</th>
+    <th></th>
+    <th>NW</th>
+    <th>株</th>
+    <th>1*1*1</th>
+    <th>自然発生の苗</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>耕<br>土2</td><td>移</td><td>　</td>
+      <td>寄<br>■<img src="img/IMG_2025-08-10-DSC_0001.JPG"></td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
     <th>ピーマン</th>
     <th><img src="img/IMG_2025-07-10-DSC_0018.JPG"><img src="img/IMG_2025-07-10-DSC_0004.JPG"><img src="img/IMG_2025-07-17-DSC_0009.JPG"><img src="img/IMG_2025-07-27-DSC_0031.JPG"></th>
     <th>WC</th>
@@ -347,7 +367,7 @@
             <td>　</td><td>　</td><td>植</td>
               <td>　</td><td>　</td><td>■3</td>
     <td>■9</td><td>■11</td><td>枝<br>■<br>□<br>■3<br>肥<br>■7</td>
-      <td>■2<br>虫<img src="img/IMG_2025-08-02-DSC_0010.JPG"><br>■2<img src="img/IMG_2025-08-04-DSC_0017.JPG"><br>■6</td><td>　</td><td>　</td>
+      <td>■2<br>虫<img src="img/IMG_2025-08-02-DSC_0010.JPG"><br>■2<img src="img/IMG_2025-08-04-DSC_0017.JPG"><br>■6<img src="img/IMG_2025-08-10-DSC_0003.JPG"><br>雨中<img src="img/IMG_2025-08-10-DSC_0002.JPG"></td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
