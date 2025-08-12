@@ -487,7 +487,7 @@
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>　</td><td>受</td>
     <td>藁</td><td>　</td><td>摘<br>受2</td>
-      <td><img src="img/IMG_2025-08-02-DSC_0031.JPG"><img src="img/IMG_2025-08-02-DSC_0035.JPG"><img src="img/IMG_2025-08-02-DSC_0034.JPG"></td><td>　</td><td>　</td>
+      <td><img src="img/IMG_2025-08-02-DSC_0031.JPG"><img src="img/IMG_2025-08-02-DSC_0035.JPG"><img src="img/IMG_2025-08-02-DSC_0034.JPG"></td><td>訪花<img src="img/IMG_2025-08-12-DSC_0031.JPG"><img src="img/IMG_2025-08-12-DSC_0032.JPG"><img src="img/IMG_2025-08-12-DSC_0034.JPG"></td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
