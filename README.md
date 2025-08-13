@@ -247,7 +247,7 @@
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>芽</td><td>■3</td>
     <td>■7</td><td>■11</td><td>■<br>枝<br>芽2<br>■3<br>肥<br>■7</td>
-      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0027.JPG"><br>■7<img src="img/IMG_2025-08-09-DSC_0007.JPG"><br>枝<img src="img/IMG_2025-08-09-DSC_0001.JPG"><br>■</td><td>■2<br>枝</td><td>　</td>
+      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0027.JPG"><br>■7<img src="img/IMG_2025-08-09-DSC_0007.JPG"><br>枝<img src="img/IMG_2025-08-09-DSC_0001.JPG"><br>■</td><td>■2<br>枝<br>肥</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
