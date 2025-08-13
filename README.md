@@ -527,7 +527,7 @@
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>耕<br>土2</td><td>植<br>虫</td><td>寄</td>
-      <td>寄<br>蔓<img src="img/IMG_2025-08-07-DSC_0006.JPG"></td><td>直土の葉</td><td>　</td>
+      <td>寄<br>蔓<img src="img/IMG_2025-08-07-DSC_0006.JPG"></td><td>直土の葉<img src="img/IMG_2025-08-13-DSC_0005.JPG"></td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
