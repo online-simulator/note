@@ -247,7 +247,7 @@
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>芽</td><td>■3</td>
     <td>■7</td><td>■11</td><td>■<br>枝<br>芽2<br>■3<br>肥<br>■7</td>
-      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0027.JPG"><br>■7<img src="img/IMG_2025-08-09-DSC_0007.JPG"><br>枝<img src="img/IMG_2025-08-09-DSC_0001.JPG"><br>■</td><td>■2<br>枝<br>肥<br>□<img src="img/IMG_2025-08-13-DSC_0006.JPG"><img src="img/IMG_2025-08-13-DSC_0007.JPG"></td><td>　</td>
+      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0027.JPG"><br>■7<img src="img/IMG_2025-08-09-DSC_0007.JPG"><br>枝<img src="img/IMG_2025-08-09-DSC_0001.JPG"><br>■</td><td>■2<br>枝<br>肥<br>□<img src="img/IMG_2025-08-13-DSC_0006.JPG"><img src="img/IMG_2025-08-13-DSC_0007.JPG"><br>□</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -267,7 +267,7 @@
             <td>　</td><td>　</td><td>　</td>
               <td>植</td><td>　</td><td>　</td>
     <td>　</td><td>植</td><td>枝<br>■<br>肥<br>■3</td>
-      <td>■<br><img src="img/IMG_2025-08-02-DSC_0021.JPG"><br>■5</td><td>■<br>肥</td><td>　</td>
+      <td>■<br><img src="img/IMG_2025-08-02-DSC_0021.JPG"><br>■5</td><td>■<br>肥<br>□</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -287,7 +287,7 @@
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>葉</td><td>■6</td>
     <td>■6<br>葉<br>■3</td><td>■3<br>起<br>肥<br>■8</td><td>■<br>葉<br>■3<br>葉<br>■<br>虫<br>葉<br>■6</td>
-      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0025.JPG"><br>■6<img src="img/IMG_2025-08-08-DSC_0004.JPG"><br>■2</td><td>■3<br>肥</td><td>　</td>
+      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0025.JPG"><br>■6<img src="img/IMG_2025-08-08-DSC_0004.JPG"><br>■2</td><td>■3<br>肥<br>■</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -327,7 +327,7 @@
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>　</td><td>■3</td>
     <td>■2<br>蛙6<br>■7</td><td>■11</td><td>■11</td>
-      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0022.JPG"><br>■8</td><td>■3</td><td>　</td>
+      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0022.JPG"><br>■8</td><td>■4</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -347,7 +347,7 @@
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>虫</td><td>　</td><td>■5</td>
     <td>■5<br>葉<br>■4</td><td>■11</td><td>■11</td>
-      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0024.JPG"><br>■4<img src="img/IMG_2025-08-06-DSC_0001.JPG"><br>一部で2段以上<img src="img/IMG_2025-08-07-DSC_0001.JPG"><br>■<img src="img/IMG_2025-08-07-DSC_0007.JPG"><br>■3</td><td>■3</td><td>　</td>
+      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0024.JPG"><br>■4<img src="img/IMG_2025-08-06-DSC_0001.JPG"><br>一部で2段以上<img src="img/IMG_2025-08-07-DSC_0001.JPG"><br>■<img src="img/IMG_2025-08-07-DSC_0007.JPG"><br>■3</td><td>■4</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -367,7 +367,7 @@
             <td>　</td><td>　</td><td>植</td>
               <td>　</td><td>　</td><td>■3</td>
     <td>■9</td><td>■11</td><td>枝<br>■<br>□<br>■3<br>肥<br>■7</td>
-      <td>■2<br>虫<img src="img/IMG_2025-08-02-DSC_0010.JPG"><br>■2<img src="img/IMG_2025-08-04-DSC_0017.JPG"><br>■6<img src="img/IMG_2025-08-10-DSC_0003.JPG"><br>雨中<img src="img/IMG_2025-08-10-DSC_0002.JPG"></td><td>■<img src="img/IMG_2025-08-11-DSC_0001.JPG"><br>■<img src="img/IMG_2025-08-12-DSC_0036.JPG"><br>■</td><td>　</td>
+      <td>■2<br>虫<img src="img/IMG_2025-08-02-DSC_0010.JPG"><br>■2<img src="img/IMG_2025-08-04-DSC_0017.JPG"><br>■6<img src="img/IMG_2025-08-10-DSC_0003.JPG"><br>雨中<img src="img/IMG_2025-08-10-DSC_0002.JPG"></td><td>■<img src="img/IMG_2025-08-11-DSC_0001.JPG"><br>■<img src="img/IMG_2025-08-12-DSC_0036.JPG"><br>■2</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -427,7 +427,7 @@
             <td>　</td><td>　</td><td>　</td>
               <td>土</td><td>植</td><td>　</td>
     <td>　</td><td>■3</td><td>■3</td>
-      <td>□</td><td>　</td><td>　</td>
+      <td>□</td><td>回</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
