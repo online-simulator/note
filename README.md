@@ -267,7 +267,7 @@
             <td>　</td><td>　</td><td>　</td>
               <td>植</td><td>　</td><td>　</td>
     <td>　</td><td>植</td><td>枝<br>■<br>肥<br>■3</td>
-      <td>■<br><img src="img/IMG_2025-08-02-DSC_0021.JPG"><br>■5</td><td>■<br>肥<br>□</td><td>　</td>
+      <td>■<br><img src="img/IMG_2025-08-02-DSC_0021.JPG"><br>■5</td><td>■<br>肥<img src="img/IMG_2025-08-14-DSC_0005.JPG"><br>□<img src="img/IMG_2025-08-14-DSC_0007.JPG"></td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -287,7 +287,7 @@
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>葉</td><td>■6</td>
     <td>■6<br>葉<br>■3</td><td>■3<br>起<br>肥<br>■8</td><td>■<br>葉<br>■3<br>葉<br>■<br>虫<br>葉<br>■6</td>
-      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0025.JPG"><br>■6<img src="img/IMG_2025-08-08-DSC_0004.JPG"><br>■2</td><td>■3<br>肥<br>■</td><td>　</td>
+      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0025.JPG"><br>■6<img src="img/IMG_2025-08-08-DSC_0004.JPG"><br>■2</td><td>■3<br>肥（境界線⇒中心線上<img src="img/IMG_2025-08-14-DSC_0006.JPG">）<br>■</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
