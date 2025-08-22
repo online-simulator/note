@@ -516,6 +516,26 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
+    <th></th>
+    <th></th>
+    <th>SW</th>
+    <th></th>
+    <th></th>
+    <th>コーンの後</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>耕</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
     <th>カボチャ</th>
     <th><img src="img/IMG_2025-07-14-DSC_0004.JPG"><img src="img/IMG_2025-07-27-DSC_0027.JPG"></th>
     <th>NW</th>
