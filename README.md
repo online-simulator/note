@@ -249,7 +249,7 @@
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>芽</td><td>■3</td>
     <td>■7</td><td>■11</td><td>■<br>枝<br>芽2<br>■3<br>肥<br>■7</td>
-      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0027.JPG"><br>■7<img src="img/IMG_2025-08-09-DSC_0007.JPG"><br>枝<img src="img/IMG_2025-08-09-DSC_0001.JPG"><br>■</td><td>■2<br>枝<br>肥<br>□<img src="img/IMG_2025-08-13-DSC_0006.JPG"><img src="img/IMG_2025-08-13-DSC_0007.JPG"><br>□3<img src="img/IMG_2025-08-16-DSC_0006.JPG"><br>■<img src="img/IMG_2025-08-17-DSC_0006.JPG"><br>□<img src="img/IMG_2025-08-18-DSC_0003.JPG"><br>□<img src="img/IMG_2025-08-19-DSC_0010.JPG"><br>□<img src="img/IMG_2025-08-20-DSC_0004.JPG"><img src="img/IMG_2025-08-20-DSC_0007.JPG"></td><td>□<img src="img/IMG_2025-08-21-DSC_0003.JPG"><br>受<img src="img/IMG_2025-08-21-DSC_0012.JPG"><br>□<img src="img/IMG_2025-08-22-DSC_0003.JPG"><br>□<br>受<img src="img/IMG_2025-08-23-DSC_0017.JPG"><br>□</td>
+      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0027.JPG"><br>■7<img src="img/IMG_2025-08-09-DSC_0007.JPG"><br>枝<img src="img/IMG_2025-08-09-DSC_0001.JPG"><br>■</td><td>■2<br>枝<br>肥<br>□<img src="img/IMG_2025-08-13-DSC_0006.JPG"><img src="img/IMG_2025-08-13-DSC_0007.JPG"><br>□3<img src="img/IMG_2025-08-16-DSC_0006.JPG"><br>■<img src="img/IMG_2025-08-17-DSC_0006.JPG"><br>□<img src="img/IMG_2025-08-18-DSC_0003.JPG"><br>□<img src="img/IMG_2025-08-19-DSC_0010.JPG"><br>□<img src="img/IMG_2025-08-20-DSC_0004.JPG"><img src="img/IMG_2025-08-20-DSC_0007.JPG"></td><td>□<img src="img/IMG_2025-08-21-DSC_0003.JPG"><br>受<img src="img/IMG_2025-08-21-DSC_0012.JPG"><br>□<img src="img/IMG_2025-08-22-DSC_0003.JPG"><br>□<br>受<img src="img/IMG_2025-08-23-DSC_0017.JPG"><br>□<img src="img/IMG_2025-08-24-DSC_0001.JPG"></td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -369,7 +369,7 @@
             <td>　</td><td>　</td><td>植</td>
               <td>　</td><td>　</td><td>■3</td>
     <td>■9</td><td>■11</td><td>枝<br>■<br>□<br>■3<br>肥<br>■7</td>
-      <td>■2<br>虫<img src="img/IMG_2025-08-02-DSC_0010.JPG"><br>■2<img src="img/IMG_2025-08-04-DSC_0017.JPG"><br>■6<img src="img/IMG_2025-08-10-DSC_0003.JPG"><br>雨中<img src="img/IMG_2025-08-10-DSC_0002.JPG"></td><td>■<img src="img/IMG_2025-08-11-DSC_0001.JPG"><br>■<img src="img/IMG_2025-08-12-DSC_0036.JPG"><br>■5<img src="img/IMG_2025-08-17-DSC_0007.JPG"><br>■3</td><td>■3<img src="img/IMG_2025-08-23-DSC_0007.JPG"><img src="img/IMG_2025-08-23-DSC_0009.JPG"><br>窮屈な根元<img src="img/IMG_2025-08-23-DSC_0010.JPG"><br>■</td>
+      <td>■2<br>虫<img src="img/IMG_2025-08-02-DSC_0010.JPG"><br>■2<img src="img/IMG_2025-08-04-DSC_0017.JPG"><br>■6<img src="img/IMG_2025-08-10-DSC_0003.JPG"><br>雨中<img src="img/IMG_2025-08-10-DSC_0002.JPG"></td><td>■<img src="img/IMG_2025-08-11-DSC_0001.JPG"><br>■<img src="img/IMG_2025-08-12-DSC_0036.JPG"><br>■5<img src="img/IMG_2025-08-17-DSC_0007.JPG"><br>■3</td><td>■3<img src="img/IMG_2025-08-23-DSC_0007.JPG"><img src="img/IMG_2025-08-23-DSC_0009.JPG"><br>窮屈な根元<img src="img/IMG_2025-08-23-DSC_0010.JPG"><br>■<img src="img/IMG_2025-08-24-DSC_0002.JPG"></td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
