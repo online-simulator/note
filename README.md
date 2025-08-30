@@ -329,7 +329,7 @@
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>　</td><td>■3</td>
     <td>■2<br>蛙6<br>■7</td><td>■11</td><td>■11</td>
-      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0022.JPG"><br>■8</td><td>■10</td><td>■</td>
+      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0022.JPG"><br>■8</td><td>■10</td><td>■<br><img src="img/IMG_2025-08-30-DSC_0004.JPG"></td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -369,7 +369,7 @@
             <td>　</td><td>　</td><td>植</td>
               <td>　</td><td>　</td><td>■3</td>
     <td>■9</td><td>■11</td><td>枝<br>■<br>□<br>■3<br>肥<br>■7</td>
-      <td>■2<br>虫<img src="img/IMG_2025-08-02-DSC_0010.JPG"><br>■2<img src="img/IMG_2025-08-04-DSC_0017.JPG"><br>■6<img src="img/IMG_2025-08-10-DSC_0003.JPG"><br>雨中<img src="img/IMG_2025-08-10-DSC_0002.JPG"></td><td>■<img src="img/IMG_2025-08-11-DSC_0001.JPG"><br>■<img src="img/IMG_2025-08-12-DSC_0036.JPG"><br>■5<img src="img/IMG_2025-08-17-DSC_0007.JPG"><br>■3</td><td>■3<img src="img/IMG_2025-08-23-DSC_0007.JPG"><img src="img/IMG_2025-08-23-DSC_0009.JPG"><br>窮屈な根元<img src="img/IMG_2025-08-23-DSC_0010.JPG"><img src="img/IMG_2025-08-29-DSC_0004.JPG"><br>■<img src="img/IMG_2025-08-24-DSC_0002.JPG"><br>■<br>虫<br>■4<br>□</td>
+      <td>■2<br>虫<img src="img/IMG_2025-08-02-DSC_0010.JPG"><br>■2<img src="img/IMG_2025-08-04-DSC_0017.JPG"><br>■6<img src="img/IMG_2025-08-10-DSC_0003.JPG"><br>雨中<img src="img/IMG_2025-08-10-DSC_0002.JPG"></td><td>■<img src="img/IMG_2025-08-11-DSC_0001.JPG"><br>■<img src="img/IMG_2025-08-12-DSC_0036.JPG"><br>■5<img src="img/IMG_2025-08-17-DSC_0007.JPG"><br>■3</td><td>■3<img src="img/IMG_2025-08-23-DSC_0007.JPG"><img src="img/IMG_2025-08-23-DSC_0009.JPG"><br>窮屈な根元<img src="img/IMG_2025-08-23-DSC_0010.JPG"><img src="img/IMG_2025-08-29-DSC_0004.JPG"><img src="img/IMG_2025-08-30-DSC_0003.JPG"><br>■<img src="img/IMG_2025-08-24-DSC_0002.JPG"><br>■<br>虫<br>■4<br>□<img src="img/IMG_2025-08-30-DSC_0006.JPG"></td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
