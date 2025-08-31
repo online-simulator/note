@@ -127,7 +127,7 @@
             <td>　</td><td>　</td><td>　</td>
               <td>修</td><td>修2</td><td>　</td>
     <td>　</td><td>草</td><td>充2</td>
-      <td>街道通行止め@16時頃</td><td>草3</td><td>　</td>
+      <td>街道通行止め@16時頃</td><td>草3</td><td>草</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
