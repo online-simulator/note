@@ -349,7 +349,7 @@
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>　</td><td>■3</td>
     <td>■2<br>蛙6<br>■7</td><td>■11</td><td>■11</td>
-      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0022.JPG"><br>■8</td><td>■10</td><td>■<br><img src="img/IMG_2025-08-30-DSC_0004.JPG"><br>■</td>
+      <td>■2<br><img src="img/IMG_2025-08-02-DSC_0022.JPG"><br>■8</td><td>■10</td><td>■<br><img src="img/IMG_2025-08-30-DSC_0004.JPG"><br>■<img src="img/IMG_2025-08-31-DSC_0007.JPG"></td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -509,7 +509,7 @@
             <td>　</td><td>　</td><td>植<br>柱</td>
               <td>　</td><td>　</td><td>受</td>
     <td>藁</td><td>　</td><td>摘<br>受2</td>
-      <td><img src="img/IMG_2025-08-02-DSC_0031.JPG"><img src="img/IMG_2025-08-02-DSC_0035.JPG"><img src="img/IMG_2025-08-02-DSC_0034.JPG"></td><td>訪花<img src="img/IMG_2025-08-12-DSC_0031.JPG"><img src="img/IMG_2025-08-12-DSC_0032.JPG"><img src="img/IMG_2025-08-12-DSC_0034.JPG"><br><img src="img/IMG_2025-08-16-DSC_0004.JPG"><br>■</td><td>右上<img src="img/IMG_2025-08-21-DSC_0002.JPG">コルク化<img src="img/IMG_2025-08-22-DSC_0008.JPG"><img src="img/IMG_2025-08-23-DSC_0014.JPG"><br>■</td>
+      <td><img src="img/IMG_2025-08-02-DSC_0031.JPG"><img src="img/IMG_2025-08-02-DSC_0035.JPG"><img src="img/IMG_2025-08-02-DSC_0034.JPG"></td><td>訪花<img src="img/IMG_2025-08-12-DSC_0031.JPG"><img src="img/IMG_2025-08-12-DSC_0032.JPG"><img src="img/IMG_2025-08-12-DSC_0034.JPG"><br><img src="img/IMG_2025-08-16-DSC_0004.JPG"><br>■</td><td>右上<img src="img/IMG_2025-08-21-DSC_0002.JPG">コルク化<img src="img/IMG_2025-08-22-DSC_0008.JPG"><img src="img/IMG_2025-08-23-DSC_0014.JPG"><br>■<img src="img/IMG_2025-08-31-DSC_0008.JPG"></td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
