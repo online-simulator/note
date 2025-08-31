@@ -556,7 +556,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>カボチャ</th>
+    <th><del>カボチャ</del></th>
     <th><img src="img/IMG_2025-07-14-DSC_0004.JPG"><img src="img/IMG_2025-07-27-DSC_0027.JPG"></th>
     <th>NW</th>
     <th>株</th>
@@ -569,7 +569,7 @@
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>耕<br>土2</td><td>植<br>虫</td><td>寄</td>
-      <td>寄<br>蔓<img src="img/IMG_2025-08-07-DSC_0006.JPG"></td><td>直土の葉<img src="img/IMG_2025-08-13-DSC_0005.JPG"></td><td>　</td>
+      <td>寄<br>蔓<img src="img/IMG_2025-08-07-DSC_0006.JPG"></td><td>直土の葉<img src="img/IMG_2025-08-13-DSC_0005.JPG"></td><td>耕</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
