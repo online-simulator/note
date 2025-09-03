@@ -377,7 +377,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>きゅうり</th>
+    <th><del>きゅうり</del></th>
     <th><img src="img/IMG_2025-07-10-DSC_0020.JPG"><img src="img/IMG_2025-07-17-DSC_0008.JPG"><img src="img/IMG_2025-07-20-DSC_0001.JPG"><img src="img/IMG_2025-07-30-DSC_0025.JPG"><img src="img/IMG_2025-07-31-DSC_0032.JPG"></th>
     <th>SW</th>
     <th>苗</th>
