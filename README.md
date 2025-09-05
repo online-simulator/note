@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="css/size.css">
 <body>
 <table>
-<caption>2025年<br>支[柱]　[摘]芯　土[起]こし　土[寄]せ　除[草]</caption>
+<caption>2025年<br>支[柱]　[摘]芯　土[起]こし　土[寄]せ　除[草]　[整]理整頓</caption>
 <thead>
   <tr>
     <th>品種</th>
@@ -109,7 +109,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>古巣の洗浄@西玄関前</td><td>　</td><td>　</td>
-        <td>　</td><td>　</td><td>　</td>
+        <td>タンク移動@SW</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -129,7 +129,7 @@
               <td>修</td><td>修2</td><td>　</td>
     <td>　</td><td>草</td><td>充2</td>
       <td>街道通行止め@16時頃</td><td>草3</td><td>草2</td>
-        <td>ミョウガ@SW<img src="img/IMG_2025-09-02-DSC_0009.JPG"></td><td>　</td><td>　</td>
+        <td>ミョウガ@SW<img src="img/IMG_2025-09-02-DSC_0009.JPG"><br>草</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -391,7 +391,7 @@
               <td>　</td><td>　</td><td>■3</td>
     <td>■9</td><td>■11</td><td>枝<br>■<br>□<br>■3<br>肥<br>■7</td>
       <td>■2<br>虫<img src="img/IMG_2025-08-02-DSC_0010.JPG"><br>■2<img src="img/IMG_2025-08-04-DSC_0017.JPG"><br>■6<img src="img/IMG_2025-08-10-DSC_0003.JPG"><br>雨中<img src="img/IMG_2025-08-10-DSC_0002.JPG"></td><td>■<img src="img/IMG_2025-08-11-DSC_0001.JPG"><br>■<img src="img/IMG_2025-08-12-DSC_0036.JPG"><br>■5<img src="img/IMG_2025-08-17-DSC_0007.JPG"><br>■3</td><td>■3<img src="img/IMG_2025-08-23-DSC_0007.JPG"><img src="img/IMG_2025-08-23-DSC_0009.JPG"><br>窮屈な根元<img src="img/IMG_2025-08-23-DSC_0010.JPG"><img src="img/IMG_2025-08-29-DSC_0004.JPG"><img src="img/IMG_2025-08-30-DSC_0003.JPG"><br>■<img src="img/IMG_2025-08-24-DSC_0002.JPG"><br>■<br>虫<br>■4<br>□<img src="img/IMG_2025-08-30-DSC_0006.JPG"></td>
-        <td>　</td><td>　</td><td>　</td>
+        <td>整</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
