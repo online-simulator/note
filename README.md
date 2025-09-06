@@ -331,7 +331,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>耕<br>土2</td><td>移</td><td>　</td>
       <td>寄<br>■<img src="img/IMG_2025-08-10-DSC_0001.JPG"></td><td><img src="img/IMG_2025-08-16-DSC_0005.JPG"></td><td><img src="img/IMG_2025-08-26-DSC_0006.JPG"><br>■</td>
-        <td>■<img src="img/IMG_2025-09-01-DSC_0019.JPG"><br>■</td><td>　</td><td>　</td>
+        <td>■<img src="img/IMG_2025-09-01-DSC_0019.JPG"><br>■<img src="img/IMG_2025-09-06-DSC_0001.JPG"><img src="img/IMG_2025-09-06-DSC_0007.JPG"></td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -371,7 +371,7 @@
               <td>虫</td><td>　</td><td>■5</td>
     <td>■5<br>葉<br>■4</td><td>■11</td><td>■11</td>
       <td>■2<br><img src="img/IMG_2025-08-02-DSC_0024.JPG"><br>■4<img src="img/IMG_2025-08-06-DSC_0001.JPG"><br>一部で2段以上<img src="img/IMG_2025-08-07-DSC_0001.JPG"><br>■<img src="img/IMG_2025-08-07-DSC_0007.JPG"><br>■3</td><td>■4<br>新葉<img src="img/IMG_2025-08-15-DSC_0013.JPG"><br>■<img src="img/IMG_2025-08-15-DSC_0014.JPG"><br>■<br>初<img src="img/IMG_2025-08-16-DSC_0002.JPG"><br>■4</td><td>■<br>1.5m<img src="img/IMG_2025-08-21-DSC_0010.JPG"><br>■7<img src="img/IMG_2025-08-28-DSC_0052.JPG"><br>■<img src="img/IMG_2025-08-29-DSC_0008.JPG"><br>■2</td>
-        <td>■6</td><td>　</td><td>　</td>
+        <td>■6<img src="img/IMG_2025-09-06-DSC_0002.JPG"><img src="img/IMG_2025-09-06-DSC_0006.JPG"></td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
