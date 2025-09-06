@@ -171,7 +171,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>　</td><td>　</td>
+        <td><img src="img/IMG_2025-09-06-DSC_0009.JPG"></td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -191,7 +191,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td><img src="img/IMG_2025-08-28-DSC_0047.JPG"></td>
-        <td>　</td><td>　</td><td>　</td>
+        <td><img src="img/IMG_2025-09-06-DSC_0010.JPG"></td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -651,7 +651,7 @@
               <td>耕2<br>植</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td><img src="img/IMG_2025-08-02-DSC_0029.JPG"></td><td>　</td><td>　</td>
-        <td>　</td><td>　</td><td>　</td>
+        <td><img src="img/IMG_2025-09-06-DSC_0008.JPG"></td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
