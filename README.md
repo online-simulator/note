@@ -311,7 +311,7 @@
               <td>　</td><td>葉</td><td>■6</td>
     <td>■6<br>葉<br>■3</td><td>■3<br>起<br>肥<br>■8</td><td>■<br>葉<br>■3<br>葉<br>■<br>虫<br>葉<br>■6</td>
       <td>■2<br><img src="img/IMG_2025-08-02-DSC_0025.JPG"><br>■6<img src="img/IMG_2025-08-08-DSC_0004.JPG"><br>■2</td><td>■3<br>肥（境界線⇒中心線上<img src="img/IMG_2025-08-14-DSC_0006.JPG"><img src="img/IMG_2025-08-15-DSC_0012.JPG">）<br>■7</td><td>■8<img src="img/IMG_2025-08-28-DSC_0053.JPG"><br>■3</td>
-        <td>■3<img src="img/IMG_2025-09-02-DSC_0005.JPG"><br>■<img src="img/IMG_2025-09-04-DSC_0010.JPG"><br>支柱不足@台風<img src="img/IMG_2025-09-05-DSC_0002.JPG"><br>■<img src="img/IMG_2025-09-05-DSC_0008.JPG"><br>■3</td><td>　</td><td>　</td>
+        <td>■3<img src="img/IMG_2025-09-02-DSC_0005.JPG"><br>■<img src="img/IMG_2025-09-04-DSC_0010.JPG"><br>支柱不足@台風<img src="img/IMG_2025-09-05-DSC_0002.JPG"><br>■<img src="img/IMG_2025-09-05-DSC_0008.JPG"><br>■3<img src="img/IMG_2025-09-08-DSC_0048.JPG"></td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
