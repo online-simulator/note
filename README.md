@@ -129,7 +129,7 @@
               <td>修</td><td>修2</td><td>　</td>
     <td>　</td><td>草</td><td>充2</td>
       <td>街道通行止め@16時頃</td><td>草3</td><td>草2</td>
-        <td>ミョウガ@SW<img src="img/IMG_2025-09-02-DSC_0009.JPG"><br>草<br>整（柿@SW・炉・瓦・蓋@NW）</td><td>　</td><td>　</td>
+        <td>ミョウガ@SW<img src="img/IMG_2025-09-02-DSC_0009.JPG"><br>草<br>整2（柿@SW・炉・瓦・蓋@NW）</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -151,7 +151,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>網</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>■2<img src="img/IMG_2025-09-02-DSC_0007.JPG"><br>■2</td><td>　</td><td>　</td>
+        <td>■2<img src="img/IMG_2025-09-02-DSC_0007.JPG"><br>■3</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
