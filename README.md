@@ -129,7 +129,7 @@
               <td>修</td><td>修2</td><td>　</td>
     <td>　</td><td>草</td><td>充2</td>
       <td>街道通行止め@16時頃</td><td>草3</td><td>草2</td>
-        <td>ミョウガ@SW<img src="img/IMG_2025-09-02-DSC_0009.JPG"><br>草<br>整2（柿@SW・炉・瓦・蓋@NW）</td><td>　</td><td>　</td>
+        <td>ミョウガ@SW<img src="img/IMG_2025-09-02-DSC_0009.JPG"><br>草<br>整3（柿@SW・炉・瓦・蓋@NW）</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -151,7 +151,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>網</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>■2<img src="img/IMG_2025-09-02-DSC_0007.JPG"><br>■3<br><del>網</del></td><td>　</td><td>　</td>
+        <td>■2<img src="img/IMG_2025-09-02-DSC_0007.JPG"><br>■3<br><del>網2</del></td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -311,7 +311,7 @@
               <td>　</td><td>葉</td><td>■6</td>
     <td>■6<br>葉<br>■3</td><td>■3<br>起<br>肥<br>■8</td><td>■<br>葉<br>■3<br>葉<br>■<br>虫<br>葉<br>■6</td>
       <td>■2<br><img src="img/IMG_2025-08-02-DSC_0025.JPG"><br>■6<img src="img/IMG_2025-08-08-DSC_0004.JPG"><br>■2</td><td>■3<br>肥（境界線⇒中心線上<img src="img/IMG_2025-08-14-DSC_0006.JPG"><img src="img/IMG_2025-08-15-DSC_0012.JPG">）<br>■7</td><td>■8<img src="img/IMG_2025-08-28-DSC_0053.JPG"><br>■3</td>
-        <td>■3<img src="img/IMG_2025-09-02-DSC_0005.JPG"><br>■<img src="img/IMG_2025-09-04-DSC_0010.JPG"><br>支柱不足@台風<img src="img/IMG_2025-09-05-DSC_0002.JPG"><br>■<img src="img/IMG_2025-09-05-DSC_0008.JPG"><br>■3<img src="img/IMG_2025-09-08-DSC_0048.JPG"><br>■</td><td>　</td><td>　</td>
+        <td>■3<img src="img/IMG_2025-09-02-DSC_0005.JPG"><br>■<img src="img/IMG_2025-09-04-DSC_0010.JPG"><br>支柱不足@台風<img src="img/IMG_2025-09-05-DSC_0002.JPG"><br>■<img src="img/IMG_2025-09-05-DSC_0008.JPG"><br>■3<img src="img/IMG_2025-09-08-DSC_0048.JPG"><br>■2</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -371,7 +371,7 @@
               <td>虫</td><td>　</td><td>■5</td>
     <td>■5<br>葉<br>■4</td><td>■11</td><td>■11</td>
       <td>■2<br><img src="img/IMG_2025-08-02-DSC_0024.JPG"><br>■4<img src="img/IMG_2025-08-06-DSC_0001.JPG"><br>一部で2段以上<img src="img/IMG_2025-08-07-DSC_0001.JPG"><br>■<img src="img/IMG_2025-08-07-DSC_0007.JPG"><br>■3</td><td>■4<br>新葉<img src="img/IMG_2025-08-15-DSC_0013.JPG"><br>■<img src="img/IMG_2025-08-15-DSC_0014.JPG"><br>■<br>初<img src="img/IMG_2025-08-16-DSC_0002.JPG"><br>■4</td><td>■<br>1.5m<img src="img/IMG_2025-08-21-DSC_0010.JPG"><br>■7<img src="img/IMG_2025-08-28-DSC_0052.JPG"><br>■<img src="img/IMG_2025-08-29-DSC_0008.JPG"><br>■2</td>
-        <td>■6<img src="img/IMG_2025-09-06-DSC_0002.JPG"><img src="img/IMG_2025-09-06-DSC_0006.JPG"><br>■3</td><td>　</td><td>　</td>
+        <td>■6<img src="img/IMG_2025-09-06-DSC_0002.JPG"><img src="img/IMG_2025-09-06-DSC_0006.JPG"><br>■4</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
