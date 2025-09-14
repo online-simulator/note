@@ -110,7 +110,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>古巣の洗浄@西玄関前</td><td>　</td><td>　</td>
-        <td>タンク移動@SW</td><td>　</td><td>　</td>
+        <td>タンク移動@SW</td><td>タンク復帰</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
