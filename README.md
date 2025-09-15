@@ -532,7 +532,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>土<br>耕</td><td>　</td><td>　</td>
       <td>　</td><td>草<br>灰<br>耕<img src="img/IMG_2025-08-16-DSC_0007.JPG"><br>肥</td><td>耕<img src="img/IMG_2025-08-21-DSC_0013.JPG"></td>
-        <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>耕</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -552,7 +552,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>耕<img src="img/IMG_2025-08-23-DSC_0001.JPG"></td>
-        <td>　</td><td>灰</td><td>　</td>
+        <td>　</td><td>灰<br>耕</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
