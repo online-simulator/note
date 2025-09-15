@@ -552,7 +552,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>耕<img src="img/IMG_2025-08-23-DSC_0001.JPG"></td>
-        <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>灰</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
