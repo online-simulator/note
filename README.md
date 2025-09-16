@@ -532,7 +532,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>土<br>耕</td><td>　</td><td>　</td>
       <td>　</td><td>草<br>灰<br>耕<img src="img/IMG_2025-08-16-DSC_0007.JPG"><br>肥</td><td>耕<img src="img/IMG_2025-08-21-DSC_0013.JPG"></td>
-        <td>　</td><td>耕</td><td>　</td>
+        <td>　</td><td>耕2<img src="img/IMG_2025-09-16-DSC_0011.JPG"></td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -542,8 +542,8 @@
     <th></th>
     <th>SW</th>
     <th>点</th>
-    <th>10*2*1</th>
-    <th>きゅうりの次</th>
+    <th>13*2*1</th>
+    <th>きゅうりの次<br>マルチ維持</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -552,7 +552,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>耕<br>種</td><td>　</td>
+        <td>　</td><td>耕<br>種<img src="img/IMG_2025-09-16-DSC_0009.JPG"></td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
@@ -572,7 +572,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>耕<img src="img/IMG_2025-08-23-DSC_0001.JPG"></td>
-        <td>　</td><td>灰<br>耕</td><td>　</td>
+        <td>　</td><td>灰<br>耕<br>肥<br>耕<img src="img/IMG_2025-09-16-DSC_0010.JPG"></td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
