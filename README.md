@@ -554,7 +554,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>　</td><td>耕<br>種<img src="img/IMG_2025-09-16-DSC_0009.JPG"><br>○<img src="img/IMG_2025-09-19-DSC_0004.JPG"><img src="img/IMG_2025-09-21-DSC_0011.JPG"></td><td>　</td>
+        <td>　</td><td>耕<br>種<img src="img/IMG_2025-09-16-DSC_0009.JPG"><br>○<img src="img/IMG_2025-09-19-DSC_0004.JPG"></td><td>○<img src="img/IMG_2025-09-21-DSC_0011.JPG"></td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
