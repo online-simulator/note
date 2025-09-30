@@ -202,7 +202,7 @@
   <tr>
     <th>柿</th>
     <th><img src="img/IMG_2025-07-20-DSC_0008.JPG"><img src="img/IMG_2025-08-13-DSC_0008.JPG"><img src="img/IMG_2025-08-13-DSC_0009.JPG"><img src="img/IMG_2025-08-25-DSC_0007.JPG"></th>
-    <th>E</th>
+    <th>E<br>S</th>
     <th></th>
     <th>2+2+1</th>
     <th>甘柿接ぎ木</th>
@@ -214,7 +214,7 @@
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
-        <td>枝</td><td>　</td><td>　</td>
+        <td>枝</td><td>　</td><td>枝</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
