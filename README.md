@@ -547,7 +547,7 @@
     <th>ジャガイモ</th>
     <th></th>
     <th>NE</th>
-    <th>種芋</th>
+    <th>種芋（芽あり）</th>
     <th>10*1*3</th>
     <th></th>
     <td>　</td><td>　</td><td>　</td>
