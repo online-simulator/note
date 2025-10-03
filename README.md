@@ -229,7 +229,7 @@
     <th>E<br>S</th>
     <th></th>
     <th>1+2+1</th>
-    <th>甘柿接ぎ木<br>切り口保護<br>樹液に蜂</th>
+    <th>甘柿接ぎ木<br>切り口保護<br>樹液に蜂<br>熟柿に鳥</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -239,7 +239,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>枝</td><td>　</td><td>枝</td>
-          <td>■<img src="img/IMG_2025-10-01-DSC_0014.JPG"><br>■<br>枝<img src="img/IMG_2025-10-02-DSC_0013.JPG"></td><td>　</td><td>　</td>
+          <td>■<img src="img/IMG_2025-10-01-DSC_0014.JPG"><br>■<br>枝<img src="img/IMG_2025-10-02-DSC_0013.JPG"><br>■</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
