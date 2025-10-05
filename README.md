@@ -49,7 +49,7 @@
         <td>昼前<img src="img/IMG_2025-09-01-DSC_0013.JPG"><img src="img/IMG_2025-09-06-DSC_0004.JPG"><img src="img/IMG_2025-09-07-DSC_0006.JPG"><br>蝕前<img src="img/IMG_2025-09-08-DSC_0008.JPG"><br>雨一過<img src="img/IMG_2025-09-10-DSC_0007.JPG"></td>
         <td>太陽雲<img src="img/IMG_2025-09-13-DSC_0013.JPG"><img src="img/IMG_2025-09-14-DSC_0001.JPG"><img src="img/IMG_2025-09-15-DSC_0003.JPG"><img src="img/IMG_2025-09-16-DSC_0004.JPG"><img src="img/IMG_2025-09-17-DSC_0002.JPG"><img src="img/IMG_2025-09-18-DSC_0004.JPG"><img src="img/IMG_2025-09-19-DSC_0001.JPG"><img src="img/IMG_2025-09-19-DSC_0008.JPG"><img src="img/IMG_2025-09-20-DSC_0002.JPG"><br>点滅@Orion座↓@02:40@02:50</td>
         <td>午前<img src="img/IMG_2025-09-21-DSC_0001.JPG"><img src="img/IMG_2025-09-22-DSC_0001.JPG"><img src="img/IMG_2025-09-23-DSC_0001.JPG"><img src="img/IMG_2025-09-24-DSC_0001.JPG"><img src="img/IMG_2025-09-25-DSC_0001.JPG"><img src="img/IMG_2025-09-26-DSC_0008.JPG"><img src="img/IMG_2025-09-27-DSC_0005.JPG"><img src="img/IMG_2025-09-28-DSC_0001.JPG"><img src="img/IMG_2025-09-29-DSC_0001.JPG"><img src="img/IMG_2025-09-30-DSC_0002.JPG"><br>午後<img src="img/IMG_2025-09-22-DSC_0012.JPG"><img src="img/IMG_2025-09-27-DSC_0009.JPG"><img src="img/IMG_2025-09-28-DSC_0009.JPG"><img src="img/IMG_2025-09-29-DSC_0025.JPG"><br>彼岸<img src="img/IMG_2025-09-23-DSC_0008.JPG"><img src="img/IMG_2025-09-30-DSC_0009.JPG"><br>出先<img src="img/IMG_2025-09-24-DSC_0006.JPG"></td>
-          <td>午前<img src="img/IMG_2025-10-01-DSC_0003.JPG"><img src="img/IMG_2025-10-02-DSC_0002.JPG"><img src="img/IMG_2025-10-03-DSC_0001.JPG"><img src="img/IMG_2025-10-04-DSC_0004.JPG"><br>午後<img src="img/IMG_2025-10-01-DSC_0019.JPG"><img src="img/IMG_2025-10-04-DSC_0005.JPG"><img src="img/IMG_2025-10-04-DSC_0010.JPG"></td>
+          <td>午前<img src="img/IMG_2025-10-01-DSC_0003.JPG"><img src="img/IMG_2025-10-02-DSC_0002.JPG"><img src="img/IMG_2025-10-03-DSC_0001.JPG"><img src="img/IMG_2025-10-04-DSC_0004.JPG"><img src="img/IMG_2025-10-05-DSC_0014.JPG"><br>午後<img src="img/IMG_2025-10-01-DSC_0019.JPG"><img src="img/IMG_2025-10-04-DSC_0005.JPG"><img src="img/IMG_2025-10-04-DSC_0010.JPG"></td>
           <td>　</td>
           <td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -239,7 +239,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>枝</td><td>　</td><td>枝</td>
-          <td>■<img src="img/IMG_2025-10-01-DSC_0014.JPG"><br>■<br>枝<img src="img/IMG_2025-10-02-DSC_0013.JPG"><br>■2<img src="img/IMG_2025-10-04-DSC_0008.JPG"><img src="img/IMG_2025-10-04-DSC_0009.JPG"></td><td>　</td><td>　</td>
+          <td>■<img src="img/IMG_2025-10-01-DSC_0014.JPG"><br>■<br>枝<img src="img/IMG_2025-10-02-DSC_0013.JPG"><br>■2<img src="img/IMG_2025-10-04-DSC_0008.JPG"><img src="img/IMG_2025-10-04-DSC_0009.JPG"><br>■<img src="img/IMG_2025-10-05-DSC_0013.JPG"></td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -279,7 +279,7 @@
     <td>　</td><td>　</td><td>草</td>
       <td>　</td><td>草2<img src="img/IMG_2025-08-19-DSC_0009.JPG"><br>■2<img src="img/IMG_2025-08-20-DSC_0008.JPG"></td><td>■<img src="img/IMG_2025-08-28-DSC_0054.JPG"><br>■<img src="img/IMG_2025-08-29-DSC_0013.JPG"></td>
         <td>　</td><td>　</td><td>■<img src="img/IMG_2025-09-22-DSC_0004.JPG"></td>
-          <td>■</td><td>　</td><td>　</td>
+          <td>■2<img src="img/IMG_2025-10-05-DSC_0011.JPG"></td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -339,7 +339,7 @@
     <td>■6<br>葉<br>■3</td><td>■3<br>起<br>肥<br>■8</td><td>■<br>葉<br>■3<br>葉<br>■<br>虫<br>葉<br>■6</td>
       <td>■2<br><img src="img/IMG_2025-08-02-DSC_0025.JPG"><br>■6<img src="img/IMG_2025-08-08-DSC_0004.JPG"><br>■2</td><td>■3<br>肥（境界線⇒中心線上<img src="img/IMG_2025-08-14-DSC_0006.JPG"><img src="img/IMG_2025-08-15-DSC_0012.JPG">）<br>■7</td><td>■8<img src="img/IMG_2025-08-28-DSC_0053.JPG"><br>■3</td>
         <td>■3<img src="img/IMG_2025-09-02-DSC_0005.JPG"><br>■<img src="img/IMG_2025-09-04-DSC_0010.JPG"><br>支柱不足@台風<img src="img/IMG_2025-09-05-DSC_0002.JPG"><br>■<img src="img/IMG_2025-09-05-DSC_0008.JPG"><br>■3<img src="img/IMG_2025-09-08-DSC_0048.JPG"><br>■2</td><td>■3<img src="img/IMG_2025-09-13-DSC_0012.JPG"><br>■<br>枝<br>■<img src="img/IMG_2025-09-15-DSC_0021.JPG"><br>■2<br>柱<br>■3<br>一部<img src="img/IMG_2025-09-20-DSC_0007.JPG"><br>枝<img src="img/IMG_2025-09-20-DSC_0009.JPG"></td><td>■5<img src="img/IMG_2025-09-27-DSC_0006.JPG"></td>
-          <td><img src="img/IMG_2025-10-01-DSC_0023.JPG"><br>■<img src="img/IMG_2025-10-04-DSC_0003.JPG"><br>枝</td><td>　</td><td>　</td>
+          <td><img src="img/IMG_2025-10-01-DSC_0023.JPG"><br>■<img src="img/IMG_2025-10-04-DSC_0003.JPG"><br>枝2<br>■</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -379,7 +379,7 @@
     <td>■2<br>蛙6<br>■7</td><td>■11</td><td>■11</td>
       <td>■2<br><img src="img/IMG_2025-08-02-DSC_0022.JPG"><br>■8</td><td>■10</td><td>■<br><img src="img/IMG_2025-08-30-DSC_0004.JPG"><br>■<img src="img/IMG_2025-08-31-DSC_0007.JPG"></td>
         <td><img src="img/IMG_2025-09-07-DSC_0024.JPG"></td><td>■<img src="img/IMG_2025-09-11-DSC_0005.JPG"><br>■3<img src="img/IMG_2025-09-16-DSC_0006.JPG"><br>■4</td><td>■3<img src="img/IMG_2025-09-23-DSC_0004.JPG"><br>■<br>柱<img src="img/IMG_2025-09-28-DSC_0007.JPG"><br>■<img src="img/IMG_2025-09-26-DSC_0003.JPG"><br>■<img src="img/IMG_2025-09-27-DSC_0004.JPG"><br>■<img src="img/IMG_2025-09-29-DSC_0024.JPG"><br>枝<br>■<img src="img/IMG_2025-09-30-DSC_0006.JPG"></td>
-          <td><img src="img/IMG_2025-10-01-DSC_0021.JPG"><br>■<br>枝<img src="img/IMG_2025-10-02-DSC_0019.JPG"></td><td>　</td><td>　</td>
+          <td><img src="img/IMG_2025-10-01-DSC_0021.JPG"><br>■<br>枝<img src="img/IMG_2025-10-02-DSC_0019.JPG"><br>■</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -399,7 +399,7 @@
     <td>■5<br>葉<br>■4</td><td>■11</td><td>■11</td>
       <td>■2<br><img src="img/IMG_2025-08-02-DSC_0024.JPG"><br>■4<img src="img/IMG_2025-08-06-DSC_0001.JPG"><br>一部で2段以上<img src="img/IMG_2025-08-07-DSC_0001.JPG"><br>■<img src="img/IMG_2025-08-07-DSC_0007.JPG"><br>■3</td><td>■4<br>新葉<img src="img/IMG_2025-08-15-DSC_0013.JPG"><br>■<img src="img/IMG_2025-08-15-DSC_0014.JPG"><br>■<br>初<img src="img/IMG_2025-08-16-DSC_0002.JPG"><br>■4</td><td>■<br>1.5m<img src="img/IMG_2025-08-21-DSC_0010.JPG"><br>■7<img src="img/IMG_2025-08-28-DSC_0052.JPG"><br>■<img src="img/IMG_2025-08-29-DSC_0008.JPG"><br>■2</td>
         <td>■6<img src="img/IMG_2025-09-06-DSC_0002.JPG"><img src="img/IMG_2025-09-06-DSC_0006.JPG"><br>■4<img src="img/IMG_2025-09-10-DSC_0006.JPG"></td><td>■2<br>1.75m<img src="img/IMG_2025-09-12-DSC_0007.JPG"><img src="img/IMG_2025-09-15-DSC_0005.JPG"><br>■3<br><img src="img/IMG_2025-09-15-DSC_0011.JPG"><br>■<br>1.8m<img src="img/IMG_2025-09-17-DSC_0001.JPG"><br>■<img src="img/IMG_2025-09-17-DSC_0004.JPG"><br>■3<br>枝</td><td>1.85m<img src="img/IMG_2025-09-21-DSC_0004.JPG"><br>■<img src="img/IMG_2025-09-21-DSC_0007.JPG"><br>潮時<img src="img/IMG_2025-09-21-DSC_0016.JPG"><br>枝<br>■4<br>枝<br>蟻<img src="img/IMG_2025-09-28-DSC_0003.JPG"><br>枝<br>■<img src="img/IMG_2025-09-28-DSC_0005.JPG"><br>1.9m<img src="img/IMG_2025-09-28-DSC_0006.JPG"><br>■2</td>
-          <td><img src="img/IMG_2025-10-01-DSC_0022.JPG"><br>■<br>枝<br>■2</td><td>　</td><td>　</td>
+          <td><img src="img/IMG_2025-10-01-DSC_0022.JPG"><br>■<br>枝<br>■2<br>1.95m<img src="img/IMG_2025-10-05-DSC_0002.JPG"><br>■</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
