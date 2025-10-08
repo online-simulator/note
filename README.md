@@ -339,7 +339,7 @@
     <td>■6<br>葉<br>■3</td><td>■3<br>起<br>肥<br>■8</td><td>■<br>葉<br>■3<br>葉<br>■<br>虫<br>葉<br>■6</td>
       <td>■2<br><img src="img/IMG_2025-08-02-DSC_0025.JPG"><br>■6<img src="img/IMG_2025-08-08-DSC_0004.JPG"><br>■2</td><td>■3<br>肥（境界線⇒中心線上<img src="img/IMG_2025-08-14-DSC_0006.JPG"><img src="img/IMG_2025-08-15-DSC_0012.JPG">）<br>■7</td><td>■8<img src="img/IMG_2025-08-28-DSC_0053.JPG"><br>■3</td>
         <td>■3<img src="img/IMG_2025-09-02-DSC_0005.JPG"><br>■<img src="img/IMG_2025-09-04-DSC_0010.JPG"><br>支柱不足@台風<img src="img/IMG_2025-09-05-DSC_0002.JPG"><br>■<img src="img/IMG_2025-09-05-DSC_0008.JPG"><br>■3<img src="img/IMG_2025-09-08-DSC_0048.JPG"><br>■2</td><td>■3<img src="img/IMG_2025-09-13-DSC_0012.JPG"><br>■<br>枝<br>■<img src="img/IMG_2025-09-15-DSC_0021.JPG"><br>■2<br>柱<br>■3<br>一部<img src="img/IMG_2025-09-20-DSC_0007.JPG"><br>枝<img src="img/IMG_2025-09-20-DSC_0009.JPG"></td><td>■5<img src="img/IMG_2025-09-27-DSC_0006.JPG"></td>
-          <td><img src="img/IMG_2025-10-01-DSC_0023.JPG"><br>■<img src="img/IMG_2025-10-04-DSC_0003.JPG"><br>枝2<br>■2<img src="img/IMG_2025-10-06-DSC_0002.JPG"><br>■<img src="img/IMG_2025-10-07-DSC_0008.JPG"></td><td>　</td><td>　</td>
+          <td><img src="img/IMG_2025-10-01-DSC_0023.JPG"><br>■<img src="img/IMG_2025-10-04-DSC_0003.JPG"><br>枝2<br>■2<img src="img/IMG_2025-10-06-DSC_0002.JPG"><br>■<img src="img/IMG_2025-10-07-DSC_0008.JPG"><br>■</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -359,7 +359,7 @@
     <td>耕<br>土2</td><td>移</td><td>　</td>
       <td>寄<br>■<img src="img/IMG_2025-08-10-DSC_0001.JPG"></td><td><img src="img/IMG_2025-08-16-DSC_0005.JPG"></td><td><img src="img/IMG_2025-08-26-DSC_0006.JPG"><br>■</td>
         <td>■<img src="img/IMG_2025-09-01-DSC_0019.JPG"><br>■<img src="img/IMG_2025-09-06-DSC_0001.JPG"><img src="img/IMG_2025-09-06-DSC_0007.JPG"><br>■</td><td>■2<img src="img/IMG_2025-09-12-DSC_0008.JPG"><br>■<img src="img/IMG_2025-09-14-DSC_0004.JPG"><br>■3<img src="img/IMG_2025-09-19-DSC_0007.JPG"><br>柱<img src="img/IMG_2025-09-19-DSC_0006.JPG"><br>■</td><td>■4<img src="img/IMG_2025-09-30-DSC_0008.JPG"></td>
-          <td><img src="img/IMG_2025-10-01-DSC_0024.JPG"><br>枝</td><td>　</td><td>　</td>
+          <td><img src="img/IMG_2025-10-01-DSC_0024.JPG"><br>枝<br>■</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -399,7 +399,7 @@
     <td>■5<br>葉<br>■4</td><td>■11</td><td>■11</td>
       <td>■2<br><img src="img/IMG_2025-08-02-DSC_0024.JPG"><br>■4<img src="img/IMG_2025-08-06-DSC_0001.JPG"><br>一部で2段以上<img src="img/IMG_2025-08-07-DSC_0001.JPG"><br>■<img src="img/IMG_2025-08-07-DSC_0007.JPG"><br>■3</td><td>■4<br>新葉<img src="img/IMG_2025-08-15-DSC_0013.JPG"><br>■<img src="img/IMG_2025-08-15-DSC_0014.JPG"><br>■<br>初<img src="img/IMG_2025-08-16-DSC_0002.JPG"><br>■4</td><td>■<br>1.5m<img src="img/IMG_2025-08-21-DSC_0010.JPG"><br>■7<img src="img/IMG_2025-08-28-DSC_0052.JPG"><br>■<img src="img/IMG_2025-08-29-DSC_0008.JPG"><br>■2</td>
         <td>■6<img src="img/IMG_2025-09-06-DSC_0002.JPG"><img src="img/IMG_2025-09-06-DSC_0006.JPG"><br>■4<img src="img/IMG_2025-09-10-DSC_0006.JPG"></td><td>■2<br>1.75m<img src="img/IMG_2025-09-12-DSC_0007.JPG"><img src="img/IMG_2025-09-15-DSC_0005.JPG"><br>■3<br><img src="img/IMG_2025-09-15-DSC_0011.JPG"><br>■<br>1.8m<img src="img/IMG_2025-09-17-DSC_0001.JPG"><br>■<img src="img/IMG_2025-09-17-DSC_0004.JPG"><br>■3<br>枝</td><td>1.85m<img src="img/IMG_2025-09-21-DSC_0004.JPG"><br>■<img src="img/IMG_2025-09-21-DSC_0007.JPG"><br>潮時<img src="img/IMG_2025-09-21-DSC_0016.JPG"><br>枝<br>■4<br>枝<br>蟻<img src="img/IMG_2025-09-28-DSC_0003.JPG"><br>枝<br>■<img src="img/IMG_2025-09-28-DSC_0005.JPG"><br>1.9m<img src="img/IMG_2025-09-28-DSC_0006.JPG"><br>■2</td>
-          <td><img src="img/IMG_2025-10-01-DSC_0022.JPG"><br>■<br>枝<br>■2<br>1.95m<img src="img/IMG_2025-10-05-DSC_0002.JPG"><br>■2<br>枝</td><td>　</td><td>　</td>
+          <td><img src="img/IMG_2025-10-01-DSC_0022.JPG"><br>■<br>枝<br>■2<br>1.95m<img src="img/IMG_2025-10-05-DSC_0002.JPG"><br>■2<br>枝<br>■</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -519,7 +519,7 @@
     <td>藁</td><td>　</td><td>■2</td>
       <td><img src="img/IMG_2025-08-02-DSC_0019.JPG"><br>■<img src="img/IMG_2025-08-06-DSC_0005.JPG"><br><img src="img/IMG_2025-08-08-DSC_0002.JPG"></td><td>甘め<img src="img/IMG_2025-08-14-DSC_0008.JPG"></td><td><img src="img/IMG_2025-08-21-DSC_0002.JPG"></td>
         <td>　</td><td>　</td><td>　</td>
-          <td>土</td><td>　</td><td>　</td>
+          <td>土<br>灰<br>耕</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -539,7 +539,7 @@
     <td>藁</td><td>　</td><td>摘<br>受2</td>
       <td><img src="img/IMG_2025-08-02-DSC_0031.JPG"><img src="img/IMG_2025-08-02-DSC_0035.JPG"><img src="img/IMG_2025-08-02-DSC_0034.JPG"></td><td>訪花<img src="img/IMG_2025-08-12-DSC_0031.JPG"><img src="img/IMG_2025-08-12-DSC_0032.JPG"><img src="img/IMG_2025-08-12-DSC_0034.JPG"><br><img src="img/IMG_2025-08-16-DSC_0004.JPG"><br>■</td><td>右上<img src="img/IMG_2025-08-21-DSC_0002.JPG">コルク化<img src="img/IMG_2025-08-22-DSC_0008.JPG"><img src="img/IMG_2025-08-23-DSC_0014.JPG"><br>■<img src="img/IMG_2025-08-31-DSC_0008.JPG"></td>
         <td>■<img src="img/IMG_2025-09-03-DSC_0016.JPG"></td><td>　</td><td>　</td>
-          <td>土</td><td>　</td><td>　</td>
+          <td>土<br>灰<br>耕</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -619,7 +619,7 @@
     <td>耕<br>土2</td><td>植<br>虫</td><td>寄</td>
       <td>寄<br>蔓<img src="img/IMG_2025-08-07-DSC_0006.JPG"></td><td>直土の葉<img src="img/IMG_2025-08-13-DSC_0005.JPG"></td><td>耕</td>
         <td>　</td><td>　</td><td>耕<img src="img/IMG_2025-09-28-DSC_0008.JPG"><img src="img/IMG_2025-09-29-DSC_0002.JPG"></td>
-          <td>土</td><td>　</td><td>　</td>
+          <td>土<br>灰<br>耕</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
