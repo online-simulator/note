@@ -739,7 +739,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td><img src="img/IMG_2025-08-02-DSC_0032.JPG"></td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td><img src="img/IMG_2025-10-01-DSC_0016.JPG"><br>枝<img src="img/IMG_2025-10-02-DSC_0006.JPG"></td><td>　</td><td>　</td>
+          <td><img src="img/IMG_2025-10-01-DSC_0016.JPG"><br>枝<img src="img/IMG_2025-10-02-DSC_0006.JPG"><br>■</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
