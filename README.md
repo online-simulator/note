@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="css/size.css">
 <body>
 <table>
-<caption>2025年<br>支[柱]　[摘]芯　[畝]立て　土[起]こし　土[寄]せ　[中]耕[培]土　除[草]　[整]理整頓</caption>
+<caption>2025年<br>支[柱]　[摘]芯　[畝]立て　土[起]こし　土[寄]せ　[中]耕[培]土　[残]渣　漉き[込]み　除[草]　[整]理整頓</caption>
 <thead>
   <tr>
     <th>品種</th>
@@ -539,7 +539,7 @@
     <td>藁</td><td>　</td><td>■2</td>
       <td><img src="img/IMG_2025-08-02-DSC_0019.JPG"><br>■<img src="img/IMG_2025-08-06-DSC_0005.JPG"><br><img src="img/IMG_2025-08-08-DSC_0002.JPG"></td><td>甘め<img src="img/IMG_2025-08-14-DSC_0008.JPG"></td><td><img src="img/IMG_2025-08-21-DSC_0002.JPG"></td>
         <td>　</td><td>　</td><td>　</td>
-          <td>土<br>灰<br>耕</td><td>肥</td><td>　</td>
+          <td>土<br>灰<br>込<br>耕</td><td>肥</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -559,7 +559,7 @@
     <td>藁</td><td>　</td><td>摘<br>受2</td>
       <td><img src="img/IMG_2025-08-02-DSC_0031.JPG"><img src="img/IMG_2025-08-02-DSC_0035.JPG"><img src="img/IMG_2025-08-02-DSC_0034.JPG"></td><td>訪花<img src="img/IMG_2025-08-12-DSC_0031.JPG"><img src="img/IMG_2025-08-12-DSC_0032.JPG"><img src="img/IMG_2025-08-12-DSC_0034.JPG"><br><img src="img/IMG_2025-08-16-DSC_0004.JPG"><br>■</td><td>右上<img src="img/IMG_2025-08-21-DSC_0002.JPG">コルク化<img src="img/IMG_2025-08-22-DSC_0008.JPG"><img src="img/IMG_2025-08-23-DSC_0014.JPG"><br>■<img src="img/IMG_2025-08-31-DSC_0008.JPG"></td>
         <td>■<img src="img/IMG_2025-09-03-DSC_0016.JPG"></td><td>　</td><td>　</td>
-          <td>土<br>灰<br>耕<img src="img/IMG_2025-10-08-DSC_0013.JPG"></td><td>肥</td><td>　</td>
+          <td>土<br>灰<br>込<br>耕<img src="img/IMG_2025-10-08-DSC_0013.JPG"></td><td>肥</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -639,7 +639,7 @@
     <td>耕<br>土2</td><td>植<br>虫</td><td>寄</td>
       <td>寄<br>蔓<img src="img/IMG_2025-08-07-DSC_0006.JPG"></td><td>直土の葉<img src="img/IMG_2025-08-13-DSC_0005.JPG"></td><td>耕</td>
         <td>　</td><td>　</td><td>耕<img src="img/IMG_2025-09-28-DSC_0008.JPG"><img src="img/IMG_2025-09-29-DSC_0002.JPG"></td>
-          <td>土<br>灰<br>耕</td><td>　</td><td>　</td>
+          <td>土<br>灰<br>込<br>耕</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
