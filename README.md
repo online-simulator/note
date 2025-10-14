@@ -684,6 +684,26 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
+    <th></th>
+    <th></th>
+    <th>CC</th>
+    <th></th>
+    <th></th>
+    <th>サツマイモの次</th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>込</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
     <th><del>人参</del></th>
     <th></th>
     <th>NC</th>
@@ -759,7 +779,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td><img src="img/IMG_2025-08-02-DSC_0029.JPG"></td><td>　</td><td>　</td>
         <td><img src="img/IMG_2025-09-06-DSC_0008.JPG"></td><td>　</td><td>　</td>
-          <td><img src="img/IMG_2025-10-01-DSC_0015.JPG"><br>試<img src="img/IMG_2025-10-01-DSC_0004.JPG"><img src="img/IMG_2025-10-01-DSC_0005.JPG"><img src="img/IMG_2025-10-01-DSC_0008.JPG"><br>■<img src="img/IMG_2025-10-01-DSC_0026.JPG"><img src="img/IMG_2025-10-01-DSC_0028.JPG"><img src="img/IMG_2025-10-01-DSC_0029.JPG"><br>枝<img src="img/IMG_2025-10-02-DSC_0005.JPG"><br>■<img src="img/IMG_2025-10-02-DSC_0010.JPG"><br>回<img src="img/IMG_2025-10-03-DSC_0017.JPG"><img src="img/IMG_2025-10-03-DSC_0018.JPG"><br>整<img src="img/IMG_2025-10-09-DSC_0006.JPG"></td><td>　</td><td>　</td>
+          <td><img src="img/IMG_2025-10-01-DSC_0015.JPG"><br>試<img src="img/IMG_2025-10-01-DSC_0004.JPG"><img src="img/IMG_2025-10-01-DSC_0005.JPG"><img src="img/IMG_2025-10-01-DSC_0008.JPG"><br>■<img src="img/IMG_2025-10-01-DSC_0026.JPG"><img src="img/IMG_2025-10-01-DSC_0028.JPG"><img src="img/IMG_2025-10-01-DSC_0029.JPG"><br>枝<img src="img/IMG_2025-10-02-DSC_0005.JPG"><br>■<img src="img/IMG_2025-10-02-DSC_0010.JPG"><br>回<img src="img/IMG_2025-10-03-DSC_0017.JPG"><img src="img/IMG_2025-10-03-DSC_0018.JPG"><br>整<img src="img/IMG_2025-10-09-DSC_0006.JPG"></td><td>■<img src="img/IMG_2025-10-14-DSC_0011.JPG"></td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
