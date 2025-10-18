@@ -764,7 +764,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>サツマイモ</th>
+    <th><del>サツマイモ</del></th>
     <th><img src="img/IMG_2025-07-10-DSC_0013.JPG"><img src="img/IMG_2025-07-10-DSC_0014.JPG"></th>
     <th>CC</th>
     <th>苗</th>
