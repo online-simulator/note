@@ -599,7 +599,7 @@
     <td>土<br>耕</td><td>　</td><td>　</td>
       <td>　</td><td>草<br>灰<br>耕<img src="img/IMG_2025-08-16-DSC_0007.JPG"><br>肥</td><td>耕<img src="img/IMG_2025-08-21-DSC_0013.JPG"></td>
         <td>　</td><td>耕2<img src="img/IMG_2025-09-16-DSC_0011.JPG"></td><td>耕<br>植<img src="img/IMG_2025-09-22-DSC_0013.JPG"><br>間肥＋鎮圧＋水<img src="img/IMG_2025-09-22-DSC_0018.JPG"><img src="img/IMG_2025-09-29-DSC_0003.JPG"></td>
-          <td>○<img src="img/IMG_2025-10-01-DSC_0018.JPG"><br>◎<img src="img/IMG_2025-10-03-DSC_0011.JPG"><img src="img/IMG_2025-10-04-DSC_0007.JPG"><br>芽<img src="img/IMG_2025-10-09-DSC_0004.JPG"><img src="img/IMG_2025-10-09-DSC_0005.JPG"><img src="img/IMG_2025-10-09-DSC_0010.JPG"></td><td><img src="img/IMG_2025-10-15-DSC_0007.JPG"><img src="img/IMG_2025-10-18-DSC_0008.JPG"></td><td>　</td>
+          <td>○<img src="img/IMG_2025-10-01-DSC_0018.JPG"><br>◎<img src="img/IMG_2025-10-03-DSC_0011.JPG"><img src="img/IMG_2025-10-04-DSC_0007.JPG"><br>芽<img src="img/IMG_2025-10-09-DSC_0004.JPG"><img src="img/IMG_2025-10-09-DSC_0005.JPG"><img src="img/IMG_2025-10-09-DSC_0010.JPG"></td><td><img src="img/IMG_2025-10-15-DSC_0007.JPG"><img src="img/IMG_2025-10-18-DSC_0008.JPG"><br>寄</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
