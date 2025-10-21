@@ -784,7 +784,7 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
-    <th>サツマイモ</th>
+    <th><del>サツマイモ</del></th>
     <th><img src="img/IMG_2025-07-10-DSC_0009.JPG"></th>
     <th>SE</th>
     <th>苗</th>
@@ -799,7 +799,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td><img src="img/IMG_2025-08-02-DSC_0032.JPG"></td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td><img src="img/IMG_2025-10-01-DSC_0016.JPG"><br>枝<img src="img/IMG_2025-10-02-DSC_0006.JPG"><br>■</td><td>乾<img src="img/IMG_2025-10-11-DSC_0004.JPG"></td><td>　</td>
+          <td><img src="img/IMG_2025-10-01-DSC_0016.JPG"><br>枝<img src="img/IMG_2025-10-02-DSC_0006.JPG"><br>■</td><td>乾<img src="img/IMG_2025-10-11-DSC_0004.JPG"><br>■</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
