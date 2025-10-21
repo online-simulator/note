@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="css/size.css">
 <body>
 <table>
-<caption>2025年<br>支[柱]　[摘]芯　[畝]立て　土[起]こし　土[寄]せ　[中]耕[培]土　[残]渣　漉き[込]み　除[草]　[整]理整頓</caption>
+<caption>2025年<br>支[柱]　[摘]芯　[畝]立て　土[起]こし　土[寄]せ　[中]耕[培]土　[残]渣　漉き[込]み　除[草]　防[草]　[整]理整頓</caption>
 <thead>
   <tr>
     <th>品種</th>
@@ -137,7 +137,7 @@
     <td>　</td><td>草</td><td>充2</td>
       <td>街道通行止め@16時頃</td><td>草3</td><td>草2</td>
         <td>ミョウガ@SW<img src="img/IMG_2025-09-02-DSC_0009.JPG"><br>草<br>整3（柿@SW・炉・瓦・蓋@NW）</td><td>整3<img src="img/IMG_2025-09-11-DSC_0007.JPG"><br>草<br>充2</td><td>草5</td>
-          <td>草3</td><td>耕<img src="img/IMG_2025-10-16-DSC_0002.JPG"><br>草</td><td>　</td>
+          <td>草3</td><td>耕<img src="img/IMG_2025-10-16-DSC_0002.JPG"><br>草<br>防</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
