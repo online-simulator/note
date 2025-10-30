@@ -359,7 +359,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>種<img src="img/IMG_2025-10-08-DSC_0017.JPG"></td><td>　</td><td>　</td>
+          <td>種<img src="img/IMG_2025-10-08-DSC_0017.JPG"></td><td>　</td><td>○<img src="img/IMG_2025-10-30-DSC_0011.JPG"></td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -659,7 +659,7 @@
     <td>耕<br>土2</td><td>植<br>虫</td><td>寄</td>
       <td>寄<br>蔓<img src="img/IMG_2025-08-07-DSC_0006.JPG"></td><td>直土の葉<img src="img/IMG_2025-08-13-DSC_0005.JPG"></td><td>耕</td>
         <td>　</td><td>　</td><td>耕<img src="img/IMG_2025-09-28-DSC_0008.JPG"><img src="img/IMG_2025-09-29-DSC_0002.JPG"></td>
-          <td>土<br>灰<br>込<br>耕</td><td>　</td><td>　</td>
+          <td>土<br>灰<br>込<br>耕</td><td>　</td><td>耕<img src="img/IMG_2025-10-30-DSC_0014.JPG"></td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
@@ -699,7 +699,7 @@
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
-          <td>　</td><td><br>乾<img src="img/IMG_2025-10-13-DSC_0008.JPG"><br>込<br>乾<img src="img/IMG_2025-10-15-DSC_0018.JPG"></td><td>土</td>
+          <td>　</td><td><br>乾<img src="img/IMG_2025-10-13-DSC_0008.JPG"><br>込<br>乾<img src="img/IMG_2025-10-15-DSC_0018.JPG"></td><td>土<br>耕<img src="img/IMG_2025-10-30-DSC_0012.JPG"></td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
