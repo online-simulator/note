@@ -140,7 +140,7 @@
       <td>街道通行止め@16時頃</td><td>草3</td><td>草2</td>
         <td>ミョウガ@SW<img src="img/IMG_2025-09-02-DSC_0009.JPG"><br>草<br>整3（柿@SW・炉・瓦・蓋@NW）</td><td>整3<img src="img/IMG_2025-09-11-DSC_0007.JPG"><br>草<br>充2</td><td>草5</td>
           <td>草3</td><td>耕<img src="img/IMG_2025-10-16-DSC_0002.JPG"><br>草<br>防</td><td><del>防</del><br>防</td>
-            <td>日向<img src="img/IMG_2025-11-02-DSC_0001.JPG"></td><td>　</td><td>　</td>
+            <td>日向<img src="img/IMG_2025-11-02-DSC_0001.JPG"></td><td>松</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
 </thead>
