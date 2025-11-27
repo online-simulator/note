@@ -54,7 +54,7 @@
           <td>午前<img src="img/IMG_2025-10-21-DSC_0001.JPG"><img src="img/IMG_2025-10-22-DSC_0001.JPG"><img src="img/IMG_2025-10-23-DSC_0002.JPG"><img src="img/IMG_2025-10-24-DSC_0001.JPG"><img src="img/IMG_2025-10-25-DSC_0002.JPG"><img src="img/IMG_2025-10-26-DSC_0001.JPG"><img src="img/IMG_2025-10-27-DSC_0001.JPG"><img src="img/IMG_2025-10-28-DSC_0001.JPG"><img src="img/IMG_2025-10-29-DSC_0001.JPG"><img src="img/IMG_2025-10-30-DSC_0001.JPG"><img src="img/IMG_2025-10-31-DSC_0001.JPG"><br>午後<img src="img/IMG_2025-10-21-DSC_0003.JPG"><img src="img/IMG_2025-10-24-DSC_0005.JPG"><img src="img/IMG_2025-10-28-DSC_0003.JPG"><img src="img/IMG_2025-10-28-DSC_0005.JPG"><img src="img/IMG_2025-10-29-DSC_0025.JPG"><br>三日月<img src="img/IMG_2025-10-27-DSC_0013.JPG"><img src="img/IMG_2025-10-29-DSC_0024.JPG"><br>明光⇒流星@南@18時過ぎ<img src="img/IMG_2025-10-23-DSC_0007.JPG"></td>
             <td>午前<img src="img/IMG_2025-11-01-DSC_0002.JPG"><img src="img/IMG_2025-11-02-DSC_0003.JPG"><img src="img/IMG_2025-11-03-DSC_0001.JPG"><img src="img/IMG_2025-11-04-DSC_0001.JPG"><img src="img/IMG_2025-11-05-DSC_0002.JPG"><img src="img/IMG_2025-11-06-DSC_0002.JPG"><img src="img/IMG_2025-11-07-DSC_0002.JPG"><img src="img/IMG_2025-11-08-DSC_0002.JPG"><img src="img/IMG_2025-11-09-DSC_0001.JPG"><img src="img/IMG_2025-11-10-DSC_0012.JPG"><br>西の月<img src="img/IMG_2025-11-05-DSC_0001.JPG"><br>真上の月<img src="img/IMG_2025-11-06-DSC_0001.JPG"><br>真上の月と木星<img src="img/IMG_2025-11-10-DSC_0008.JPG">ぶれ<img src="img/IMG_2025-11-10-DSC_0010.JPG"><br>流星@東へ@03:36</td>
             <td>午前<img src="img/IMG_2025-11-11-DSC_0001.JPG"><img src="img/IMG_2025-11-12-DSC_0001.JPG"><img src="img/IMG_2025-11-13-DSC_0001.JPG">光芒<img src="img/IMG_2025-11-14-DSC_0005.JPG"><img src="img/IMG_2025-11-15-DSC_0001.JPG"><img src="img/IMG_2025-11-16-DSC_0001.JPG"><img src="img/IMG_2025-11-17-DSC_0001.JPG"><img src="img/IMG_2025-11-18-DSC_0001.JPG"><img src="img/IMG_2025-11-19-DSC_0001.JPG"><img src="img/IMG_2025-11-20-DSC_0001.JPG"><br>午後<img src="img/IMG_2025-11-13-DSC_0005.JPG"><br>昼の月<img src="img/IMG_2025-11-11-DSC_0003.JPG"><br>三日月の光芒@真上@夜明け前<img src="img/IMG_2025-11-14-DSC_0003.JPG"><br>出先<img src="img/IMG_2025-11-18-DSC_0004.JPG"></td>
-            <td>午前<img src="img/IMG_2025-11-21-DSC_0001.JPG"><img src="img/IMG_2025-11-22-DSC_0004.JPG"><img src="img/IMG_2025-11-23-DSC_0004.JPG"><img src="img/IMG_2025-11-23-DSC_0009.JPG"><img src="img/IMG_2025-11-24-DSC_0001.JPG"><img src="img/IMG_2025-11-25-DSC_0002.JPG"><img src="img/IMG_2025-11-26-DSC_0001.JPG"></td>
+            <td>午前<img src="img/IMG_2025-11-21-DSC_0001.JPG"><img src="img/IMG_2025-11-22-DSC_0004.JPG"><img src="img/IMG_2025-11-23-DSC_0004.JPG"><img src="img/IMG_2025-11-23-DSC_0009.JPG"><img src="img/IMG_2025-11-24-DSC_0001.JPG"><img src="img/IMG_2025-11-25-DSC_0002.JPG"><img src="img/IMG_2025-11-26-DSC_0001.JPG"><img src="img/IMG_2025-11-27-DSC_0001.JPG"></td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -222,7 +222,7 @@
       <td>　</td><td>　</td><td><img src="img/IMG_2025-08-28-DSC_0047.JPG"></td>
         <td><img src="img/IMG_2025-09-06-DSC_0010.JPG"></td><td>　</td><td>枝<img src="img/IMG_2025-09-22-DSC_0011.JPG"></td>
           <td>枝<img src="img/IMG_2025-10-02-DSC_0012.JPG"><img src="img/IMG_2025-10-02-DSC_0016.JPG"><img src="img/IMG_2025-10-02-DSC_0015.JPG"><br>□<img src="img/IMG_2025-10-03-DSC_0015.JPG"></td><td>枝<br>肥<img src="img/IMG_2025-10-11-DSC_0012.JPG"><img src="img/IMG_2025-10-11-DSC_0013.JPG"></td><td>　</td>
-            <td>■<img src="img/IMG_2025-11-09-DSC_0002.JPG"></td><td>■<img src="img/IMG_2025-11-12-DSC_0002.JPG"><br>■<img src="img/IMG_2025-11-16-DSC_0003.JPG"><br>■<img src="img/IMG_2025-11-17-DSC_0007.JPG"></td><td>■2<br>枝<img src="img/IMG_2025-11-24-DSC_0002.JPG"></td>
+            <td>■<img src="img/IMG_2025-11-09-DSC_0002.JPG"></td><td>■<img src="img/IMG_2025-11-12-DSC_0002.JPG"><br>■<img src="img/IMG_2025-11-16-DSC_0003.JPG"><br>■<img src="img/IMG_2025-11-17-DSC_0007.JPG"></td><td>■2<br>枝<img src="img/IMG_2025-11-24-DSC_0002.JPG"><br>■</td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -302,7 +302,7 @@
       <td>　</td><td>草2<img src="img/IMG_2025-08-19-DSC_0009.JPG"><br>■2<img src="img/IMG_2025-08-20-DSC_0008.JPG"></td><td>■<img src="img/IMG_2025-08-28-DSC_0054.JPG"><br>■<img src="img/IMG_2025-08-29-DSC_0013.JPG"></td>
         <td>　</td><td>　</td><td>■<img src="img/IMG_2025-09-22-DSC_0004.JPG"></td>
           <td>■2<img src="img/IMG_2025-10-05-DSC_0011.JPG"></td><td>　</td><td><img src="img/IMG_2025-10-26-DSC_0002.JPG"><img src="img/IMG_2025-10-27-DSC_0004.JPG"><br>移<img src="img/IMG_2025-10-27-DSC_0011.JPG"><img src="img/IMG_2025-10-27-DSC_0012.JPG"></td>
-            <td>水<img src="img/IMG_2025-11-01-DSC_0007.JPG"><img src="img/IMG_2025-11-03-DSC_0006.JPG"><img src="img/IMG_2025-11-06-DSC_0005.JPG"><br><img src="img/IMG_2025-11-06-DSC_0003.JPG"></td><td><img src="img/IMG_2025-11-17-DSC_0002.JPG"></td><td>　</td>
+            <td>水<img src="img/IMG_2025-11-01-DSC_0007.JPG"><img src="img/IMG_2025-11-03-DSC_0006.JPG"><img src="img/IMG_2025-11-06-DSC_0005.JPG"><br><img src="img/IMG_2025-11-06-DSC_0003.JPG"></td><td><img src="img/IMG_2025-11-17-DSC_0002.JPG"></td><td><img src="img/IMG_2025-11-27-DSC_0003.JPG"></td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
@@ -682,7 +682,7 @@
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>土<br>灰<br>込<br>耕</td><td>肥<br>込<img src="img/IMG_2025-10-12-DSC_0002.JPG"><br>畝<img src="img/IMG_2025-10-15-DSC_0003.JPG"><br>植<img src="img/IMG_2025-10-15-DSC_0010.JPG"><img src="img/IMG_2025-10-15-DSC_0014.JPG"><img src="img/IMG_2025-10-15-DSC_0015.JPG"><img src="img/IMG_2025-10-15-DSC_0017.JPG"><br>水<img src="img/IMG_2025-10-18-DSC_0006.JPG"></td><td>着<img src="img/IMG_2025-10-22-DSC_0002.JPG"></td>
-            <td><img src="img/IMG_2025-11-06-DSC_0004.JPG"></td><td><img src="img/IMG_2025-11-17-DSC_0003.JPG"></td><td>　</td>
+            <td><img src="img/IMG_2025-11-06-DSC_0004.JPG"></td><td><img src="img/IMG_2025-11-17-DSC_0003.JPG"></td><td><img src="img/IMG_2025-11-27-DSC_0002.JPG"></td>
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
