@@ -612,7 +612,7 @@
     <th></th>
     <th>SW</th>
     <th>点</th>
-    <th>13*2*1</th>
+    <th>13*2*(1+1)</th>
     <th>きゅうりの次<br>マルチ維持</th>
     <td>　</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -625,7 +625,7 @@
         <td>　</td><td>耕<br>種<img src="img/IMG_2025-09-16-DSC_0009.JPG"><br>○<img src="img/IMG_2025-09-19-DSC_0004.JPG"></td><td>○<img src="img/IMG_2025-09-21-DSC_0011.JPG"><br>補<img src="img/IMG_2025-09-23-DSC_0007.JPG"><br>籾<img src="img/IMG_2025-09-28-DSC_0002.JPG"></td>
           <td><img src="img/IMG_2025-10-03-DSC_0020.JPG"></td><td><img src="img/IMG_2025-10-14-DSC_0007.JPG"></td><td><img src="img/IMG_2025-10-29-DSC_0004.JPG"></td>
             <td>　</td><td>■<img src="img/IMG_2025-11-11-DSC_0005.JPG"><br>■2<img src="img/IMG_2025-11-15-DSC_0003.JPG"><img src="img/IMG_2025-11-15-DSC_0005.JPG"><br>■2<img src="img/IMG_2025-11-19-DSC_0002.JPG"></td><td>■<img src="img/IMG_2025-11-21-DSC_0002.JPG"><br>■<img src="img/IMG_2025-11-23-DSC_0007.JPG"><br>■<img src="img/IMG_2025-11-26-DSC_0002.JPG"><br>■</td>
-              <td>■2<img src="img/IMG_2025-12-08-DSC_0004.JPG"><br>■<img src="img/IMG_2025-12-10-DSC_0001.JPG"></td><td>　</td><td>　</td>
+              <td>■2<img src="img/IMG_2025-12-08-DSC_0004.JPG"><br>■<img src="img/IMG_2025-12-10-DSC_0001.JPG"></td><td>種</td><td>　</td>
   </tr>
   <tr>
     <th>大根</th>
