@@ -57,7 +57,7 @@
             <td>午前<img src="img/IMG_2025-11-21-DSC_0001.JPG"><img src="img/IMG_2025-11-22-DSC_0004.JPG"><img src="img/IMG_2025-11-23-DSC_0004.JPG"><img src="img/IMG_2025-11-23-DSC_0009.JPG"><img src="img/IMG_2025-11-24-DSC_0001.JPG"><img src="img/IMG_2025-11-25-DSC_0002.JPG"><img src="img/IMG_2025-11-26-DSC_0001.JPG"><img src="img/IMG_2025-11-27-DSC_0001.JPG"><img src="img/IMG_2025-11-28-DSC_0002.JPG"><img src="img/IMG_2025-11-29-DSC_0001.JPG"><img src="img/IMG_2025-11-30-DSC_0001.JPG"></td>
               <td>午前<img src="img/IMG_2025-12-01-DSC_0002.JPG"><img src="img/IMG_2025-12-02-DSC_0005.JPG"><img src="img/IMG_2025-12-03-DSC_0003.JPG"><img src="img/IMG_2025-12-04-DSC_0001.JPG"><img src="img/IMG_2025-12-05-DSC_0001.JPG"><img src="img/IMG_2025-12-06-DSC_0004.JPG"><img src="img/IMG_2025-12-07-DSC_0001.JPG"><img src="img/IMG_2025-12-08-DSC_0001.JPG"><img src="img/IMG_2025-12-09-DSC_0002.JPG"><img src="img/IMG_2025-12-10-DSC_0003.JPG"><br>東の満月<img src="img/IMG_2025-12-06-DSC_0002.JPG"></td>
               <td>午前<img src="img/IMG_2025-12-11-DSC_0001.JPG"><img src="img/IMG_2025-12-12-DSC_0001.JPG"><img src="img/IMG_2025-12-13-DSC_0003.JPG"><img src="img/IMG_2025-12-14-DSC_0001.JPG">フレア<img src="img/IMG_2025-12-15-DSC_0002.JPG">ゴースト<img src="img/IMG_2025-12-16-DSC_0001.JPG">薄明光線<img src="img/IMG_2025-12-17-DSC_0002.JPG"><img src="img/IMG_2025-12-18-DSC_0001.JPG">tg<img src="img/IMG_2025-12-19-DSC_0004.JPG"><img src="img/IMG_2025-12-20-DSC_0001.JPG"></td>
-              <td>午前<img src="img/IMG_2025-12-21-DSC_0001.JPG"></td>
+              <td>午前<img src="img/IMG_2025-12-21-DSC_0001.JPG"><br>冬至<img src="img/IMG_2025-12-22-DSC_0003.JPG"><img src="img/IMG_2025-12-22-DSC_0006.JPG"></td>
   </tr>
   <tr>
     <th></th>
@@ -685,7 +685,7 @@
         <td>　</td><td>　</td><td>耕<img src="img/IMG_2025-09-28-DSC_0008.JPG"><img src="img/IMG_2025-09-29-DSC_0002.JPG"></td>
           <td>土<br>灰<br>込<br>耕</td><td>　</td><td>耕<img src="img/IMG_2025-10-30-DSC_0014.JPG"></td>
             <td><img src="img/IMG_2025-12-04-DSC_0004.JPG"></td><td>　</td><td><img src="img/IMG_2025-11-28-DSC_0008.JPG"></td>
-              <td>　</td><td>耕</td><td>　</td>
+              <td>　</td><td>耕</td><td>耕</td>
   </tr>
   <tr>
     <th>玉葱</th>
@@ -725,7 +725,7 @@
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td><br>乾<img src="img/IMG_2025-10-13-DSC_0008.JPG"><br>込<br>乾<img src="img/IMG_2025-10-15-DSC_0018.JPG"></td><td>土<br>耕<img src="img/IMG_2025-10-30-DSC_0012.JPG"></td>
             <td><img src="img/IMG_2025-11-01-DSC_0006.JPG"></td><td>　</td><td><img src="img/IMG_2025-11-28-DSC_0006.JPG"></td>
-              <td><img src="img/IMG_2025-12-04-DSC_0005.JPG"></td><td>耕2<img src="img/IMG_2025-12-12-DSC_0002.JPG"></td><td>　</td>
+              <td><img src="img/IMG_2025-12-04-DSC_0005.JPG"></td><td>耕2<img src="img/IMG_2025-12-12-DSC_0002.JPG"></td><td>耕</td>
   </tr>
   <tr>
     <th><del>人参</del></th>
