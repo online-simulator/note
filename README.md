@@ -38,7 +38,7 @@
     <th></th>
     <th></th>
     <th>空</th>
-    <td>午前<img src="img/IMG_2026-01-01-DSC_0003.JPG"><img src="img/IMG_2026-01-02-DSC_0002.JPG"></td>
+    <td>午前<img src="img/IMG_2026-01-01-DSC_0003.JPG"><img src="img/IMG_2026-01-02-DSC_0002.JPG"><img src="img/IMG_2026-01-03-DSC_0004.JPG"><br>雪<img src="img/IMG_2026-01-03-DSC_0002.JPG"></td>
     <td>　</td>
     <td>　</td>
       <td>　</td><td>　</td><td>　</td>
