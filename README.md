@@ -38,7 +38,7 @@
     <th></th>
     <th></th>
     <th>空</th>
-    <td>午前<img src="img/IMG_2026-01-01-DSC_0003.JPG"><img src="img/IMG_2026-01-02-DSC_0002.JPG"><img src="img/IMG_2026-01-03-DSC_0004.JPG"><img src="img/IMG_2026-01-04-DSC_0001.JPG"><img src="img/IMG_2026-01-05-DSC_0002.JPG"><br>雪<img src="img/IMG_2026-01-03-DSC_0002.JPG"></td>
+    <td>午前<img src="img/IMG_2026-01-01-DSC_0003.JPG"><img src="img/IMG_2026-01-02-DSC_0002.JPG"><img src="img/IMG_2026-01-03-DSC_0004.JPG"><img src="img/IMG_2026-01-04-DSC_0001.JPG"><img src="img/IMG_2026-01-05-DSC_0002.JPG"><img src="img/IMG_2026-01-06-DSC_0001.JPG"><br>雪<img src="img/IMG_2026-01-03-DSC_0002.JPG"></td>
     <td>　</td>
     <td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -100,9 +100,29 @@
     <th></th>
     <th>SW</th>
     <th>点</th>
-    <th>20*2*2</th>
+    <th>13*2*(1+1)</th>
+    <th>きゅうりの次<br>マルチ維持</th>
+    <td>■<img src="img/IMG_2026-01-06-DSC_0002.JPG"></td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th>大根</th>
     <th></th>
-    <td>■<img src="img/IMG_2026-01-01-DSC_0004.JPG"><img src="img/IMG_2026-01-01-DSC_0005.JPG"><br>■<img src="img/IMG_2026-01-04-DSC_0002.JPG"></td><td>　</td><td>　</td>
+    <th>SW</th>
+    <th>点</th>
+    <th>20*2*2</th>
+    <th>葉物とコーンの次<br>補充△<br>約2月で収穫<br>秋彩</th>
+    <td>■<img src="img/IMG_2026-01-01-DSC_0004.JPG"><img src="img/IMG_2026-01-01-DSC_0005.JPG"><br>■<img src="img/IMG_2026-01-04-DSC_0002.JPG"><br>■</td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
