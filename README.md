@@ -38,7 +38,7 @@
     <th></th>
     <th></th>
     <th>空</th>
-    <td>午前<img src="img/IMG_2026-01-01-DSC_0003.JPG"><img src="img/IMG_2026-01-02-DSC_0002.JPG"><img src="img/IMG_2026-01-03-DSC_0004.JPG"><img src="img/IMG_2026-01-04-DSC_0001.JPG"><br>雪<img src="img/IMG_2026-01-03-DSC_0002.JPG"></td>
+    <td>午前<img src="img/IMG_2026-01-01-DSC_0003.JPG"><img src="img/IMG_2026-01-02-DSC_0002.JPG"><img src="img/IMG_2026-01-03-DSC_0004.JPG"><img src="img/IMG_2026-01-04-DSC_0001.JPG"><img src="img/IMG_2026-01-05-DSC_0002.JPG"><br>雪<img src="img/IMG_2026-01-03-DSC_0002.JPG"></td>
     <td>　</td>
     <td>　</td>
       <td>　</td><td>　</td><td>　</td>
@@ -63,6 +63,26 @@
     <th>1+2+1</th>
     <th></th>
     <td><img src="img/IMG_2026-01-01-DSC_0001.JPG"></td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
+    <th><del>ジャガイモ</del></th>
+    <th></th>
+    <th>NE</th>
+    <th>種芋（芽あり）</th>
+    <th>10*1*3</th>
+    <th>3本芽残し<br>手で芽を引く</th>
+    <td><img src="img/IMG_2026-01-05-DSC_0001.JPG"></td><td>　</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
