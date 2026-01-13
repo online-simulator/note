@@ -39,7 +39,7 @@
     <th></th>
     <th>空</th>
     <td>午前<img src="img/IMG_2026-01-01-DSC_0003.JPG"><img src="img/IMG_2026-01-02-DSC_0002.JPG"><img src="img/IMG_2026-01-03-DSC_0004.JPG"><img src="img/IMG_2026-01-04-DSC_0001.JPG"><img src="img/IMG_2026-01-05-DSC_0002.JPG"><img src="img/IMG_2026-01-06-DSC_0001.JPG"><img src="img/IMG_2026-01-07-DSC_0001.JPG"><img src="img/IMG_2026-01-08-DSC_0001.JPG"><img src="img/IMG_2026-01-09-DSC_0001.JPG"><img src="img/IMG_2026-01-10-DSC_0001.JPG"><br>雪<img src="img/IMG_2026-01-03-DSC_0002.JPG"></td>
-    <td>午前<img src="img/IMG_2026-01-11-DSC_0001.JPG"></td>
+    <td>午前<img src="img/IMG_2026-01-11-DSC_0001.JPG"><img src="img/IMG_2026-01-12-DSC_0001.JPG"></td>
     <td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
