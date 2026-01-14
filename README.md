@@ -102,7 +102,7 @@
     <th></th>
     <th>1</th>
     <th>土着まで水やり</th>
-    <td>植<img src="img/IMG_2026-01-10-DSC_0003.JPG"></td><td>　</td><td>　</td>
+    <td>植<img src="img/IMG_2026-01-10-DSC_0003.JPG"></td><td>寄</td><td>　</td>
       <td>　</td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
