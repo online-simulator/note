@@ -41,7 +41,7 @@
     <td>午前<img src="img/IMG_2026-01-01-DSC_0003.JPG"><img src="img/IMG_2026-01-02-DSC_0002.JPG"><img src="img/IMG_2026-01-03-DSC_0004.JPG"><img src="img/IMG_2026-01-04-DSC_0001.JPG"><img src="img/IMG_2026-01-05-DSC_0002.JPG"><img src="img/IMG_2026-01-06-DSC_0001.JPG"><img src="img/IMG_2026-01-07-DSC_0001.JPG"><img src="img/IMG_2026-01-08-DSC_0001.JPG"><img src="img/IMG_2026-01-09-DSC_0001.JPG"><img src="img/IMG_2026-01-10-DSC_0001.JPG"><br>雪<img src="img/IMG_2026-01-03-DSC_0002.JPG"></td>
     <td>午前<img src="img/IMG_2026-01-11-DSC_0001.JPG"><img src="img/IMG_2026-01-12-DSC_0001.JPG"><img src="img/IMG_2026-01-13-DSC_0002.JPG"><img src="img/IMG_2026-01-14-DSC_0001.JPG"><img src="img/IMG_2026-01-15-DSC_0001.JPG"><img src="img/IMG_2026-01-16-DSC_0001.JPG"><img src="img/IMG_2026-01-17-DSC_0001.JPG"><img src="img/IMG_2026-01-18-DSC_0002.JPG"><img src="img/IMG_2026-01-19-DSC_0001.JPG"><img src="img/IMG_2026-01-20-DSC_0001.JPG"></td>
     <td>午前<img src="img/IMG_2026-01-21-DSC_0001.JPG"><img src="img/IMG_2026-01-22-DSC_0001.JPG"><img src="img/IMG_2026-01-23-DSC_0003.JPG"><img src="img/IMG_2026-01-24-DSC_0001.JPG"><img src="img/IMG_2026-01-25-DSC_0001.JPG"><img src="img/IMG_2026-01-26-DSC_0001.JPG"><img src="img/IMG_2026-01-27-DSC_0002.JPG"><img src="img/IMG_2026-01-28-DSC_0001.JPG"><img src="img/IMG_2026-01-29-DSC_0002.JPG"><img src="img/IMG_2026-01-30-DSC_0002.JPG"><img src="img/IMG_2026-01-31-DSC_0001.JPG"></td>
-      <td>午前<img src="img/IMG_2026-02-01-DSC_0001.JPG"><img src="img/IMG_2026-02-02-DSC_0001.JPG"><img src="img/IMG_2026-02-03-DSC_0001.JPG"><img src="img/IMG_2026-02-04-DSC_0001.JPG"><img src="img/IMG_2026-02-05-DSC_0001.JPG"><img src="img/IMG_2026-02-06-DSC_0003.JPG"><img src="img/IMG_2026-02-07-DSC_0003.JPG"><img src="img/IMG_2026-02-08-DSC_0005.JPG"></td>
+      <td>午前<img src="img/IMG_2026-02-01-DSC_0001.JPG"><img src="img/IMG_2026-02-02-DSC_0001.JPG"><img src="img/IMG_2026-02-03-DSC_0001.JPG"><img src="img/IMG_2026-02-04-DSC_0001.JPG"><img src="img/IMG_2026-02-05-DSC_0001.JPG"><img src="img/IMG_2026-02-06-DSC_0003.JPG"><img src="img/IMG_2026-02-07-DSC_0003.JPG"><img src="img/IMG_2026-02-08-DSC_0005.JPG"><img src="img/IMG_2026-02-09-DSC_0001.JPG"></td>
       <td>　</td>
       <td>　</td>
         <td>　</td><td>　</td><td>　</td>
@@ -185,7 +185,7 @@
     <th></th>
     <th>じゃがいも用</th>
     <td>　</td><td>肥<br>土</td><td><img src="img/IMG_2026-01-21-DSC_0002.JPG"><br>堆<img src="img/IMG_2026-01-22-DSC_0002.JPG"><br>肥<br>耕<img src="img/IMG_2026-01-28-DSC_0004.JPG"><br>灰<img src="img/IMG_2026-01-29-DSC_0003.JPG"></td>
-      <td>　</td><td>　</td><td>　</td>
+      <td>雪<img src="img/IMG_2026-02-09-DSC_0002.JPG"></td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -225,7 +225,7 @@
     <th>13*2*(1+1)</th>
     <th>きゅうりの次<br>マルチ維持</th>
     <td>■<img src="img/IMG_2026-01-06-DSC_0002.JPG"></td><td>■<img src="img/IMG_2026-01-11-DSC_0002.JPG"><br>■<img src="img/IMG_2026-01-19-DSC_0002.JPG"><br>■<img src="img/IMG_2026-01-20-DSC_0003.JPG"></td><td>■<img src="img/IMG_2026-01-27-DSC_0003.JPG"><br>■<img src="img/IMG_2026-01-30-DSC_0003.JPG"><br>■<img src="img/IMG_2026-01-31-DSC_0002.JPG"></td>
-      <td>　</td><td>　</td><td>　</td>
+      <td>■<img src="img/IMG_2026-02-09-DSC_0003.JPG"></td><td>　</td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
