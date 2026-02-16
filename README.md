@@ -223,7 +223,7 @@
     <th>CC</th>
     <th></th>
     <th></th>
-    <th>じゃがいも用</th>
+    <th>じゃがいも用<br>男爵<br>メークイン</th>
     <td>　</td><td>肥<br>土</td><td><img src="img/IMG_2026-01-21-DSC_0002.JPG"><br>堆<img src="img/IMG_2026-01-22-DSC_0002.JPG"><br>肥<br>耕<img src="img/IMG_2026-01-28-DSC_0004.JPG"><br>灰<img src="img/IMG_2026-01-29-DSC_0003.JPG"></td>
       <td>雪<img src="img/IMG_2026-02-09-DSC_0002.JPG"></td><td>耕<br>畝<img src="img/IMG_2026-02-16-DSC_0004.JPG"></td><td>　</td>
         <td>　</td><td>　</td><td>　</td>
