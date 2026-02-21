@@ -43,7 +43,7 @@
     <td>午前<img src="img/IMG_2026-01-21-DSC_0001.JPG"><img src="img/IMG_2026-01-22-DSC_0001.JPG"><img src="img/IMG_2026-01-23-DSC_0003.JPG"><img src="img/IMG_2026-01-24-DSC_0001.JPG"><img src="img/IMG_2026-01-25-DSC_0001.JPG"><img src="img/IMG_2026-01-26-DSC_0001.JPG"><img src="img/IMG_2026-01-27-DSC_0002.JPG"><img src="img/IMG_2026-01-28-DSC_0001.JPG"><img src="img/IMG_2026-01-29-DSC_0002.JPG"><img src="img/IMG_2026-01-30-DSC_0002.JPG"><img src="img/IMG_2026-01-31-DSC_0001.JPG"></td>
       <td>午前<img src="img/IMG_2026-02-01-DSC_0001.JPG"><img src="img/IMG_2026-02-02-DSC_0001.JPG"><img src="img/IMG_2026-02-03-DSC_0001.JPG"><img src="img/IMG_2026-02-04-DSC_0001.JPG"><img src="img/IMG_2026-02-05-DSC_0001.JPG"><img src="img/IMG_2026-02-06-DSC_0003.JPG"><img src="img/IMG_2026-02-07-DSC_0003.JPG"><img src="img/IMG_2026-02-08-DSC_0005.JPG"><img src="img/IMG_2026-02-09-DSC_0001.JPG"><img src="img/IMG_2026-02-10-DSC_0001.JPG"></td>
       <td>午前<img src="img/IMG_2026-02-11-DSC_0001.JPG"><img src="img/IMG_2026-02-12-DSC_0001.JPG"><img src="img/IMG_2026-02-13-DSC_0001.JPG"><img src="img/IMG_2026-02-14-DSC_0001.JPG"><img src="img/IMG_2026-02-16-DSC_0003.JPG"><img src="img/IMG_2026-02-17-DSC_0001.JPG"><img src="img/IMG_2026-02-18-DSC_0002.JPG"><img src="img/IMG_2026-02-20-DSC_0001.JPG"><br>午後<img src="img/IMG_2026-02-15-DSC_0001.JPG"><img src="img/IMG_2026-02-19-DSC_0002.JPG"></td>
-      <td>　</td>
+      <td>午前<img src="img/IMG_2026-02-21-DSC_0001.JPG"></td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
@@ -178,6 +178,26 @@
               <td>　</td><td>　</td><td>　</td>
   </tr>
   <tr>
+    <th>キャベツ<br>レタス<br>えんどう</th>
+    <th></th>
+    <th>E</th>
+    <th>苗</th>
+    <th>5*1*1<br>10*1*1<br>6*1*1</th>
+    <th></th>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>植<img src="img/IMG_2026-02-21-DSC_0005.JPG"><img src="img/IMG_2026-02-21-DSC_0004.JPG"></td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+    <td>　</td><td>　</td><td>　</td>
+      <td>　</td><td>　</td><td>　</td>
+        <td>　</td><td>　</td><td>　</td>
+          <td>　</td><td>　</td><td>　</td>
+            <td>　</td><td>　</td><td>　</td>
+              <td>　</td><td>　</td><td>　</td>
+  </tr>
+  <tr>
     <th></th>
     <th></th>
     <th>NW</th>
@@ -221,11 +241,11 @@
     <th></th>
     <th></th>
     <th>CC</th>
-    <th></th>
-    <th></th>
+    <th>種芋</th>
+    <th>9*1*6</th>
     <th>じゃがいも用<br>メークイン<br>男爵</th>
     <td>　</td><td>肥<br>土</td><td><img src="img/IMG_2026-01-21-DSC_0002.JPG"><br>堆<img src="img/IMG_2026-01-22-DSC_0002.JPG"><br>肥<br>耕<img src="img/IMG_2026-01-28-DSC_0004.JPG"><br>灰<img src="img/IMG_2026-01-29-DSC_0003.JPG"></td>
-      <td>雪<img src="img/IMG_2026-02-09-DSC_0002.JPG"></td><td>耕<br>畝<img src="img/IMG_2026-02-16-DSC_0004.JPG"><img src="img/IMG_2026-02-17-DSC_0002.JPG"><br>出<img src="img/IMG_2026-02-19-DSC_0003.JPG"></td><td>　</td>
+      <td>雪<img src="img/IMG_2026-02-09-DSC_0002.JPG"></td><td>耕<br>畝<img src="img/IMG_2026-02-16-DSC_0004.JPG"><img src="img/IMG_2026-02-17-DSC_0002.JPG"><br>出<img src="img/IMG_2026-02-19-DSC_0003.JPG"></td><td>植<img src="img/IMG_2026-02-21-DSC_0003.JPG"></td>
         <td>　</td><td>　</td><td>　</td>
           <td>　</td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
