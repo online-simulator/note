@@ -47,7 +47,7 @@
         <td>午前<img src="img/IMG_2026-03-01-DSC_0001.JPG"><img src="img/IMG_2026-03-02-DSC_0001.JPG"><img src="img/IMG_2026-03-04-DSC_0002.JPG"><img src="img/IMG_2026-03-05-DSC_0001.JPG"><img src="img/IMG_2026-03-06-DSC_0001.JPG"><img src="img/IMG_2026-03-09-DSC_0002.JPG"><br>午後<img src="img/IMG_2026-03-03-DSC_0001.JPG"><img src="img/IMG_2026-03-07-DSC_0002.JPG"><img src="img/IMG_2026-03-08-DSC_0001.JPG"><img src="img/IMG_2026-03-10-DSC_0001.JPG"></td>
         <td>午前<img src="img/IMG_2026-03-12-DSC_0001.JPG"><img src="img/IMG_2026-03-13-DSC_0001.JPG"><img src="img/IMG_2026-03-14-DSC_0001.JPG"><img src="img/IMG_2026-03-16-DSC_0001.JPG"><img src="img/IMG_2026-03-17-DSC_0003.JPG"><img src="img/IMG_2026-03-18-DSC_0001.JPG"><img src="img/IMG_2026-03-19-DSC_0001.JPG"><img src="img/IMG_2026-03-20-DSC_0001.JPG"><br>午後<img src="img/IMG_2026-03-11-DSC_0001.JPG"><img src="img/IMG_2026-03-15-DSC_0001.JPG"></td>
         <td>午前<img src="img/IMG_2026-03-22-DSC_0001.JPG"><img src="img/IMG_2026-03-23-DSC_0001.JPG"><img src="img/IMG_2026-03-24-DSC_0001.JPG"><img src="img/IMG_2026-03-25-DSC_0002.JPG"><img src="img/IMG_2026-03-29-DSC_0002.JPG"><img src="img/IMG_2026-03-31-DSC_0001.JPG"><br>午後<img src="img/IMG_2026-03-21-DSC_0001.JPG"><img src="img/IMG_2026-03-26-DSC_0001.JPG"><img src="img/IMG_2026-03-27-DSC_0002.JPG"><img src="img/IMG_2026-03-28-DSC_0001.JPG"><img src="img/IMG_2026-03-30-DSC_0001.JPG"></td>
-          <td>午前<img src="img/IMG_2026-04-01-DSC_0001.JPG"><img src="img/IMG_2026-04-03-DSC_0001.JPG"><br>午後<img src="img/IMG_2026-04-02-DSC_0002.JPG"></td><td>　</td><td>　</td>
+          <td>午前<img src="img/IMG_2026-04-01-DSC_0001.JPG"><img src="img/IMG_2026-04-03-DSC_0001.JPG"><img src="img/IMG_2026-04-04-DSC_0001.JPG"><br>午後<img src="img/IMG_2026-04-02-DSC_0002.JPG"></td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
@@ -289,7 +289,7 @@
     <td>　</td><td>肥<br>土</td><td><img src="img/IMG_2026-01-21-DSC_0002.JPG"><br>堆<img src="img/IMG_2026-01-22-DSC_0002.JPG"><br>肥<br>耕<img src="img/IMG_2026-01-28-DSC_0004.JPG"><br>灰<img src="img/IMG_2026-01-29-DSC_0003.JPG"></td>
       <td>雪<img src="img/IMG_2026-02-09-DSC_0002.JPG"></td><td>耕<br>畝<img src="img/IMG_2026-02-16-DSC_0004.JPG"><img src="img/IMG_2026-02-17-DSC_0002.JPG"><br>出<img src="img/IMG_2026-02-19-DSC_0003.JPG"></td><td>植<img src="img/IMG_2026-02-21-DSC_0003.JPG"></td>
         <td>　</td><td>　</td><td>○<img src="img/IMG_2026-03-22-DSC_0002.JPG"></td>
-          <td>　</td><td>　</td><td>　</td>
+          <td><img src="img/IMG_2026-04-04-DSC_0002.JPG"></td><td>　</td><td>　</td>
             <td>　</td><td>　</td><td>　</td>
               <td>　</td><td>　</td><td>　</td>
     <td>　</td><td>　</td><td>　</td>
